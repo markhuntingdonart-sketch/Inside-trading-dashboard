@@ -89,6 +89,33 @@ def parse_form4(raw, ticker, accession, filed, url):
         })
     return result
 
+def retrieve_ownership_xml(base, document):
+    """Try primary filing, then SEC archive index for raw ownership XML."""
+    primary = base + "/" + document
+    raw = get(primary)
+    if raw and b"<ownershipDocument" in raw[:1000]:
+        return raw, primary
+    index = get(base + "/index.json")
+    if not index:
+        return None, primary
+    try:
+        entries = json.loads(index)["directory"]["item"]
+    except (KeyError, ValueError, TypeError):
+        return None, primary
+    candidates = []
+    for entry in entries:
+        name = entry.get("name", "")
+        if name.lower().endswith(".xml") and "xsl" not in name.lower():
+            candidates.append(name)
+    candidates.sort(key=lambda name: (0 if "ownership" in name.lower() else 1, name))
+    for name in candidates[:5]:
+        url = base + "/" + urllib.parse.quote(name, safe="/")
+        body = get(url)
+        if body and b"<ownershipDocument" in body[:1000]:
+            return body, url
+        time.sleep(0.12)
+    return None, primary
+
 def sec_transactions(tickers):
     mapping_raw = get("https://www.sec.gov/files/company_tickers.json")
     if not mapping_raw:
