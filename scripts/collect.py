@@ -61,6 +61,9 @@ def parse_form4(raw, ticker, accession, filed, url):
     owner_names = [text(o, "reportingOwnerId/rptOwnerName") for o in owners]
     name = "; ".join(n for n in owner_names if n) or "Unknown"
     role = "; ".join(dict.fromkeys(roles(o) for o in owners))
+    all_notes = {n.attrib.get("id"): " ".join("".join(n.itertext()).split()) for n in root.findall(".//footnotes/footnote")}
+    plan_raw = text(root, "aff10b5One")
+    plan_flag = True if plan_raw == "1" else False if plan_raw == "0" else None
     result = []
     for i, txn in enumerate(root.findall(".//nonDerivativeTransaction")):
         code = text(txn, "transactionCoding/transactionCode")
@@ -74,6 +77,8 @@ def parse_form4(raw, ticker, accession, filed, url):
         trade_date = text(txn, "transactionDate/value")
         if not trade_date:
             continue
+        ids = list(dict.fromkeys(n.attrib.get("id") for n in txn.findall(".//footnoteId") if n.attrib.get("id")))
+        notes = [{"id": key, "text": all_notes[key]} for key in ids if key in all_notes]
         result.append({
             "id": accession + "-" + str(i),
             "ticker": ticker,
@@ -86,6 +91,8 @@ def parse_form4(raw, ticker, accession, filed, url):
             "transaction_date": trade_date,
             "filed_at": filed,
             "filing_url": url,
+            "footnotes": notes,
+            "plan_10b5_1": plan_flag,
         })
     return result
 
