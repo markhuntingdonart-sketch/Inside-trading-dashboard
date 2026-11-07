@@ -1,0 +1,25 @@
+name: Refresh insider data
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 8 * * *'
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect filings and prices
+        env:
+          SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
+        run: python scripts/collect.py
+      - name: Commit refreshed dataset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/dashboard.json
+          git diff --cached --quiet || (git commit -m "Refresh insider transactions" && git push)
