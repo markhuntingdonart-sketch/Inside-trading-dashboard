@@ -119,10 +119,13 @@ def retrieve_ownership_xml(base, document):
 def sec_transactions(tickers):
     mapping_raw = get("https://www.sec.gov/files/company_tickers.json")
     if not mapping_raw:
-        return []
+        raise RuntimeError("SEC company ticker mapping unavailable")
     mapping = {row["ticker"].upper(): row["cik_str"] for row in json.loads(mapping_raw).values()}
     cutoff = (dt.date.today() - dt.timedelta(days=100)).isoformat()
     output = []
+    xml_found = 0
+    missing_xml = 0
+    checked = 0
     for ticker in tickers:
         cik = mapping.get(ticker)
         if not cik:
@@ -130,11 +133,13 @@ def sec_transactions(tickers):
             continue
         raw = get(f"https://data.sec.gov/submissions/CIK{cik:010d}.json")
         if not raw:
+            print("WARNING: Missing SEC submissions for", ticker)
             continue
         recent = json.loads(raw).get("filings", {}).get("recent", {})
         filings = zip(recent.get("form", []), recent.get("accessionNumber", []),
                       recent.get("filingDate", []), recent.get("primaryDocument", []))
         count = 0
+        ticker_transactions = 0
         for form, accession, filed, document in filings:
             if filed < cutoff:
                 break
@@ -143,18 +148,25 @@ def sec_transactions(tickers):
             if count >= 60:
                 break
             count += 1
+            checked += 1
             acc_clean = accession.replace("-", "")
             base = f"https://www.sec.gov/Archives/edgar/data/{cik}/{acc_clean}"
-            index_url = f"{base}/{document}"
-            filing = get(index_url)
+            filing, filing_url = retrieve_ownership_xml(base, document)
             time.sleep(0.16)
             if not filing:
+                missing_xml += 1
+                if missing_xml <= 5:
+                    print("WARNING: No ownership XML for", ticker, accession, document)
                 continue
-            # The primary document is normally the ownership XML. Some issuers
-            # use an HTML primary document; skip those rather than invent data.
-            output.extend(parse_form4(filing, ticker, accession, filed, index_url))
-        print(ticker, count, "filings checked")
+            xml_found += 1
+            found = parse_form4(filing, ticker, accession, filed, filing_url)
+            ticker_transactions += len(found)
+            output.extend(found)
+        print(ticker, count, "filings checked,", ticker_transactions, "P/S transactions parsed")
         time.sleep(0.2)
+    print("Ownership XML documents found:", xml_found, "missing:", missing_xml)
+    if checked and xml_found == 0:
+        raise RuntimeError("No SEC ownership XML documents retrieved; refusing empty insider dataset")
     return output
 
 def prices(tickers):
