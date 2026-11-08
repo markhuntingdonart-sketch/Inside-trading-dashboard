@@ -19,3 +19,17 @@ main{max-width:1640px}
 
 /* Match the two primary analysis cards in height on desktop. */
 @media(min-width:701px){.analysis-layout{align-items:stretch}.analysis-layout>.trading-column,.analysis-layout>.trend-column{align-self:stretch}.analysis-layout>.trading-column>.panel,.analysis-layout>.trend-column>.panel{height:100%}.analysis-layout>.trend-column{position:static}}
+
+/* Scroll transactions independently while both cards match the chart height. */
+@media(min-width:701px){
+ .analysis-layout{align-items:stretch;grid-template-rows:auto}
+ .analysis-layout>.trading-column{position:relative;min-height:0;min-width:0;align-self:stretch}
+ .analysis-layout>.trading-column>.panel{position:absolute;inset:0;height:auto;display:flex;flex-direction:column;min-height:0;overflow:hidden}
+ .analysis-layout>.trading-column>.panel>.tablewrap{flex:1 1 auto;min-height:0;overflow-y:scroll;overflow-x:auto;scrollbar-width:auto;scrollbar-color:#6b89aa #19283d}
+ .analysis-layout>.trading-column>.panel>.tablewrap::-webkit-scrollbar{width:12px;height:10px}
+ .analysis-layout>.trading-column>.panel>.tablewrap::-webkit-scrollbar-thumb{background:#6b89aa;border-radius:8px;border:2px solid #19283d}
+ .analysis-layout>.trading-column>.panel>.tablewrap::-webkit-scrollbar-track{background:#19283d}
+ .analysis-layout>.trading-column table{margin-top:0}
+ .analysis-layout>.trading-column thead th{position:sticky;top:0;background:#121e30;z-index:2}
+ .analysis-layout>.trading-column tfoot td{position:sticky;bottom:0;z-index:2}
+}
