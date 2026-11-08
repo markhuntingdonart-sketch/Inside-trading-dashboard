@@ -12,3 +12,7 @@ main{max-width:1640px}
 .trend-column .chart{min-height:0}
 .trend-column #insider-volume{min-height:110px}
 @media(max-width:700px){.analysis-layout{grid-template-columns:minmax(0,1fr)}.trend-column{order:-1;position:static}.trend-column .chart svg{min-width:0;width:100%}.trend-column .chart{overflow-x:auto}}
+
+/* Explicit grid placement; trend first in document order for small screens. */
+@media(min-width:701px){.analysis-layout{display:grid!important;grid-template-columns:minmax(0,3fr) minmax(0,2fr)!important;gap:20px}.analysis-layout>.trading-column{grid-column:1;grid-row:1}.analysis-layout>.trend-column{grid-column:2;grid-row:1;position:sticky;top:16px}}
+@media(max-width:700px){.analysis-layout{display:flex!important;flex-direction:column!important}.analysis-layout>.trend-column{order:0;width:100%}.analysis-layout>.trading-column{order:1;width:100%}}
