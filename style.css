@@ -16,3 +16,6 @@ main{max-width:1640px}
 /* Explicit grid placement; trend first in document order for small screens. */
 @media(min-width:701px){.analysis-layout{display:grid!important;grid-template-columns:minmax(0,3fr) minmax(0,2fr)!important;gap:20px}.analysis-layout>.trading-column{grid-column:1;grid-row:1}.analysis-layout>.trend-column{grid-column:2;grid-row:1;position:sticky;top:16px}}
 @media(max-width:700px){.analysis-layout{display:flex!important;flex-direction:column!important}.analysis-layout>.trend-column{order:0;width:100%}.analysis-layout>.trading-column{order:1;width:100%}}
+
+/* Match the two primary analysis cards in height on desktop. */
+@media(min-width:701px){.analysis-layout{align-items:stretch}.analysis-layout>.trading-column,.analysis-layout>.trend-column{align-self:stretch}.analysis-layout>.trading-column>.panel,.analysis-layout>.trend-column>.panel{height:100%}.analysis-layout>.trend-column{position:static}}
