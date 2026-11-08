@@ -11,4 +11,4 @@ main{max-width:1640px}
 .trend-column .chart svg{min-width:0;width:100%}
 .trend-column .chart{min-height:0}
 .trend-column #insider-volume{min-height:110px}
-@media(max-width:1050px){.analysis-layout{grid-template-columns:minmax(0,1fr)}.trend-column{position:static}.trend-column .chart svg{min-width:650px}.trend-column .chart{overflow-x:auto}}
+@media(max-width:700px){.analysis-layout{grid-template-columns:minmax(0,1fr)}.trend-column{order:-1;position:static}.trend-column .chart svg{min-width:0;width:100%}.trend-column .chart{overflow-x:auto}}
