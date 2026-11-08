@@ -2,34 +2,24 @@
 #transaction-totals td{border-top:2px solid #50627a;background:#192b42;padding:17px 9px}.filing-open{background:transparent;border:1px solid #567391;color:#9bd0ff;border-radius:6px;padding:6px 9px;cursor:pointer}dialog{width:min(600px,calc(100% - 30px));max-height:85vh;overflow:auto;background:#15243a;color:#e9eef5;border:1px solid #4c617a;border-radius:14px;padding:22px}dialog::backdrop{background:#000b}.dialog-head{display:flex;justify-content:space-between;gap:12px}.dialog-head button{background:#283a52;color:white;border:0;border-radius:6px;padding:8px 12px;cursor:pointer}.filing-row{display:flex;justify-content:space-between;gap:16px;border-bottom:1px solid #34445a;padding:10px 0}.filing-row span{color:#aab8c9}.filing-row strong{text-align:right;overflow-wrap:anywhere}.footnote{line-height:1.5;font-size:13px;color:#d2ddec}
 .sector-rows{margin-top:18px;display:grid;gap:15px}.sector-row{display:grid;grid-template-columns:minmax(125px,1.4fr) minmax(130px,3fr) minmax(140px,1.6fr);gap:16px;align-items:center}.sector-label{display:flex;flex-direction:column;gap:4px;font-size:13px}.sector-label small{color:#9daec2}.sector-bars{display:grid;gap:5px}.sector-track{height:10px;border-radius:4px;background:#263448;overflow:hidden}.sector-fill{height:100%;border-radius:4px}.buy-fill{background:#58d6a4}.sell-fill{background:#ff8585}.sector-values{display:flex;flex-direction:column;gap:4px;font-size:12px;text-align:right}.volume-heading{font-size:15px;margin:18px 0 6px}.volume-bar{cursor:pointer}.volume-bar:hover,.volume-bar:focus{stroke:white;stroke-width:2;outline:none}#insider-volume{min-height:120px}#insider-volume svg{min-width:650px}@media(max-width:650px){.sector-row{grid-template-columns:1fr 1.4fr;gap:8px}.sector-values{grid-column:2;text-align:left;flex-direction:row;flex-wrap:wrap}.sector-label{grid-row:span 2}}
 
-/* Primary analysis: transactions alongside price trends. */
-main{max-width:1640px}
-.analysis-layout{display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:20px;align-items:start;margin-top:20px}
+/* Desktop: wider transaction panel, fixed-height cards, internal vertical scrollbar. */
+main{max-width:1800px}
+.analysis-layout{display:grid;grid-template-columns:minmax(0,68fr) minmax(0,32fr);gap:18px;align-items:stretch;margin-top:20px}
+.analysis-layout>.trading-column{grid-column:1;grid-row:1;min-width:0}
+.analysis-layout>.trend-column{grid-column:2;grid-row:1;min-width:0}
 .analysis-layout .panel{margin-top:0;min-width:0}
-.trading-column,.trend-column{min-width:0}
-.trend-column{position:sticky;top:16px;align-self:start}
-.trend-column .chart svg{min-width:0;width:100%}
-.trend-column .chart{min-height:0}
-.trend-column #insider-volume{min-height:110px}
-@media(max-width:700px){.analysis-layout{grid-template-columns:minmax(0,1fr)}.trend-column{order:-1;position:static}.trend-column .chart svg{min-width:0;width:100%}.trend-column .chart{overflow-x:auto}}
-
-/* Explicit grid placement; trend first in document order for small screens. */
-@media(min-width:701px){.analysis-layout{display:grid!important;grid-template-columns:minmax(0,3fr) minmax(0,2fr)!important;gap:20px}.analysis-layout>.trading-column{grid-column:1;grid-row:1}.analysis-layout>.trend-column{grid-column:2;grid-row:1;position:sticky;top:16px}}
-@media(max-width:700px){.analysis-layout{display:flex!important;flex-direction:column!important}.analysis-layout>.trend-column{order:0;width:100%}.analysis-layout>.trading-column{order:1;width:100%}}
-
-/* Match the two primary analysis cards in height on desktop. */
-@media(min-width:701px){.analysis-layout{align-items:stretch}.analysis-layout>.trading-column,.analysis-layout>.trend-column{align-self:stretch}.analysis-layout>.trading-column>.panel,.analysis-layout>.trend-column>.panel{height:100%}.analysis-layout>.trend-column{position:static}}
-
-/* Scroll transactions independently while both cards match the chart height. */
-@media(min-width:701px){
- .analysis-layout{align-items:stretch;grid-template-rows:auto}
- .analysis-layout>.trading-column{position:relative;min-height:0;min-width:0;align-self:stretch}
- .analysis-layout>.trading-column>.panel{position:absolute;inset:0;height:auto;display:flex;flex-direction:column;min-height:0;overflow:hidden}
- .analysis-layout>.trading-column>.panel>.tablewrap{flex:1 1 auto;min-height:0;overflow-y:scroll;overflow-x:auto;scrollbar-width:auto;scrollbar-color:#6b89aa #19283d}
- .analysis-layout>.trading-column>.panel>.tablewrap::-webkit-scrollbar{width:12px;height:10px}
- .analysis-layout>.trading-column>.panel>.tablewrap::-webkit-scrollbar-thumb{background:#6b89aa;border-radius:8px;border:2px solid #19283d}
- .analysis-layout>.trading-column>.panel>.tablewrap::-webkit-scrollbar-track{background:#19283d}
- .analysis-layout>.trading-column table{margin-top:0}
- .analysis-layout>.trading-column thead th{position:sticky;top:0;background:#121e30;z-index:2}
- .analysis-layout>.trading-column tfoot td{position:sticky;bottom:0;z-index:2}
-}
+.analysis-layout>.trading-column>.panel,.analysis-layout>.trend-column>.panel{height:650px;min-height:0}
+.analysis-layout>.trading-column>.panel{display:flex;flex-direction:column;overflow:hidden}
+.analysis-layout>.trading-column>.panel>.tablewrap{flex:1;min-height:0;overflow-y:scroll;overflow-x:auto;scrollbar-width:auto;scrollbar-color:#87a8cc #1a2b40}
+.analysis-layout>.trading-column>.panel>.tablewrap::-webkit-scrollbar{width:14px;height:10px}
+.analysis-layout>.trading-column>.panel>.tablewrap::-webkit-scrollbar-track{background:#1a2b40}
+.analysis-layout>.trading-column>.panel>.tablewrap::-webkit-scrollbar-thumb{background:#87a8cc;border:3px solid #1a2b40;border-radius:10px}
+.analysis-layout>.trading-column table{margin-top:0}
+.analysis-layout>.trading-column thead th{position:sticky;top:0;z-index:2;background:#121e30}
+.analysis-layout>.trading-column tfoot td{position:sticky;bottom:0;z-index:2}
+.analysis-layout>.trading-column td,.analysis-layout>.trading-column th{padding:10px 7px}
+.analysis-layout>.trend-column>.panel{overflow-y:auto}
+.analysis-layout>.trend-column .chart{min-height:0;overflow-x:auto}
+.analysis-layout>.trend-column .chart svg{width:100%;min-width:0;height:auto}
+.analysis-layout>.trend-column #insider-volume{min-height:110px}
+@media(max-width:900px){.analysis-layout{display:flex;flex-direction:column}.analysis-layout>.trend-column{order:0}.analysis-layout>.trading-column{order:1}.analysis-layout>.trend-column>.panel{height:auto;min-height:420px}.analysis-layout>.trading-column>.panel{height:550px}.analysis-layout>.trend-column .chart svg{min-width:0}}
