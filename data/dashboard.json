@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T17:00:52.729565+00:00",
+  "updated_at": "2026-11-13T16:33:40.641999+00:00",
   "tickers": [
     "AAPL",
     "MSFT",
@@ -54,6 +54,26 @@
     "PLD"
   ],
   "transactions": [
+    {
+      "id": "0001140361-26-043484-0",
+      "ticker": "AAPL",
+      "insider": "Newstead Jennifer",
+      "role": "SVP, GC and Government Affairs",
+      "side": "sell",
+      "shares": 2399.0,
+      "price_per_share": 351.36,
+      "value": 842912.64,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126043484/form4.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2026."
+        }
+      ],
+      "plan_10b5_1": null
+    },
     {
       "id": "0001140361-26-042149-0",
       "ticker": "AAPL",
@@ -813,6 +833,21 @@
         }
       ],
       "plan_10b5_1": null
+    },
+    {
+      "id": "0000789019-26-000234-0",
+      "ticker": "MSFT",
+      "insider": "Numoto Takeshi",
+      "role": "EVP, Chief Marketing Officer, Officer",
+      "side": "sell",
+      "shares": 5000.0,
+      "price_per_share": 531.0,
+      "value": 2655000.0,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000234/form4.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
     },
     {
       "id": "0000789019-26-000232-0",
@@ -6611,6 +6646,122 @@
       "plan_10b5_1": true
     },
     {
+      "id": "0000950103-26-017398-0",
+      "ticker": "META",
+      "insider": "Olivan Javier",
+      "role": "Chief Operating Officer, Officer",
+      "side": "sell",
+      "shares": 946.0,
+      "price_per_share": 631.03,
+      "value": 596954.38,
+      "transaction_date": "2026-11-09",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017398/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017398-1",
+      "ticker": "META",
+      "insider": "Olivan Javier",
+      "role": "Chief Operating Officer, Officer",
+      "side": "sell",
+      "shares": 82.0,
+      "price_per_share": 631.03,
+      "value": 51744.46,
+      "transaction_date": "2026-11-09",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017398/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
+        },
+        {
+          "id": "F2",
+          "text": "Shares held of record by the reporting person, manager of Olivan D LLC."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017398-2",
+      "ticker": "META",
+      "insider": "Olivan Javier",
+      "role": "Chief Operating Officer, Officer",
+      "side": "sell",
+      "shares": 57.0,
+      "price_per_share": 631.03,
+      "value": 35968.71,
+      "transaction_date": "2026-11-09",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017398/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
+        },
+        {
+          "id": "F3",
+          "text": "Shares held of record by the reporting person and his spouse, managers of Olivan Reinhold D LLC."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017398-3",
+      "ticker": "META",
+      "insider": "Olivan Javier",
+      "role": "Chief Operating Officer, Officer",
+      "side": "sell",
+      "shares": 82.0,
+      "price_per_share": 631.03,
+      "value": 51744.46,
+      "transaction_date": "2026-11-09",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017398/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
+        },
+        {
+          "id": "F4",
+          "text": "Shares held of record by the reporting person's spouse, manager of Reinhold D LLC."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017398-4",
+      "ticker": "META",
+      "insider": "Olivan Javier",
+      "role": "Chief Operating Officer, Officer",
+      "side": "sell",
+      "shares": 408.0,
+      "price_per_share": 631.03,
+      "value": 257460.24,
+      "transaction_date": "2026-11-09",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017398/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
+        },
+        {
+          "id": "F5",
+          "text": "Shares held of record by the reporting person and his spouse, Co-Trustees of the Olivan Reinhold Family Revocable Trust u/a/d 10/16/12."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
       "id": "0000950103-26-016962-0",
       "ticker": "META",
       "insider": "Olivan Javier",
@@ -9411,30 +9562,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0000950103-26-011909-0",
-      "ticker": "META",
-      "insider": "Alford Peggy",
-      "role": "Director",
-      "side": "sell",
-      "shares": 464.0,
-      "price_per_share": 543.56,
-      "value": 252211.84,
-      "transaction_date": "2026-07-31",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326011909/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 25, 2025."
-        },
-        {
-          "id": "F2",
-          "text": "Shares held of record jointly by the reporting person and the reporting person's spouse as trustees of the Alford Family Revocable Trust."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0001193125-26-442116-0",
       "ticker": "GOOGL",
       "insider": "ARNOLD FRANCES",
@@ -9736,94 +9863,6 @@
         {
           "id": "F1",
           "text": "Transaction made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on 5/4/2026."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001065280-26-000242-6",
-      "ticker": "NFLX",
-      "insider": "HYMAN DAVID A",
-      "role": "Chief Legal Officer, Officer",
-      "side": "sell",
-      "shares": 5723.0,
-      "price_per_share": 72.8463,
-      "value": 416899.37,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000242/wk-form4_1785878597.xml",
-      "footnotes": [
-        {
-          "id": "F3",
-          "text": "This transaction was executed in multiple trades at prices ranging from $72.84 to $72.86. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0001065280-26-000234-6",
-      "ticker": "NFLX",
-      "insider": "SARANDOS THEODORE A",
-      "role": "Co-CEO, Officer, Director",
-      "side": "sell",
-      "shares": 81891.0,
-      "price_per_share": 72.8985,
-      "value": 5969731.06,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000234/wk-form4_1785878104.xml",
-      "footnotes": [
-        {
-          "id": "F3",
-          "text": "Transaction made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on 5/4/2026."
-        },
-        {
-          "id": "F4",
-          "text": "This transaction was executed in multiple trades at prices ranging from $72.2201 to $73.2196. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001065280-26-000234-7",
-      "ticker": "NFLX",
-      "insider": "SARANDOS THEODORE A",
-      "role": "Co-CEO, Officer, Director",
-      "side": "sell",
-      "shares": 23959.0,
-      "price_per_share": 73.4768,
-      "value": 1760430.65,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000234/wk-form4_1785878104.xml",
-      "footnotes": [
-        {
-          "id": "F3",
-          "text": "Transaction made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on 5/4/2026."
-        },
-        {
-          "id": "F5",
-          "text": "This transaction was executed in multiple trades at prices ranging from $73.2201 to $73.8187. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001065280-26-000234-8",
-      "ticker": "NFLX",
-      "insider": "SARANDOS THEODORE A",
-      "role": "Co-CEO, Officer, Director",
-      "side": "sell",
-      "shares": 27312.0,
-      "price_per_share": 73.3532,
-      "value": 2003422.6,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000234/wk-form4_1785878104.xml",
-      "footnotes": [
-        {
-          "id": "F6",
-          "text": "This transaction was executed in multiple trades at prices ranging from $73.34 to $73.445. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
         }
       ],
       "plan_10b5_1": true
@@ -10787,6 +10826,21 @@
       "plan_10b5_1": false
     },
     {
+      "id": "0001943551-26-000005-0",
+      "ticker": "MCD",
+      "insider": "Banner Jonathan",
+      "role": "EVP - Chief Impact Officer",
+      "side": "sell",
+      "shares": 750.0,
+      "price_per_share": 279.0,
+      "value": 209250.0,
+      "transaction_date": "2026-11-11",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/63908/000194355126000005/form4.xml",
+      "footnotes": [],
+      "plan_10b5_1": null
+    },
+    {
       "id": "0000320187-26-000167-0",
       "ticker": "NKE",
       "insider": "McCartney Philip",
@@ -11355,24 +11409,19 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0001579299-26-000022-0",
-      "ticker": "WMT",
-      "insider": "Bartlett Daniel J",
+      "id": "0000909832-26-000136-0",
+      "ticker": "COST",
+      "insider": "Jones Teresa A.",
       "role": "Executive Vice President, Officer",
       "side": "sell",
-      "shares": 3710.0,
-      "price_per_share": 113.1,
-      "value": 419601.0,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/104169/000157929926000022/wk-form4_1785877710.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This sale was executed pursuant to a Rule 10b5-1 Plan that was entered into by the Reporting Person during an open trading window and disclosed by the Issuer on Form 8-K on March 13, 2026."
-        }
-      ],
-      "plan_10b5_1": true
+      "shares": 900.0,
+      "price_per_share": 1083.953,
+      "value": 975557.7,
+      "transaction_date": "2026-11-11",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000136/form4.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
     },
     {
       "id": "0000909832-26-000098-0",
@@ -11416,6 +11465,21 @@
       "transaction_date": "2026-09-29",
       "filed_at": "2026-09-30",
       "filing_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000088/form4.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000080424-26-000275-0",
+      "ticker": "PG",
+      "insider": "Abd El Hak Hesham",
+      "role": "CEO-Baby and Feminine Care, Officer",
+      "side": "sell",
+      "shares": 2250.0,
+      "price_per_share": 168.47,
+      "value": 379057.5,
+      "transaction_date": "2026-11-12",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000275/form4.xml",
       "footnotes": [],
       "plan_10b5_1": false
     },
@@ -11866,26 +11930,6 @@
       "transaction_date": "2026-08-20",
       "filed_at": "2026-08-24",
       "filing_url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000147/form4.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "Shares sold to cover taxes on Stock Award."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000080424-26-000146-0",
-      "ticker": "PG",
-      "insider": "Pritchard Marc S.",
-      "role": "Chief Brand Officer, Officer",
-      "side": "sell",
-      "shares": 4030.0,
-      "price_per_share": 143.79,
-      "value": 579473.7,
-      "transaction_date": "2026-08-20",
-      "filed_at": "2026-08-24",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000146/form4.xml",
       "footnotes": [
         {
           "id": "F1",
@@ -14912,230 +14956,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0000070858-26-000409-0",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 7.0,
-      "price_per_share": 10.195,
-      "value": 71.37,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000409/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000409-1",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 14.0,
-      "price_per_share": 10.2143,
-      "value": 143.0,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000409/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000409-2",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 10.0,
-      "price_per_share": 10.2143,
-      "value": 102.14,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000409/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000409-3",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 5.0,
-      "price_per_share": 10.22,
-      "value": 51.1,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000409/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000409-4",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 7.0,
-      "price_per_share": 10.3237,
-      "value": 72.27,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000409/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000409-5",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 14.0,
-      "price_per_share": 10.2412,
-      "value": 143.38,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000409/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000409-6",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 10.0,
-      "price_per_share": 10.2301,
-      "value": 102.3,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000409/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000409-7",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 5.0,
-      "price_per_share": 10.325,
-      "value": 51.62,
-      "transaction_date": "2026-07-31",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000409/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
       "id": "0001910388-26-000015-0",
       "ticker": "GS",
       "insider": "LESLIE ERICKA T",
@@ -16085,6 +15905,26 @@
       "filing_url": "https://www.sec.gov/Archives/edgar/data/886982/000191038826000007/wk-form4_1786046655.xml",
       "footnotes": [],
       "plan_10b5_1": false
+    },
+    {
+      "id": "0001403161-26-000140-0",
+      "ticker": "V",
+      "insider": "Fabara Paul D",
+      "role": "CHIEF RISK & CLIENT SVCS OFC, Officer",
+      "side": "sell",
+      "shares": 3401.0,
+      "price_per_share": 423.09,
+      "value": 1438929.09,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000140/form4.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan dated July 31, 2026 adopted by the reporting person."
+        }
+      ],
+      "plan_10b5_1": true
     },
     {
       "id": "0001403161-26-000138-1",
@@ -17162,46 +17002,6 @@
         {
           "id": "F9",
           "text": "This transaction was executed in multiple trades at prices ranging from $572.70 to $573.07. The price reported reflects the weighted average sales price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001141391-26-000085-1",
-      "ticker": "MA",
-      "insider": "Miebach Michael",
-      "role": "President & CEO, Officer, Director",
-      "side": "sell",
-      "shares": 16628.0,
-      "price_per_share": 567.68,
-      "value": 9439383.04,
-      "transaction_date": "2026-07-31",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000085/wk-form4_1785874978.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on November 3, 2025."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001141391-26-000085-3",
-      "ticker": "MA",
-      "insider": "Miebach Michael",
-      "role": "President & CEO, Officer, Director",
-      "side": "sell",
-      "shares": 16628.0,
-      "price_per_share": 580.0,
-      "value": 9644240.0,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000085/wk-form4_1785874978.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on November 3, 2025."
         }
       ],
       "plan_10b5_1": true
@@ -18519,30 +18319,6 @@
       "plan_10b5_1": null
     },
     {
-      "id": "0001193125-26-333151-0",
-      "ticker": "BRK-B",
-      "insider": "BERKSHIRE HATHAWAY INC; BUFFETT WARREN E",
-      "role": "Other",
-      "side": "sell",
-      "shares": 182980.0,
-      "price_per_share": 199.548,
-      "value": 36513293.04,
-      "transaction_date": "2026-07-31",
-      "filed_at": "2026-08-04",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526333151/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "13,723,621 of the total reported securities are owned by Government Employees Insurance Company, a subsidiary of Berkshire Hathaway Inc. (\"Berkshire\"). As Berkshire is in the chain of ownership of this subsidiary, it may be deemed presently to both beneficially own and have a pecuniary interest in all shares of Common Stock presently owned by the subsidiary. Warren E. Buffett, as the controlling stockholder of Berkshire, may be deemed presently to beneficially own, but only to the extent he has a pecuniary interest in, the shares of Common Stock presently owned by the subsidiary. Mr. Buffett disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein."
-        },
-        {
-          "id": "F2",
-          "text": "14,973,608 of the total reported securities are owned by the following pension plans of Berkshire's subsidiaries: BNSF Master Retirement Trust (4,441,520) and Berkshire Hathaway Inc. Consolidated Pension Plan (10,532,088); each of Berkshire, Mr. Buffett and these pensions plan disclaim beneficial ownership in such shares."
-        }
-      ],
-      "plan_10b5_1": null
-    },
-    {
       "id": "0000731766-26-000201-0",
       "ticker": "UNH",
       "insider": "Conway Patrick Hugh",
@@ -18809,6 +18585,26 @@
         }
       ],
       "plan_10b5_1": true
+    },
+    {
+      "id": "0001761675-26-000007-2",
+      "ticker": "ABBV",
+      "insider": "Stewart Jeffrey Ryan",
+      "role": "EVP, CHIEF COMMERCIAL OFFICER",
+      "side": "sell",
+      "shares": 40619.0,
+      "price_per_share": 293.6,
+      "value": 11925738.4,
+      "transaction_date": "2026-11-09",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1551152/000176167526000007/form4-11122026_051120.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The price reported in column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $293.54 to $293.82, inclusive. The reporting person undertakes to provide AbbVie Inc., any security holder of AbbVie Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote"
+        }
+      ],
+      "plan_10b5_1": false
     },
     {
       "id": "0001762951-26-000006-1",
@@ -19213,6 +19009,46 @@
       "filed_at": "2026-08-05",
       "filing_url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826006943/doc4.xml",
       "footnotes": [],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000093410-26-000202-1",
+      "ticker": "CVX",
+      "insider": "NELSON MARK A",
+      "role": "Vice Chairman, Officer",
+      "side": "sell",
+      "shares": 81900.0,
+      "price_per_share": 210.4734,
+      "value": 17237771.46,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000202/form4.xml",
+      "footnotes": [
+        {
+          "id": "F2",
+          "text": "This transaction was executed in multiple trades at prices ranging from $210.13 to $210.765. The price reported in Column 4 reflects the weighted-average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the range provided."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000093410-26-000202-3",
+      "ticker": "CVX",
+      "insider": "NELSON MARK A",
+      "role": "Vice Chairman, Officer",
+      "side": "sell",
+      "shares": 30100.0,
+      "price_per_share": 210.4828,
+      "value": 6335532.28,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000202/form4.xml",
+      "footnotes": [
+        {
+          "id": "F3",
+          "text": "This transaction was executed in multiple trades at prices ranging from $210.165 to $210.76. The price reported in Column 4 reflects the weighted-average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the range provided."
+        }
+      ],
       "plan_10b5_1": false
     },
     {
@@ -20073,6 +19909,54 @@
       "plan_10b5_1": false
     },
     {
+      "id": "0001205247-26-000010-0",
+      "ticker": "GE",
+      "insider": "CULP H LAWRENCE JR",
+      "role": "Chairman and CEO, Officer, Director",
+      "side": "sell",
+      "shares": 679.0,
+      "price_per_share": 338.29,
+      "value": 229698.91,
+      "transaction_date": "2026-11-11",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/40545/000120524726000010/wk-form4_1794517531.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The reported sale of shares occurred automatically pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on August 12, 2026."
+        },
+        {
+          "id": "F2",
+          "text": "The price reported is a weighted average price. These shares were sold in multiple transactions ranging from $338.64 to $337.89, inclusive. The Reporting Person undertakes to provide to the Company, any security holder of the Company, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0001205247-26-000010-1",
+      "ticker": "GE",
+      "insider": "CULP H LAWRENCE JR",
+      "role": "Chairman and CEO, Officer, Director",
+      "side": "sell",
+      "shares": 7321.0,
+      "price_per_share": 337.25,
+      "value": 2469007.25,
+      "transaction_date": "2026-11-11",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/40545/000120524726000010/wk-form4_1794517531.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The reported sale of shares occurred automatically pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on August 12, 2026."
+        },
+        {
+          "id": "F3",
+          "text": "The price reported is a weighted average price. These shares were sold in multiple transactions ranging from $337.85 to $336.88, inclusive. The Reporting Person undertakes to provide to the Company, any security holder of the Company, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
       "id": "0001953063-26-000011-1",
       "ticker": "GE",
       "insider": "Giglietti Robert M.",
@@ -20178,6 +20062,21 @@
       "plan_10b5_1": false
     },
     {
+      "id": "0001225208-26-008886-0",
+      "ticker": "BA",
+      "insider": "Raymond David Christopher",
+      "role": "EVP, Pres. & CEO, BGS, Officer",
+      "side": "sell",
+      "shares": 2994.0,
+      "price_per_share": 174.905,
+      "value": 523665.57,
+      "transaction_date": "2026-11-09",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/12927/000122520826008886/doc4.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
+    },
+    {
       "id": "0001225208-26-008642-0",
       "ticker": "BA",
       "insider": "Buckley Mortimer J",
@@ -20231,6 +20130,21 @@
         }
       ],
       "plan_10b5_1": true
+    },
+    {
+      "id": "0001861032-26-000018-0",
+      "ticker": "DUK",
+      "insider": "Renjel Louis E.",
+      "role": "EVP&CEO DEF&MW&ChiefCorpAffOff, Officer",
+      "side": "sell",
+      "shares": 785.0,
+      "price_per_share": 129.155,
+      "value": 101386.68,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-12",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326160/000186103226000018/wk-form4_1794513059.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
     },
     {
       "id": "0002017923-26-000011-0",
@@ -20809,10 +20723,6 @@
   "prices": {
     "AAPL": [
       {
-        "date": "2026-05-12",
-        "close": 294.8
-      },
-      {
         "date": "2026-05-13",
         "close": 298.87
       },
@@ -21322,14 +21232,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 357.315
+        "close": 354.88
+      },
+      {
+        "date": "2026-11-13",
+        "close": 358.26
       }
     ],
     "MSFT": [
-      {
-        "date": "2026-05-12",
-        "close": 407.77
-      },
       {
         "date": "2026-05-13",
         "close": 405.21
@@ -21840,14 +21750,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 528.11
+        "close": 523.0
+      },
+      {
+        "date": "2026-11-13",
+        "close": 523.55
       }
     ],
     "NVDA": [
-      {
-        "date": "2026-05-12",
-        "close": 220.78
-      },
       {
         "date": "2026-05-13",
         "close": 225.83
@@ -22358,14 +22268,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 165.215
+        "close": 166.19
+      },
+      {
+        "date": "2026-11-13",
+        "close": 160.45
       }
     ],
     "AMD": [
-      {
-        "date": "2026-05-12",
-        "close": 448.29
-      },
       {
         "date": "2026-05-13",
         "close": 445.5
@@ -22876,14 +22786,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 586.16
+        "close": 585.3
+      },
+      {
+        "date": "2026-11-13",
+        "close": 526.156
       }
     ],
     "INTC": [
-      {
-        "date": "2026-05-12",
-        "close": 120.61
-      },
       {
         "date": "2026-05-13",
         "close": 120.29
@@ -23394,14 +23304,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 62.07
+        "close": 61.2
+      },
+      {
+        "date": "2026-11-13",
+        "close": 58.3111
       }
     ],
     "AVGO": [
-      {
-        "date": "2026-05-12",
-        "close": 419.3
-      },
       {
         "date": "2026-05-13",
         "close": 416.79
@@ -23912,14 +23822,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 364.94
+        "close": 364.36
+      },
+      {
+        "date": "2026-11-13",
+        "close": 342.15
       }
     ],
     "ORCL": [
-      {
-        "date": "2026-05-12",
-        "close": 186.83
-      },
       {
         "date": "2026-05-13",
         "close": 189.76
@@ -24430,14 +24340,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 127.46
+        "close": 127.11
+      },
+      {
+        "date": "2026-11-13",
+        "close": 123.355
       }
     ],
     "CRM": [
-      {
-        "date": "2026-05-12",
-        "close": 171.31
-      },
       {
         "date": "2026-05-13",
         "close": 165.84
@@ -24948,14 +24858,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 218.24
+        "close": 217.57
+      },
+      {
+        "date": "2026-11-13",
+        "close": 217.46
       }
     ],
     "ADBE": [
-      {
-        "date": "2026-05-12",
-        "close": 240.83
-      },
       {
         "date": "2026-05-13",
         "close": 236.07
@@ -25466,14 +25376,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 239.465
+        "close": 238.54
+      },
+      {
+        "date": "2026-11-13",
+        "close": 240.605
       }
     ],
     "PLTR": [
-      {
-        "date": "2026-05-12",
-        "close": 136.0
-      },
       {
         "date": "2026-05-13",
         "close": 130.05
@@ -25984,14 +25894,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 172.44
+        "close": 171.58
+      },
+      {
+        "date": "2026-11-13",
+        "close": 167.99
       }
     ],
     "QCOM": [
-      {
-        "date": "2026-05-12",
-        "close": 210.31
-      },
       {
         "date": "2026-05-13",
         "close": 213.17
@@ -26502,14 +26412,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 180.45
+        "close": 177.14
+      },
+      {
+        "date": "2026-11-13",
+        "close": 170.49
       }
     ],
     "META": [
-      {
-        "date": "2026-05-12",
-        "close": 603.0
-      },
       {
         "date": "2026-05-13",
         "close": 616.63
@@ -27020,14 +26930,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 626.24
+        "close": 623.61
+      },
+      {
+        "date": "2026-11-13",
+        "close": 631.28
       }
     ],
     "GOOGL": [
-      {
-        "date": "2026-05-12",
-        "close": 387.35
-      },
       {
         "date": "2026-05-13",
         "close": 402.62
@@ -27538,14 +27448,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 300.615
+        "close": 298.7
+      },
+      {
+        "date": "2026-11-13",
+        "close": 294.4
       }
     ],
     "NFLX": [
-      {
-        "date": "2026-05-12",
-        "close": 87.66
-      },
       {
         "date": "2026-05-13",
         "close": 87.56
@@ -28056,14 +27966,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 63.705
+        "close": 62.69
+      },
+      {
+        "date": "2026-11-13",
+        "close": 62.345
       }
     ],
     "DIS": [
-      {
-        "date": "2026-05-12",
-        "close": 106.16
-      },
       {
         "date": "2026-05-13",
         "close": 104.9
@@ -28574,14 +28484,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 119.0
+        "close": 118.23
+      },
+      {
+        "date": "2026-11-13",
+        "close": 119.13
       }
     ],
     "TMUS": [
-      {
-        "date": "2026-05-12",
-        "close": 193.3
-      },
       {
         "date": "2026-05-13",
         "close": 190.28
@@ -29092,14 +29002,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 172.18
+        "close": 171.03
+      },
+      {
+        "date": "2026-11-13",
+        "close": 171.19
       }
     ],
     "AMZN": [
-      {
-        "date": "2026-05-12",
-        "close": 265.82
-      },
       {
         "date": "2026-05-13",
         "close": 270.13
@@ -29610,14 +29520,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 270.27
+        "close": 267.44
+      },
+      {
+        "date": "2026-11-13",
+        "close": 264.495
       }
     ],
     "TSLA": [
-      {
-        "date": "2026-05-12",
-        "close": 433.45
-      },
       {
         "date": "2026-05-13",
         "close": 445.27
@@ -30128,14 +30038,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 392.0204
+        "close": 397.45
+      },
+      {
+        "date": "2026-11-13",
+        "close": 390.3907
       }
     ],
     "HD": [
-      {
-        "date": "2026-05-12",
-        "close": 310.46
-      },
       {
         "date": "2026-05-13",
         "close": 302.55
@@ -30646,14 +30556,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 350.54
+        "close": 348.26
+      },
+      {
+        "date": "2026-11-13",
+        "close": 348.38
       }
     ],
     "MCD": [
-      {
-        "date": "2026-05-12",
-        "close": 274.84
-      },
       {
         "date": "2026-05-13",
         "close": 275.7
@@ -31164,14 +31074,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 275.09
+        "close": 273.63
+      },
+      {
+        "date": "2026-11-13",
+        "close": 274.775
       }
     ],
     "NKE": [
-      {
-        "date": "2026-05-12",
-        "close": 42.35
-      },
       {
         "date": "2026-05-13",
         "close": 42.34
@@ -31682,14 +31592,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 37.9595
+        "close": 37.76
+      },
+      {
+        "date": "2026-11-13",
+        "close": 38.055
       }
     ],
     "WMT": [
-      {
-        "date": "2026-05-12",
-        "close": 130.35
-      },
       {
         "date": "2026-05-13",
         "close": 131.47
@@ -32200,14 +32110,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 125.81
+        "close": 126.19
+      },
+      {
+        "date": "2026-11-13",
+        "close": 127.62
       }
     ],
     "COST": [
-      {
-        "date": "2026-05-12",
-        "close": 1021.88
-      },
       {
         "date": "2026-05-13",
         "close": 1033.08
@@ -32718,14 +32628,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 1095.075
+        "close": 1092.21
+      },
+      {
+        "date": "2026-11-13",
+        "close": 1105.08
       }
     ],
     "PG": [
-      {
-        "date": "2026-05-12",
-        "close": 143.91
-      },
       {
         "date": "2026-05-13",
         "close": 142.24
@@ -33236,14 +33146,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 168.55
+        "close": 168.03
+      },
+      {
+        "date": "2026-11-13",
+        "close": 170.04
       }
     ],
     "KO": [
-      {
-        "date": "2026-05-12",
-        "close": 80.03
-      },
       {
         "date": "2026-05-13",
         "close": 80.26
@@ -33754,14 +33664,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 98.14
+        "close": 97.44
+      },
+      {
+        "date": "2026-11-13",
+        "close": 98.95
       }
     ],
     "JPM": [
-      {
-        "date": "2026-05-12",
-        "close": 304.88
-      },
       {
         "date": "2026-05-13",
         "close": 300.25
@@ -34272,14 +34182,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 344.31
+        "close": 342.82
+      },
+      {
+        "date": "2026-11-13",
+        "close": 344.815
       }
     ],
     "BAC": [
-      {
-        "date": "2026-05-12",
-        "close": 50.78
-      },
       {
         "date": "2026-05-13",
         "close": 49.84
@@ -34790,14 +34700,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 50.66
+        "close": 50.51
+      },
+      {
+        "date": "2026-11-13",
+        "close": 50.71
       }
     ],
     "GS": [
-      {
-        "date": "2026-05-12",
-        "close": 945.9
-      },
       {
         "date": "2026-05-13",
         "close": 955.42
@@ -35308,14 +35218,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 923.57
+        "close": 913.6
+      },
+      {
+        "date": "2026-11-13",
+        "close": 909.9
       }
     ],
     "V": [
-      {
-        "date": "2026-05-12",
-        "close": 326.42
-      },
       {
         "date": "2026-05-13",
         "close": 320.31
@@ -35826,14 +35736,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 425.62
+        "close": 420.31
+      },
+      {
+        "date": "2026-11-13",
+        "close": 425.875
       }
     ],
     "MA": [
-      {
-        "date": "2026-05-12",
-        "close": 499.81
-      },
       {
         "date": "2026-05-13",
         "close": 490.64
@@ -36344,14 +36254,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 659.61
+        "close": 652.6
+      },
+      {
+        "date": "2026-11-13",
+        "close": 660.83
       }
     ],
     "BRK-B": [
-      {
-        "date": "2026-05-12",
-        "close": 484.96
-      },
       {
         "date": "2026-05-13",
         "close": 485.52
@@ -36862,14 +36772,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 591.47
+        "close": 589.83
+      },
+      {
+        "date": "2026-11-13",
+        "close": 593.8
       }
     ],
     "UNH": [
-      {
-        "date": "2026-05-12",
-        "close": 396.39
-      },
       {
         "date": "2026-05-13",
         "close": 401.16
@@ -37380,14 +37290,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 405.45
+        "close": 405.13
+      },
+      {
+        "date": "2026-11-13",
+        "close": 403.12
       }
     ],
     "JNJ": [
-      {
-        "date": "2026-05-12",
-        "close": 224.26
-      },
       {
         "date": "2026-05-13",
         "close": 230.42
@@ -37898,14 +37808,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 284.6791
+        "close": 283.52
+      },
+      {
+        "date": "2026-11-13",
+        "close": 286.645
       }
     ],
     "LLY": [
-      {
-        "date": "2026-05-12",
-        "close": 989.87
-      },
       {
         "date": "2026-05-13",
         "close": 1015.75
@@ -38416,14 +38326,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 1453.02
+        "close": 1427.28
+      },
+      {
+        "date": "2026-11-13",
+        "close": 1440.235
       }
     ],
     "ABBV": [
-      {
-        "date": "2026-05-12",
-        "close": 207.86
-      },
       {
         "date": "2026-05-13",
         "close": 208.5
@@ -38934,14 +38844,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 297.395
+        "close": 294.45
+      },
+      {
+        "date": "2026-11-13",
+        "close": 294.21
       }
     ],
     "MRK": [
-      {
-        "date": "2026-05-12",
-        "close": 112.37
-      },
       {
         "date": "2026-05-13",
         "close": 113.45
@@ -39452,14 +39362,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 148.51
+        "close": 146.95
+      },
+      {
+        "date": "2026-11-13",
+        "close": 146.3
       }
     ],
     "PFE": [
-      {
-        "date": "2026-05-12",
-        "close": 25.87
-      },
       {
         "date": "2026-05-13",
         "close": 25.96
@@ -39970,14 +39880,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 29.225
+        "close": 28.83
+      },
+      {
+        "date": "2026-11-13",
+        "close": 28.7113
       }
     ],
     "XOM": [
-      {
-        "date": "2026-05-12",
-        "close": 150.63
-      },
       {
         "date": "2026-05-13",
         "close": 151.57
@@ -40488,14 +40398,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 169.42
+        "close": 169.78
+      },
+      {
+        "date": "2026-11-13",
+        "close": 169.68
       }
     ],
     "CVX": [
-      {
-        "date": "2026-05-12",
-        "close": 185.95
-      },
       {
         "date": "2026-05-13",
         "close": 186.0
@@ -41006,14 +40916,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 216.6536
+        "close": 216.35
+      },
+      {
+        "date": "2026-11-13",
+        "close": 218.08
       }
     ],
     "COP": [
-      {
-        "date": "2026-05-12",
-        "close": 117.87
-      },
       {
         "date": "2026-05-13",
         "close": 117.4
@@ -41524,14 +41434,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 139.8
+        "close": 140.06
+      },
+      {
+        "date": "2026-11-13",
+        "close": 141.875
       }
     ],
     "SLB": [
-      {
-        "date": "2026-05-12",
-        "close": 55.64
-      },
       {
         "date": "2026-05-13",
         "close": 55.38
@@ -42042,14 +41952,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 50.815
+        "close": 50.91
+      },
+      {
+        "date": "2026-11-13",
+        "close": 51.315
       }
     ],
     "CAT": [
-      {
-        "date": "2026-05-12",
-        "close": 912.14
-      },
       {
         "date": "2026-05-13",
         "close": 902.3
@@ -42560,14 +42470,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 607.87
+        "close": 605.28
+      },
+      {
+        "date": "2026-11-13",
+        "close": 594.035
       }
     ],
     "GE": [
-      {
-        "date": "2026-05-12",
-        "close": 297.45
-      },
       {
         "date": "2026-05-13",
         "close": 294.71
@@ -43078,14 +42988,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 337.21
+        "close": 330.86
+      },
+      {
+        "date": "2026-11-13",
+        "close": 331.6451
       }
     ],
     "HON": [
-      {
-        "date": "2026-05-12",
-        "close": 229.1977
-      },
       {
         "date": "2026-05-13",
         "close": 228.5894
@@ -43596,14 +43506,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 225.27
+        "close": 223.45
+      },
+      {
+        "date": "2026-11-13",
+        "close": 221.44
       }
     ],
     "BA": [
-      {
-        "date": "2026-05-12",
-        "close": 236.87
-      },
       {
         "date": "2026-05-13",
         "close": 240.6
@@ -44114,14 +44024,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 174.06
+        "close": 171.55
+      },
+      {
+        "date": "2026-11-13",
+        "close": 170.5051
       }
     ],
     "NEE": [
-      {
-        "date": "2026-05-12",
-        "close": 94.59
-      },
       {
         "date": "2026-05-13",
         "close": 94.85
@@ -44632,14 +44542,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 86.71
+        "close": 85.29
+      },
+      {
+        "date": "2026-11-13",
+        "close": 85.12
       }
     ],
     "DUK": [
-      {
-        "date": "2026-05-12",
-        "close": 125.07
-      },
       {
         "date": "2026-05-13",
         "close": 123.9
@@ -45150,14 +45060,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 129.42
+        "close": 128.59
+      },
+      {
+        "date": "2026-11-13",
+        "close": 129.55
       }
     ],
     "LIN": [
-      {
-        "date": "2026-05-12",
-        "close": 503.87
-      },
       {
         "date": "2026-05-13",
         "close": 513.26
@@ -45668,14 +45578,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 527.165
+        "close": 522.49
+      },
+      {
+        "date": "2026-11-13",
+        "close": 525.86
       }
     ],
     "FCX": [
-      {
-        "date": "2026-05-12",
-        "close": 66.03
-      },
       {
         "date": "2026-05-13",
         "close": 67.16
@@ -46186,14 +46096,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 61.535
+        "close": 60.45
+      },
+      {
+        "date": "2026-11-13",
+        "close": 59.41
       }
     ],
     "AMT": [
-      {
-        "date": "2026-05-12",
-        "close": 178.82
-      },
       {
         "date": "2026-05-13",
         "close": 173.87
@@ -46704,14 +46614,14 @@
       },
       {
         "date": "2026-11-12",
-        "close": 190.105
+        "close": 189.79
+      },
+      {
+        "date": "2026-11-13",
+        "close": 190.8
       }
     ],
     "PLD": [
-      {
-        "date": "2026-05-12",
-        "close": 143.76
-      },
       {
         "date": "2026-05-13",
         "close": 142.0
@@ -47222,7 +47132,11 @@
       },
       {
         "date": "2026-11-12",
-        "close": 128.875
+        "close": 128.55
+      },
+      {
+        "date": "2026-11-13",
+        "close": 128.41
       }
     ]
   }
