@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T16:33:40.641999+00:00",
+  "updated_at": "2026-11-14T15:18:19.721870+00:00",
   "tickers": [
     "AAPL",
     "MSFT",
@@ -1250,30 +1250,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0000789019-26-000141-0",
-      "ticker": "MSFT",
-      "insider": "Numoto Takeshi",
-      "role": "EVP, Chief Marketing Officer, Officer",
-      "side": "sell",
-      "shares": 4810.353,
-      "price_per_share": 496.48,
-      "value": 2388244.06,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000141/form4.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction was executed in multiple trades at prices ranging from $496.48 to $496.50. The price reported above reflects the weighted average purchase price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer, or a security holder of the issuer, full information regarding the number of shares and prices at which the transactions were effected."
-        },
-        {
-          "id": "F2",
-          "text": "Includes 20.0418 shares acquired on June 30, 2026 under the Microsoft Employee Stock Purchase Plan."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
       "id": "0001696841-26-000014-0",
       "ticker": "NVDA",
       "insider": "Teter Timothy S.",
@@ -1900,6 +1876,26 @@
         }
       ],
       "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000193-0",
+      "ticker": "AMD",
+      "insider": "Denzel Nora",
+      "role": "Director",
+      "side": "sell",
+      "shares": 9000.0,
+      "price_per_share": 564.88,
+      "value": 5083920.0,
+      "transaction_date": "2026-11-11",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000193/wk-form4_1794604616.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "Transaction executed in multiple trades at prices ranging from $564.88 to $564.89 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": false
     },
     {
       "id": "0000002488-26-000184-1",
@@ -4877,6 +4873,166 @@
         }
       ],
       "plan_10b5_1": false
+    },
+    {
+      "id": "0001824159-26-000017-1",
+      "ticker": "PLTR",
+      "insider": "Sankar Shyam",
+      "role": "See Remarks, Officer",
+      "side": "sell",
+      "shares": 19200.0,
+      "price_per_share": 164.8119,
+      "value": 3164388.48,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/wk-form4_1794618004.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction is part of a related series of transactions undertaken on November 10, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on August 10, 2026. The Reporting Person converted 300,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
+        },
+        {
+          "id": "F3",
+          "text": "This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $164.13 to $165.11. The price reported above reflects the weighted average sale price of trades occurring within that price range. See footnotes (3) through (7) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0001824159-26-000017-2",
+      "ticker": "PLTR",
+      "insider": "Sankar Shyam",
+      "role": "See Remarks, Officer",
+      "side": "sell",
+      "shares": 58790.0,
+      "price_per_share": 165.7614,
+      "value": 9745112.71,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/wk-form4_1794618004.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction is part of a related series of transactions undertaken on November 10, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on August 10, 2026. The Reporting Person converted 300,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
+        },
+        {
+          "id": "F4",
+          "text": "This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $165.13 to $166.12. The price reported above reflects the weighted average sale price of trades occurring within that price range. See footnotes (3) through (7) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0001824159-26-000017-3",
+      "ticker": "PLTR",
+      "insider": "Sankar Shyam",
+      "role": "See Remarks, Officer",
+      "side": "sell",
+      "shares": 64178.0,
+      "price_per_share": 166.566,
+      "value": 10689872.75,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/wk-form4_1794618004.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction is part of a related series of transactions undertaken on November 10, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on August 10, 2026. The Reporting Person converted 300,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
+        },
+        {
+          "id": "F5",
+          "text": "This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $166.13 to $167.12. The price reported above reflects the weighted average sale price of trades occurring within that price range. See footnotes (3) through (7) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0001824159-26-000017-4",
+      "ticker": "PLTR",
+      "insider": "Sankar Shyam",
+      "role": "See Remarks, Officer",
+      "side": "sell",
+      "shares": 92847.0,
+      "price_per_share": 167.5265,
+      "value": 15554332.95,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/wk-form4_1794618004.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction is part of a related series of transactions undertaken on November 10, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on August 10, 2026. The Reporting Person converted 300,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
+        },
+        {
+          "id": "F6",
+          "text": "This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $167.13 to $168.12. The price reported above reflects the weighted average sale price of trades occurring within that price range. See footnotes (3) through (7) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0001824159-26-000017-5",
+      "ticker": "PLTR",
+      "insider": "Sankar Shyam",
+      "role": "See Remarks, Officer",
+      "side": "sell",
+      "shares": 64685.0,
+      "price_per_share": 168.5672,
+      "value": 10903769.33,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/wk-form4_1794618004.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction is part of a related series of transactions undertaken on November 10, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on August 10, 2026. The Reporting Person converted 300,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
+        },
+        {
+          "id": "F7",
+          "text": "This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $168.13 to $168.99. The price reported above reflects the weighted average sale price of trades occurring within that price range. See footnotes (3) through (7) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0001824159-26-000017-6",
+      "ticker": "PLTR",
+      "insider": "Sankar Shyam",
+      "role": "See Remarks, Officer",
+      "side": "sell",
+      "shares": 300.0,
+      "price_per_share": 169.29,
+      "value": 50787.0,
+      "transaction_date": "2026-11-10",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/wk-form4_1794618004.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction is part of a related series of transactions undertaken on November 10, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on August 10, 2026. The Reporting Person converted 300,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0001824159-26-000017-8",
+      "ticker": "PLTR",
+      "insider": "Sankar Shyam",
+      "role": "See Remarks, Officer",
+      "side": "sell",
+      "shares": 84680.0,
+      "price_per_share": 175.0701,
+      "value": 14824936.07,
+      "transaction_date": "2026-11-11",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/wk-form4_1794618004.xml",
+      "footnotes": [
+        {
+          "id": "F8",
+          "text": "This transaction is part of a related series of transactions undertaken on November 11, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on August 10, 2026. The Reporting Person converted 84,680 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
+        }
+      ],
+      "plan_10b5_1": true
     },
     {
       "id": "0001840244-26-000023-0",
@@ -9542,26 +9698,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0000950103-26-011964-0",
-      "ticker": "META",
-      "insider": "KIMMITT ROBERT M",
-      "role": "Director",
-      "side": "sell",
-      "shares": 500.0,
-      "price_per_share": 561.56,
-      "value": 280780.0,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326011964/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on February 25, 2026."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0001193125-26-442116-0",
       "ticker": "GOOGL",
       "insider": "ARNOLD FRANCES",
@@ -10692,50 +10828,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0001018724-26-000030-0",
-      "ticker": "AMZN",
-      "insider": "Herrington Douglas J",
-      "role": "CEO Worldwide Amazon Stores, Officer",
-      "side": "sell",
-      "shares": 1000.0,
-      "price_per_share": 278.39,
-      "value": 278390.0,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000030/wk-form4_1785962562.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on 11/10/2025."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001018724-26-000028-0",
-      "ticker": "AMZN",
-      "insider": "BEZOS JEFFREY P",
-      "role": "Executive Chair, Officer, Director",
-      "side": "sell",
-      "shares": 1209649.0,
-      "price_per_share": 286.4083,
-      "value": 346453513.69,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000028/wk-form4_1785962062.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on 11/14/2025."
-        },
-        {
-          "id": "F2",
-          "text": "Represents the weighted average sale price. The highest price at which shares were sold was $287.00 and the lowest price at which shares were sold was $286.04."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0001104659-26-106432-1",
       "ticker": "TSLA",
       "insider": "Taneja Vaibhav",
@@ -11409,6 +11501,21 @@
       "plan_10b5_1": true
     },
     {
+      "id": "0000909832-26-000138-0",
+      "ticker": "COST",
+      "insider": "George Sarah Catherine",
+      "role": "Executive Vice President, Officer",
+      "side": "sell",
+      "shares": 756.439,
+      "price_per_share": 1096.01,
+      "value": 829064.71,
+      "transaction_date": "2026-11-12",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000138/form4.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
+    },
+    {
       "id": "0000909832-26-000136-0",
       "ticker": "COST",
       "insider": "Jones Teresa A.",
@@ -11936,6 +12043,21 @@
           "text": "Shares sold to cover taxes on Stock Award."
         }
       ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000021344-26-000173-1",
+      "ticker": "KO",
+      "insider": "QUAN NANCY",
+      "role": "Executive Vice President, Officer",
+      "side": "sell",
+      "shares": 15000.0,
+      "price_per_share": 98.0,
+      "value": 1470000.0,
+      "transaction_date": "2026-11-12",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000173/form4.xml",
+      "footnotes": [],
       "plan_10b5_1": false
     },
     {
@@ -16819,194 +16941,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0001141391-26-000094-2",
-      "ticker": "MA",
-      "insider": "Kirkpatrick Linda Pistecchia",
-      "role": "Chief Services Officer, Officer",
-      "side": "sell",
-      "shares": 40.0,
-      "price_per_share": 564.92,
-      "value": 22596.8,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000094/wk-form4_1785961107.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on May 4, 2026."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001141391-26-000094-3",
-      "ticker": "MA",
-      "insider": "Kirkpatrick Linda Pistecchia",
-      "role": "Chief Services Officer, Officer",
-      "side": "sell",
-      "shares": 600.0,
-      "price_per_share": 566.6847,
-      "value": 340010.82,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000094/wk-form4_1785961107.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on May 4, 2026."
-        },
-        {
-          "id": "F3",
-          "text": "This transaction was executed in multiple trades at prices ranging from $566.21 to $567.08. The price reported reflects the weighted average sales price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001141391-26-000094-4",
-      "ticker": "MA",
-      "insider": "Kirkpatrick Linda Pistecchia",
-      "role": "Chief Services Officer, Officer",
-      "side": "sell",
-      "shares": 200.0,
-      "price_per_share": 568.0027,
-      "value": 113600.54,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000094/wk-form4_1785961107.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on May 4, 2026."
-        },
-        {
-          "id": "F4",
-          "text": "This transaction was executed in multiple trades at prices ranging from $567.43 to $568.39. The price reported reflects the weighted average sales price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001141391-26-000094-5",
-      "ticker": "MA",
-      "insider": "Kirkpatrick Linda Pistecchia",
-      "role": "Chief Services Officer, Officer",
-      "side": "sell",
-      "shares": 360.0,
-      "price_per_share": 569.1789,
-      "value": 204904.4,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000094/wk-form4_1785961107.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on May 4, 2026."
-        },
-        {
-          "id": "F5",
-          "text": "This transaction was executed in multiple trades at prices ranging from $568.58 to $569.51. The price reported reflects the weighted average sales price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001141391-26-000094-6",
-      "ticker": "MA",
-      "insider": "Kirkpatrick Linda Pistecchia",
-      "role": "Chief Services Officer, Officer",
-      "side": "sell",
-      "shares": 400.0,
-      "price_per_share": 569.9793,
-      "value": 227991.72,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000094/wk-form4_1785961107.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on May 4, 2026."
-        },
-        {
-          "id": "F6",
-          "text": "This transaction was executed in multiple trades at prices ranging from $569.66 to $570.26. The price reported reflects the weighted average sales price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001141391-26-000094-7",
-      "ticker": "MA",
-      "insider": "Kirkpatrick Linda Pistecchia",
-      "role": "Chief Services Officer, Officer",
-      "side": "sell",
-      "shares": 1680.0,
-      "price_per_share": 571.2234,
-      "value": 959655.31,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000094/wk-form4_1785961107.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on May 4, 2026."
-        },
-        {
-          "id": "F7",
-          "text": "This transaction was executed in multiple trades at prices ranging from $570.68 to $571.63. The price reported reflects the weighted average sales price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001141391-26-000094-8",
-      "ticker": "MA",
-      "insider": "Kirkpatrick Linda Pistecchia",
-      "role": "Chief Services Officer, Officer",
-      "side": "sell",
-      "shares": 880.0,
-      "price_per_share": 572.0552,
-      "value": 503408.58,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000094/wk-form4_1785961107.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on May 4, 2026."
-        },
-        {
-          "id": "F8",
-          "text": "This transaction was executed in multiple trades at prices ranging from $571.69 to $572.62. The price reported reflects the weighted average sales price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001141391-26-000094-9",
-      "ticker": "MA",
-      "insider": "Kirkpatrick Linda Pistecchia",
-      "role": "Chief Services Officer, Officer",
-      "side": "sell",
-      "shares": 120.0,
-      "price_per_share": 572.89,
-      "value": 68746.8,
-      "transaction_date": "2026-08-04",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000094/wk-form4_1785961107.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on May 4, 2026."
-        },
-        {
-          "id": "F9",
-          "text": "This transaction was executed in multiple trades at prices ranging from $572.70 to $573.07. The price reported reflects the weighted average sales price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0001193125-26-445930-0",
       "ticker": "BRK-B",
       "insider": "BERKSHIRE HATHAWAY INC; BUFFETT WARREN E",
@@ -18349,6 +18283,21 @@
       "plan_10b5_1": false
     },
     {
+      "id": "0000200406-26-000199-1",
+      "ticker": "JNJ",
+      "insider": "Forminard Elizabeth",
+      "role": "EVP, Chief Legal Officer, Officer",
+      "side": "sell",
+      "shares": 13072.0,
+      "price_per_share": 284.39,
+      "value": 3717546.08,
+      "transaction_date": "2026-11-12",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000199/wk-form4_1794606870.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
+    },
+    {
       "id": "0000200406-26-000179-1",
       "ticker": "JNJ",
       "insider": "Schmid Timothy",
@@ -18982,33 +18931,23 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0001225208-26-006944-0",
-      "ticker": "PFE",
-      "insider": "BLAYLOCK RONALD E",
-      "role": "Director",
-      "side": "buy",
-      "shares": 39231.0,
-      "price_per_share": 25.46,
-      "value": 998821.26,
-      "transaction_date": "2026-08-05",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826006944/doc4.xml",
-      "footnotes": [],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0001225208-26-006943-0",
-      "ticker": "PFE",
-      "insider": "Buckley Mortimer J",
-      "role": "Director",
-      "side": "buy",
-      "shares": 37632.0,
-      "price_per_share": 25.52,
-      "value": 960368.64,
-      "transaction_date": "2026-08-05",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826006943/doc4.xml",
-      "footnotes": [],
+      "id": "0000093410-26-000204-1",
+      "ticker": "CVX",
+      "insider": "Booth Thomas Ryder",
+      "role": "Chief Technology & Eng Ofr, Officer",
+      "side": "sell",
+      "shares": 6000.0,
+      "price_per_share": 212.137,
+      "value": 1272822.0,
+      "transaction_date": "2026-11-11",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000204/form4.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was executed in multiple trades at prices ranging from $212.11 to $212.19. The price reported in Column 4 reflects the weighted-average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the range provided."
+        }
+      ],
       "plan_10b5_1": false
     },
     {
@@ -19248,178 +19187,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0000093410-26-000164-0",
-      "ticker": "CVX",
-      "insider": "HESS JOHN B",
-      "role": "Director",
-      "side": "sell",
-      "shares": 55510.0,
-      "price_per_share": 194.0703,
-      "value": 10772842.35,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000164/form4.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "These shares were sold in multiple transactions at prices ranging from $193.30 to $194.2999, inclusive. The price reported in Column 4 reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the ranges set forth in footnotes (1), (3), and (9) through (14) to this Form 4."
-        },
-        {
-          "id": "F2",
-          "text": "Shares are held by a trust established for the benefit of the reporting person and of which the reporting person is a beneficiary."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000093410-26-000164-1",
-      "ticker": "CVX",
-      "insider": "HESS JOHN B",
-      "role": "Director",
-      "side": "sell",
-      "shares": 44490.0,
-      "price_per_share": 194.4974,
-      "value": 8653189.33,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000164/form4.xml",
-      "footnotes": [
-        {
-          "id": "F3",
-          "text": "These shares were sold in multiple transactions at prices ranging from $194.30 to $195.01, inclusive. The price reported in Column 4 reflects the weighted average sale price."
-        },
-        {
-          "id": "F2",
-          "text": "Shares are held by a trust established for the benefit of the reporting person and of which the reporting person is a beneficiary."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000093410-26-000164-11",
-      "ticker": "CVX",
-      "insider": "HESS JOHN B",
-      "role": "Director",
-      "side": "sell",
-      "shares": 174821.0,
-      "price_per_share": 194.4221,
-      "value": 33989065.94,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000164/form4.xml",
-      "footnotes": [
-        {
-          "id": "F9",
-          "text": "These shares were sold in multiple transactions at prices ranging from $193.87 to $194.86, inclusive. The price reported in Column 4 reflects the weighted average sale price."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000093410-26-000164-12",
-      "ticker": "CVX",
-      "insider": "HESS JOHN B",
-      "role": "Director",
-      "side": "sell",
-      "shares": 25179.0,
-      "price_per_share": 195.2772,
-      "value": 4916884.62,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000164/form4.xml",
-      "footnotes": [
-        {
-          "id": "F10",
-          "text": "These shares were sold in multiple transactions at prices ranging from $194.89 to $195.68, inclusive. The price reported in Column 4 reflects the weighted average sale price."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000093410-26-000164-13",
-      "ticker": "CVX",
-      "insider": "HESS JOHN B",
-      "role": "Director",
-      "side": "sell",
-      "shares": 90031.0,
-      "price_per_share": 192.7486,
-      "value": 17353349.21,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000164/form4.xml",
-      "footnotes": [
-        {
-          "id": "F11",
-          "text": "These shares were sold in multiple transactions at prices ranging from $191.98 to $192.97, inclusive. The price reported in Column 4 reflects the weighted average sale price."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000093410-26-000164-14",
-      "ticker": "CVX",
-      "insider": "HESS JOHN B",
-      "role": "Director",
-      "side": "sell",
-      "shares": 118657.0,
-      "price_per_share": 193.2886,
-      "value": 22935045.41,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000164/form4.xml",
-      "footnotes": [
-        {
-          "id": "F12",
-          "text": "These shares were sold in multiple transactions at prices ranging from $192.98 to $193.9709, inclusive. The price reported in Column 4 reflects the weighted average sale price."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000093410-26-000164-15",
-      "ticker": "CVX",
-      "insider": "HESS JOHN B",
-      "role": "Director",
-      "side": "sell",
-      "shares": 271946.0,
-      "price_per_share": 194.4805,
-      "value": 52888194.05,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000164/form4.xml",
-      "footnotes": [
-        {
-          "id": "F13",
-          "text": "These shares were sold in multiple transactions at prices ranging from $193.98 to $194.97, inclusive. The price reported in Column 4 reflects the weighted average sale price."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000093410-26-000164-16",
-      "ticker": "CVX",
-      "insider": "HESS JOHN B",
-      "role": "Director",
-      "side": "sell",
-      "shares": 30031.0,
-      "price_per_share": 195.1371,
-      "value": 5860162.25,
-      "transaction_date": "2026-08-03",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000164/form4.xml",
-      "footnotes": [
-        {
-          "id": "F14",
-          "text": "These shares were sold in multiple transactions at prices ranging from $194.98 to $195.69, inclusive. The price reported in Column 4 reflects the weighted average sale price."
-        },
-        {
-          "id": "F15",
-          "text": "Total includes the sale of 1,303 shares directly held."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
       "id": "0001193125-26-362752-0",
       "ticker": "COP",
       "insider": "LUNDQUIST ANDREW D",
@@ -19603,6 +19370,26 @@
         }
       ],
       "plan_10b5_1": true
+    },
+    {
+      "id": "0001104659-26-127088-0",
+      "ticker": "CAT",
+      "insider": "MacLennan David",
+      "role": "Director",
+      "side": "buy",
+      "shares": 350.0,
+      "price_per_share": 596.1,
+      "value": 208635.0,
+      "transaction_date": "2026-11-12",
+      "filed_at": "2026-11-13",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/18230/000110465926127088/tm2629746-1_4seq1.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "Includes adjustments for dividends accrued."
+        }
+      ],
+      "plan_10b5_1": false
     },
     {
       "id": "0001104659-26-121809-0",
@@ -20310,41 +20097,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0001214659-26-009675-0",
-      "ticker": "FCX",
-      "insider": "Mikes Ellie L.",
-      "role": "Chief Accounting Officer",
-      "side": "sell",
-      "shares": 4773.0,
-      "price_per_share": 70.0,
-      "value": 334110.0,
-      "transaction_date": "2026-08-05",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/831259/000121465926009675/marketforms-73693.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "Represents 36,000 Common Stock Restricted Stock Units."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0001214659-26-009674-0",
-      "ticker": "FCX",
-      "insider": "Higgins Stephen T.",
-      "role": "EVP & CAO",
-      "side": "sell",
-      "shares": 14277.0,
-      "price_per_share": 69.5,
-      "value": 992251.5,
-      "transaction_date": "2026-08-05",
-      "filed_at": "2026-08-05",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/831259/000121465926009674/marketforms-73692.xml",
-      "footnotes": [],
-      "plan_10b5_1": false
-    },
-    {
       "id": "0001053507-26-000161-0",
       "ticker": "AMT",
       "insider": "Font Juan",
@@ -20722,10 +20474,6 @@
   ],
   "prices": {
     "AAPL": [
-      {
-        "date": "2026-05-13",
-        "close": 298.87
-      },
       {
         "date": "2026-05-14",
         "close": 298.21
@@ -21236,14 +20984,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 358.26
+        "close": 356.27
       }
     ],
     "MSFT": [
-      {
-        "date": "2026-05-13",
-        "close": 405.21
-      },
       {
         "date": "2026-05-14",
         "close": 409.43
@@ -21754,14 +21498,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 523.55
+        "close": 523.88
       }
     ],
     "NVDA": [
-      {
-        "date": "2026-05-13",
-        "close": 225.83
-      },
       {
         "date": "2026-05-14",
         "close": 235.74
@@ -22272,14 +22012,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 160.45
+        "close": 162.85
       }
     ],
     "AMD": [
-      {
-        "date": "2026-05-13",
-        "close": 445.5
-      },
       {
         "date": "2026-05-14",
         "close": 449.7
@@ -22790,14 +22526,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 526.156
+        "close": 534.06
       }
     ],
     "INTC": [
-      {
-        "date": "2026-05-13",
-        "close": 120.29
-      },
       {
         "date": "2026-05-14",
         "close": 115.93
@@ -23308,14 +23040,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 58.3111
+        "close": 59.66
       }
     ],
     "AVGO": [
-      {
-        "date": "2026-05-13",
-        "close": 416.79
-      },
       {
         "date": "2026-05-14",
         "close": 439.79
@@ -23826,14 +23554,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 342.15
+        "close": 347.01
       }
     ],
     "ORCL": [
-      {
-        "date": "2026-05-13",
-        "close": 189.76
-      },
       {
         "date": "2026-05-14",
         "close": 195.61
@@ -24344,14 +24068,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 123.355
+        "close": 125.35
       }
     ],
     "CRM": [
-      {
-        "date": "2026-05-13",
-        "close": 165.84
-      },
       {
         "date": "2026-05-14",
         "close": 167.58
@@ -24862,14 +24582,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 217.46
+        "close": 217.84
       }
     ],
     "ADBE": [
-      {
-        "date": "2026-05-13",
-        "close": 236.07
-      },
       {
         "date": "2026-05-14",
         "close": 237.01
@@ -25380,14 +25096,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 240.605
+        "close": 243.08
       }
     ],
     "PLTR": [
-      {
-        "date": "2026-05-13",
-        "close": 130.05
-      },
       {
         "date": "2026-05-14",
         "close": 133.73
@@ -25903,10 +25615,6 @@
     ],
     "QCOM": [
       {
-        "date": "2026-05-13",
-        "close": 213.17
-      },
-      {
         "date": "2026-05-14",
         "close": 200.08
       },
@@ -26416,14 +26124,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 170.49
+        "close": 172.47
       }
     ],
     "META": [
-      {
-        "date": "2026-05-13",
-        "close": 616.63
-      },
       {
         "date": "2026-05-14",
         "close": 618.43
@@ -26934,14 +26638,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 631.28
+        "close": 641.69
       }
     ],
     "GOOGL": [
-      {
-        "date": "2026-05-13",
-        "close": 402.62
-      },
       {
         "date": "2026-05-14",
         "close": 401.07
@@ -27452,14 +27152,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 294.4
+        "close": 295.77
       }
     ],
     "NFLX": [
-      {
-        "date": "2026-05-13",
-        "close": 87.56
-      },
       {
         "date": "2026-05-14",
         "close": 86.94
@@ -27970,14 +27666,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 62.345
+        "close": 62.15
       }
     ],
     "DIS": [
-      {
-        "date": "2026-05-13",
-        "close": 104.9
-      },
       {
         "date": "2026-05-14",
         "close": 105.42
@@ -28488,14 +28180,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 119.13
+        "close": 118.97
       }
     ],
     "TMUS": [
-      {
-        "date": "2026-05-13",
-        "close": 190.28
-      },
       {
         "date": "2026-05-14",
         "close": 188.19
@@ -29006,14 +28694,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 171.19
+        "close": 169.95
       }
     ],
     "AMZN": [
-      {
-        "date": "2026-05-13",
-        "close": 270.13
-      },
       {
         "date": "2026-05-14",
         "close": 267.22
@@ -29524,14 +29208,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 264.495
+        "close": 266.66
       }
     ],
     "TSLA": [
-      {
-        "date": "2026-05-13",
-        "close": 445.27
-      },
       {
         "date": "2026-05-14",
         "close": 443.3
@@ -30042,14 +29722,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 390.3907
+        "close": 390.22
       }
     ],
     "HD": [
-      {
-        "date": "2026-05-13",
-        "close": 302.55
-      },
       {
         "date": "2026-05-14",
         "close": 304.35
@@ -30560,14 +30236,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 348.38
+        "close": 348.69
       }
     ],
     "MCD": [
-      {
-        "date": "2026-05-13",
-        "close": 275.7
-      },
       {
         "date": "2026-05-14",
         "close": 274.97
@@ -31078,14 +30750,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 274.775
+        "close": 271.97
       }
     ],
     "NKE": [
-      {
-        "date": "2026-05-13",
-        "close": 42.34
-      },
       {
         "date": "2026-05-14",
         "close": 42.02
@@ -31596,14 +31264,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 38.055
+        "close": 37.99
       }
     ],
     "WMT": [
-      {
-        "date": "2026-05-13",
-        "close": 131.47
-      },
       {
         "date": "2026-05-14",
         "close": 132.46
@@ -32114,14 +31778,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 127.62
+        "close": 128.09
       }
     ],
     "COST": [
-      {
-        "date": "2026-05-13",
-        "close": 1033.08
-      },
       {
         "date": "2026-05-14",
         "close": 1041.25
@@ -32632,14 +32292,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 1105.08
+        "close": 1106.21
       }
     ],
     "PG": [
-      {
-        "date": "2026-05-13",
-        "close": 142.24
-      },
       {
         "date": "2026-05-14",
         "close": 142.71
@@ -33150,14 +32806,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 170.04
+        "close": 169.8
       }
     ],
     "KO": [
-      {
-        "date": "2026-05-13",
-        "close": 80.26
-      },
       {
         "date": "2026-05-14",
         "close": 80.45
@@ -33668,14 +33320,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 98.95
+        "close": 99.25
       }
     ],
     "JPM": [
-      {
-        "date": "2026-05-13",
-        "close": 300.25
-      },
       {
         "date": "2026-05-14",
         "close": 299.91
@@ -34186,14 +33834,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 344.815
+        "close": 346.19
       }
     ],
     "BAC": [
-      {
-        "date": "2026-05-13",
-        "close": 49.84
-      },
       {
         "date": "2026-05-14",
         "close": 49.85
@@ -34704,14 +34348,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 50.71
+        "close": 51.02
       }
     ],
     "GS": [
-      {
-        "date": "2026-05-13",
-        "close": 955.42
-      },
       {
         "date": "2026-05-14",
         "close": 968.96
@@ -35222,14 +34862,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 909.9
+        "close": 916.56
       }
     ],
     "V": [
-      {
-        "date": "2026-05-13",
-        "close": 320.31
-      },
       {
         "date": "2026-05-14",
         "close": 322.52
@@ -35740,14 +35376,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 425.875
+        "close": 425.76
       }
     ],
     "MA": [
-      {
-        "date": "2026-05-13",
-        "close": 490.64
-      },
       {
         "date": "2026-05-14",
         "close": 489.94
@@ -36258,14 +35890,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 660.83
+        "close": 661.19
       }
     ],
     "BRK-B": [
-      {
-        "date": "2026-05-13",
-        "close": 485.52
-      },
       {
         "date": "2026-05-14",
         "close": 484.06
@@ -36776,14 +36404,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 593.8
+        "close": 592.94
       }
     ],
     "UNH": [
-      {
-        "date": "2026-05-13",
-        "close": 401.16
-      },
       {
         "date": "2026-05-14",
         "close": 399.09
@@ -37294,14 +36918,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 403.12
+        "close": 407.46
       }
     ],
     "JNJ": [
-      {
-        "date": "2026-05-13",
-        "close": 230.42
-      },
       {
         "date": "2026-05-14",
         "close": 230.8
@@ -37812,14 +37432,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 286.645
+        "close": 285.75
       }
     ],
     "LLY": [
-      {
-        "date": "2026-05-13",
-        "close": 1015.75
-      },
       {
         "date": "2026-05-14",
         "close": 1006.7
@@ -38330,14 +37946,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 1440.235
+        "close": 1443.5
       }
     ],
     "ABBV": [
-      {
-        "date": "2026-05-13",
-        "close": 208.5
-      },
       {
         "date": "2026-05-14",
         "close": 210.77
@@ -38848,14 +38460,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 294.21
+        "close": 295.03
       }
     ],
     "MRK": [
-      {
-        "date": "2026-05-13",
-        "close": 113.45
-      },
       {
         "date": "2026-05-14",
         "close": 113.41
@@ -39366,14 +38974,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 146.3
+        "close": 147.76
       }
     ],
     "PFE": [
-      {
-        "date": "2026-05-13",
-        "close": 25.96
-      },
       {
         "date": "2026-05-14",
         "close": 25.75
@@ -39884,14 +39488,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 28.7113
+        "close": 28.89
       }
     ],
     "XOM": [
-      {
-        "date": "2026-05-13",
-        "close": 151.57
-      },
       {
         "date": "2026-05-14",
         "close": 152.78
@@ -40402,14 +40002,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 169.68
+        "close": 170.59
       }
     ],
     "CVX": [
-      {
-        "date": "2026-05-13",
-        "close": 186.0
-      },
       {
         "date": "2026-05-14",
         "close": 186.64
@@ -40920,14 +40516,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 218.08
+        "close": 219.89
       }
     ],
     "COP": [
-      {
-        "date": "2026-05-13",
-        "close": 117.4
-      },
       {
         "date": "2026-05-14",
         "close": 118.97
@@ -41438,14 +41030,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 141.875
+        "close": 142.28
       }
     ],
     "SLB": [
-      {
-        "date": "2026-05-13",
-        "close": 55.38
-      },
       {
         "date": "2026-05-14",
         "close": 55.75
@@ -41956,14 +41544,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 51.315
+        "close": 51.67
       }
     ],
     "CAT": [
-      {
-        "date": "2026-05-13",
-        "close": 902.3
-      },
       {
         "date": "2026-05-14",
         "close": 920.22
@@ -42474,14 +42058,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 594.035
+        "close": 600.2
       }
     ],
     "GE": [
-      {
-        "date": "2026-05-13",
-        "close": 294.71
-      },
       {
         "date": "2026-05-14",
         "close": 291.54
@@ -42992,14 +42572,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 331.6451
+        "close": 331.81
       }
     ],
     "HON": [
-      {
-        "date": "2026-05-13",
-        "close": 228.5894
-      },
       {
         "date": "2026-05-14",
         "close": 228.3377
@@ -43510,14 +43086,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 221.44
+        "close": 222.46
       }
     ],
     "BA": [
-      {
-        "date": "2026-05-13",
-        "close": 240.6
-      },
       {
         "date": "2026-05-14",
         "close": 229.21
@@ -44028,14 +43600,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 170.5051
+        "close": 171.5
       }
     ],
     "NEE": [
-      {
-        "date": "2026-05-13",
-        "close": 94.85
-      },
       {
         "date": "2026-05-14",
         "close": 95.68
@@ -44551,10 +44119,6 @@
     ],
     "DUK": [
       {
-        "date": "2026-05-13",
-        "close": 123.9
-      },
-      {
         "date": "2026-05-14",
         "close": 124.31
       },
@@ -45064,14 +44628,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 129.55
+        "close": 129.16
       }
     ],
     "LIN": [
-      {
-        "date": "2026-05-13",
-        "close": 513.26
-      },
       {
         "date": "2026-05-14",
         "close": 511.65
@@ -45582,14 +45142,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 525.86
+        "close": 526.06
       }
     ],
     "FCX": [
-      {
-        "date": "2026-05-13",
-        "close": 67.16
-      },
       {
         "date": "2026-05-14",
         "close": 66.14
@@ -46100,14 +45656,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 59.41
+        "close": 59.24
       }
     ],
     "AMT": [
-      {
-        "date": "2026-05-13",
-        "close": 173.87
-      },
       {
         "date": "2026-05-14",
         "close": 170.5
@@ -46618,14 +46170,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 190.8
+        "close": 191.64
       }
     ],
     "PLD": [
-      {
-        "date": "2026-05-13",
-        "close": 142.0
-      },
       {
         "date": "2026-05-14",
         "close": 142.66
@@ -47136,7 +46684,7 @@
       },
       {
         "date": "2026-11-13",
-        "close": 128.41
+        "close": 128.67
       }
     ]
   }
