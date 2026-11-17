@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:46:24.294001+00:00",
+  "updated_at": "2026-11-17T17:47:19.596960+00:00",
   "tickers": [
     "AAPL",
     "MSFT",
@@ -9558,6 +9558,21 @@
       "plan_10b5_1": true
     },
     {
+      "id": "0001193125-26-463983-0",
+      "ticker": "GOOGL",
+      "insider": "Hennessy John L.",
+      "role": "Other",
+      "side": "sell",
+      "shares": 300.0,
+      "price_per_share": 300.0,
+      "value": 90000.0,
+      "transaction_date": "2026-11-12",
+      "filed_at": "2026-11-16",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526463983/ownership.xml",
+      "footnotes": [],
+      "plan_10b5_1": null
+    },
+    {
       "id": "0001193125-26-442116-0",
       "ticker": "GOOGL",
       "insider": "ARNOLD FRANCES",
@@ -10736,6 +10751,21 @@
         }
       ],
       "plan_10b5_1": false
+    },
+    {
+      "id": "0001943551-26-000007-0",
+      "ticker": "MCD",
+      "insider": "Banner Jonathan",
+      "role": "EVP - Chief Impact Officer",
+      "side": "sell",
+      "shares": 750.0,
+      "price_per_share": 277.24,
+      "value": 207930.0,
+      "transaction_date": "2026-11-13",
+      "filed_at": "2026-11-16",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/63908/000194355126000007/form4.xml",
+      "footnotes": [],
+      "plan_10b5_1": null
     },
     {
       "id": "0001943551-26-000005-0",
@@ -16194,6 +16224,54 @@
       "plan_10b5_1": true
     },
     {
+      "id": "0001193125-26-463989-0",
+      "ticker": "BRK-B",
+      "insider": "O'Sullivan Michael J.",
+      "role": "See Remarks",
+      "side": "buy",
+      "shares": 54.0,
+      "price_per_share": 593.75,
+      "value": 32062.5,
+      "transaction_date": "2026-11-12",
+      "filed_at": "2026-11-16",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463989/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The reported price in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $593.53 to $593.81 per share, inclusive. The reporting person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote."
+        },
+        {
+          "id": "F3",
+          "text": "Shares held by a living trust of which the reporting person is trustee."
+        }
+      ],
+      "plan_10b5_1": null
+    },
+    {
+      "id": "0001193125-26-463989-1",
+      "ticker": "BRK-B",
+      "insider": "O'Sullivan Michael J.",
+      "role": "See Remarks",
+      "side": "buy",
+      "shares": 367.0,
+      "price_per_share": 594.4,
+      "value": 218144.8,
+      "transaction_date": "2026-11-12",
+      "filed_at": "2026-11-16",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463989/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F2",
+          "text": "The reported price in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $594.04 to $594.69 per share, inclusive. The reporting person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote."
+        },
+        {
+          "id": "F3",
+          "text": "Shares held by a living trust of which the reporting person is trustee."
+        }
+      ],
+      "plan_10b5_1": null
+    },
+    {
       "id": "0001193125-26-445930-0",
       "ticker": "BRK-B",
       "insider": "BERKSHIRE HATHAWAY INC; BUFFETT WARREN E",
@@ -17736,6 +17814,26 @@
       "filed_at": "2026-08-18",
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1551152/000176295126000006/form4-08182026_050811.xml",
       "footnotes": [],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000310158-26-000252-1",
+      "ticker": "MRK",
+      "insider": "DeLuca Richard R.",
+      "role": "EVP&Pres, Merck Animal Heallth, Officer",
+      "side": "sell",
+      "shares": 58185.0,
+      "price_per_share": 148.0085,
+      "value": 8611874.57,
+      "transaction_date": "2026-11-12",
+      "filed_at": "2026-11-16",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000252/form4.xml",
+      "footnotes": [
+        {
+          "id": "F2",
+          "text": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $148.0000 to $148.0800, inclusive. The reporting person undertakes to provide to Merck & Co., Inc., any security holder of Merck & Co., Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote."
+        }
+      ],
       "plan_10b5_1": false
     },
     {
@@ -19974,7 +20072,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 352.14
+        "close": 352.78
+      },
+      {
+        "date": "2026-11-17",
+        "close": 350.9
       }
     ],
     "MSFT": [
@@ -20484,7 +20586,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 520.21
+        "close": 517.99
+      },
+      {
+        "date": "2026-11-17",
+        "close": 500.175
       }
     ],
     "NVDA": [
@@ -20994,7 +21100,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 155.7515
+        "close": 156.14
+      },
+      {
+        "date": "2026-11-17",
+        "close": 153.48
       }
     ],
     "AMD": [
@@ -21504,7 +21614,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 506.54
+        "close": 504.28
+      },
+      {
+        "date": "2026-11-17",
+        "close": 489.09
       }
     ],
     "INTC": [
@@ -22014,7 +22128,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 55.24
+        "close": 55.47
+      },
+      {
+        "date": "2026-11-17",
+        "close": 53.63
       }
     ],
     "AVGO": [
@@ -22524,7 +22642,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 331.65
+        "close": 333.4
+      },
+      {
+        "date": "2026-11-17",
+        "close": 337.965
       }
     ],
     "ORCL": [
@@ -23034,7 +23156,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 118.9356
+        "close": 119.09
+      },
+      {
+        "date": "2026-11-17",
+        "close": 113.66
       }
     ],
     "CRM": [
@@ -23544,7 +23670,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 216.15
+        "close": 214.83
+      },
+      {
+        "date": "2026-11-17",
+        "close": 193.86
       }
     ],
     "ADBE": [
@@ -24054,7 +24184,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 248.05
+        "close": 246.0
+      },
+      {
+        "date": "2026-11-17",
+        "close": 236.21
       }
     ],
     "PLTR": [
@@ -24564,7 +24698,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 161.3901
+        "close": 160.39
+      },
+      {
+        "date": "2026-11-17",
+        "close": 155.32
       }
     ],
     "QCOM": [
@@ -25074,7 +25212,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 170.61
+        "close": 168.52
+      },
+      {
+        "date": "2026-11-17",
+        "close": 166.555
       }
     ],
     "META": [
@@ -25584,7 +25726,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 625.105
+        "close": 626.41
+      },
+      {
+        "date": "2026-11-17",
+        "close": 620.38
       }
     ],
     "GOOGL": [
@@ -26094,7 +26240,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 285.13
+        "close": 283.72
+      },
+      {
+        "date": "2026-11-17",
+        "close": 281.9015
       }
     ],
     "NFLX": [
@@ -26604,7 +26754,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 60.7012
+        "close": 60.75
+      },
+      {
+        "date": "2026-11-17",
+        "close": 59.71
       }
     ],
     "DIS": [
@@ -27114,7 +27268,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 118.46
+        "close": 118.7
+      },
+      {
+        "date": "2026-11-17",
+        "close": 119.65
       }
     ],
     "TMUS": [
@@ -27624,7 +27782,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 171.15
+        "close": 170.01
+      },
+      {
+        "date": "2026-11-17",
+        "close": 170.43
       }
     ],
     "AMZN": [
@@ -28135,6 +28297,10 @@
       {
         "date": "2026-11-16",
         "close": 257.75
+      },
+      {
+        "date": "2026-11-17",
+        "close": 256.9099
       }
     ],
     "TSLA": [
@@ -28644,7 +28810,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 377.44
+        "close": 379.74
+      },
+      {
+        "date": "2026-11-17",
+        "close": 379.81
       }
     ],
     "HD": [
@@ -29154,7 +29324,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 347.445
+        "close": 347.51
+      },
+      {
+        "date": "2026-11-17",
+        "close": 339.1
       }
     ],
     "MCD": [
@@ -29664,7 +29838,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 275.56
+        "close": 274.67
+      },
+      {
+        "date": "2026-11-17",
+        "close": 277.135
       }
     ],
     "NKE": [
@@ -30174,7 +30352,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 37.86
+        "close": 38.26
+      },
+      {
+        "date": "2026-11-17",
+        "close": 37.615
       }
     ],
     "WMT": [
@@ -30684,7 +30866,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 128.24
+        "close": 128.41
+      },
+      {
+        "date": "2026-11-17",
+        "close": 127.73
       }
     ],
     "COST": [
@@ -31194,7 +31380,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 1109.04
+        "close": 1113.74
+      },
+      {
+        "date": "2026-11-17",
+        "close": 1115.49
       }
     ],
     "PG": [
@@ -31704,7 +31894,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 172.77
+        "close": 173.02
+      },
+      {
+        "date": "2026-11-17",
+        "close": 173.03
       }
     ],
     "KO": [
@@ -32214,7 +32408,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 99.33
+        "close": 99.48
+      },
+      {
+        "date": "2026-11-17",
+        "close": 99.265
       }
     ],
     "JPM": [
@@ -32724,7 +32922,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 337.72
+        "close": 338.21
+      },
+      {
+        "date": "2026-11-17",
+        "close": 330.035
       }
     ],
     "BAC": [
@@ -33234,7 +33436,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 49.76
+        "close": 50.08
+      },
+      {
+        "date": "2026-11-17",
+        "close": 49.265
       }
     ],
     "GS": [
@@ -33744,7 +33950,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 886.3878
+        "close": 891.54
+      },
+      {
+        "date": "2026-11-17",
+        "close": 875.87
       }
     ],
     "V": [
@@ -34254,7 +34464,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 427.0
+        "close": 426.46
+      },
+      {
+        "date": "2026-11-17",
+        "close": 420.27
       }
     ],
     "MA": [
@@ -34764,7 +34978,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 662.42
+        "close": 661.71
+      },
+      {
+        "date": "2026-11-17",
+        "close": 649.42
       }
     ],
     "BRK-B": [
@@ -35274,7 +35492,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 591.11
+        "close": 592.85
+      },
+      {
+        "date": "2026-11-17",
+        "close": 590.8
       }
     ],
     "UNH": [
@@ -35784,7 +36006,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 409.74
+        "close": 412.02
+      },
+      {
+        "date": "2026-11-17",
+        "close": 396.755
       }
     ],
     "JNJ": [
@@ -36294,7 +36520,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 284.36
+        "close": 282.55
+      },
+      {
+        "date": "2026-11-17",
+        "close": 280.38
       }
     ],
     "LLY": [
@@ -36804,7 +37034,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 1441.5601
+        "close": 1431.67
+      },
+      {
+        "date": "2026-11-17",
+        "close": 1416.965
       }
     ],
     "ABBV": [
@@ -37314,7 +37548,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 295.75
+        "close": 294.55
+      },
+      {
+        "date": "2026-11-17",
+        "close": 293.305
       }
     ],
     "MRK": [
@@ -37824,7 +38062,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 146.29
+        "close": 144.46
+      },
+      {
+        "date": "2026-11-17",
+        "close": 144.06
       }
     ],
     "PFE": [
@@ -38334,7 +38576,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 28.925
+        "close": 28.86
+      },
+      {
+        "date": "2026-11-17",
+        "close": 28.515
       }
     ],
     "XOM": [
@@ -38844,7 +39090,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 167.33
+        "close": 166.87
+      },
+      {
+        "date": "2026-11-17",
+        "close": 167.31
       }
     ],
     "CVX": [
@@ -39354,7 +39604,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 216.97
+        "close": 217.14
+      },
+      {
+        "date": "2026-11-17",
+        "close": 216.48
       }
     ],
     "COP": [
@@ -39864,7 +40118,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 140.2301
+        "close": 140.52
+      },
+      {
+        "date": "2026-11-17",
+        "close": 141.195
       }
     ],
     "SLB": [
@@ -40374,7 +40632,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 50.225
+        "close": 50.08
+      },
+      {
+        "date": "2026-11-17",
+        "close": 49.2315
       }
     ],
     "CAT": [
@@ -40884,7 +41146,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 574.0
+        "close": 570.49
+      },
+      {
+        "date": "2026-11-17",
+        "close": 566.1299
       }
     ],
     "GE": [
@@ -41394,7 +41660,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 326.02
+        "close": 325.18
+      },
+      {
+        "date": "2026-11-17",
+        "close": 326.24
       }
     ],
     "HON": [
@@ -41904,7 +42174,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 219.2
+        "close": 217.95
+      },
+      {
+        "date": "2026-11-17",
+        "close": 221.87
       }
     ],
     "BA": [
@@ -42414,7 +42688,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 166.08
+        "close": 165.22
+      },
+      {
+        "date": "2026-11-17",
+        "close": 164.585
       }
     ],
     "NEE": [
@@ -42924,7 +43202,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 85.46
+        "close": 85.34
+      },
+      {
+        "date": "2026-11-17",
+        "close": 85.065
       }
     ],
     "DUK": [
@@ -43434,7 +43716,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 130.2247
+        "close": 130.59
+      },
+      {
+        "date": "2026-11-17",
+        "close": 130.415
       }
     ],
     "LIN": [
@@ -43944,7 +44230,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 525.23
+        "close": 523.46
+      },
+      {
+        "date": "2026-11-17",
+        "close": 522.595
       }
     ],
     "FCX": [
@@ -44454,7 +44744,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 55.79
+        "close": 55.19
+      },
+      {
+        "date": "2026-11-17",
+        "close": 55.47
       }
     ],
     "AMT": [
@@ -44964,7 +45258,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 190.63
+        "close": 190.74
+      },
+      {
+        "date": "2026-11-17",
+        "close": 189.66
       }
     ],
     "PLD": [
@@ -45474,7 +45772,11 @@
       },
       {
         "date": "2026-11-16",
-        "close": 127.53
+        "close": 127.6
+      },
+      {
+        "date": "2026-11-17",
+        "close": 126.08
       }
     ]
   }
