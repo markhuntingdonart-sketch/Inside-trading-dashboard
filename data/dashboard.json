@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T17:26:31.180400+00:00",
+  "updated_at": "2026-11-19T17:32:40.013878+00:00",
   "tickers": [
     "AAPL",
     "MSFT",
@@ -54,6 +54,46 @@
     "PLD"
   ],
   "transactions": [
+    {
+      "id": "0001140361-26-044773-0",
+      "ticker": "AAPL",
+      "insider": "LEVINSON ARTHUR D",
+      "role": "Other",
+      "side": "sell",
+      "shares": 36792.0,
+      "price_per_share": 352.26,
+      "value": 12960349.92,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126044773/form4.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was executed in multiple trades at prices ranging from $351.86 to $352.85; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        }
+      ],
+      "plan_10b5_1": null
+    },
+    {
+      "id": "0001140361-26-044773-1",
+      "ticker": "AAPL",
+      "insider": "LEVINSON ARTHUR D",
+      "role": "Other",
+      "side": "sell",
+      "shares": 53208.0,
+      "price_per_share": 353.43,
+      "value": 18805303.44,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126044773/form4.xml",
+      "footnotes": [
+        {
+          "id": "F2",
+          "text": "This transaction was executed in multiple trades at prices ranging from $352.86 to $353.835; the price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, Apple, or a security holder of Apple."
+        }
+      ],
+      "plan_10b5_1": null
+    },
     {
       "id": "0001140361-26-043484-0",
       "ticker": "AAPL",
@@ -1853,6 +1893,554 @@
         {
           "id": "F3",
           "text": "Shares held by The Horne Teter Family Living Trust, dated 02/01/2019, of which the Reporting Person is trustee."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-0",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 880.0,
+      "price_per_share": 502.06,
+      "value": 441812.8,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F2",
+          "text": "Transaction executed in multiple trades at prices ranging from $501.68 to $502.59 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-1",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 31761.0,
+      "price_per_share": 503.41,
+      "value": 15988805.01,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F3",
+          "text": "Transaction executed in multiple trades at prices ranging from $502.69 to $503.68 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-2",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 3201.0,
+      "price_per_share": 504.28,
+      "value": 1614200.28,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F4",
+          "text": "Transaction executed in multiple trades at prices ranging from $503.74 to $504.73 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-3",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 3749.0,
+      "price_per_share": 505.21,
+      "value": 1894032.29,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F5",
+          "text": "Transaction executed in multiple trades at prices ranging from $504.74 to $505.72 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-4",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 4361.0,
+      "price_per_share": 506.31,
+      "value": 2208017.91,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F6",
+          "text": "Transaction executed in multiple trades at prices ranging from $505.75 to $506.74 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-5",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 2890.0,
+      "price_per_share": 507.28,
+      "value": 1466039.2,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F7",
+          "text": "Transaction executed in multiple trades at prices ranging from $506.79 to $507.78 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-6",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 4902.0,
+      "price_per_share": 508.29,
+      "value": 2491637.58,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F8",
+          "text": "Transaction executed in multiple trades at prices ranging from $507.79 to $508.78 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-7",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 4216.0,
+      "price_per_share": 509.28,
+      "value": 2147124.48,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F9",
+          "text": "Transaction executed in multiple trades at prices ranging from $508.80 to $509.78 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-8",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 3622.0,
+      "price_per_share": 510.32,
+      "value": 1848379.04,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F10",
+          "text": "Transaction executed in multiple trades at prices ranging from $509.81 to $510.78 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-9",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 2338.0,
+      "price_per_share": 511.16,
+      "value": 1195092.08,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F11",
+          "text": "Transaction executed in multiple trades at prices ranging from $510.83 to $511.77 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-10",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 560.0,
+      "price_per_share": 512.3,
+      "value": 286888.0,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F12",
+          "text": "Transaction executed in multiple trades at prices ranging from $511.88 to $512.64 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-11",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 1278.0,
+      "price_per_share": 513.49,
+      "value": 656240.22,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F13",
+          "text": "Transaction executed in multiple trades at prices ranging from $512.94 to $513.92 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-12",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 642.0,
+      "price_per_share": 514.2,
+      "value": 330116.4,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F14",
+          "text": "Transaction executed in multiple trades at prices ranging from $513.98 to $514.77 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-13",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 240.0,
+      "price_per_share": 516.14,
+      "value": 123873.6,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F15",
+          "text": "Transaction executed in multiple trades at prices ranging from $515.98 to $516.18 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-14",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 80.0,
+      "price_per_share": 517.02,
+      "value": 41361.6,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-15",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 480.0,
+      "price_per_share": 518.53,
+      "value": 248894.4,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F16",
+          "text": "Transaction executed in multiple trades at prices ranging from $518.07 to $518.94 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-16",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 560.0,
+      "price_per_share": 519.54,
+      "value": 290942.4,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F17",
+          "text": "Transaction executed in multiple trades at prices ranging from $519.15 to $520.02 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-17",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 800.0,
+      "price_per_share": 520.71,
+      "value": 416568.0,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F18",
+          "text": "Transaction executed in multiple trades at prices ranging from $520.17 to $521.10 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-18",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 680.0,
+      "price_per_share": 521.62,
+      "value": 354701.6,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F19",
+          "text": "Transaction executed in multiple trades at prices ranging from $521.19 to $521.97 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-19",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 1200.0,
+      "price_per_share": 522.91,
+      "value": 627492.0,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F20",
+          "text": "Transaction executed in multiple trades at prices ranging from $522.32 to $523.31 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-20",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 1040.0,
+      "price_per_share": 523.74,
+      "value": 544689.6,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F21",
+          "text": "Transaction executed in multiple trades at prices ranging from $523.32 to $524.20 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-21",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 440.0,
+      "price_per_share": 524.82,
+      "value": 230920.8,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F22",
+          "text": "Transaction executed in multiple trades at prices ranging from $524.35 to $524.99 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000213-22",
+      "ticker": "AMD",
+      "insider": "Su Lisa T",
+      "role": "Chair, President & CEO, Officer, Director",
+      "side": "sell",
+      "shares": 80.0,
+      "price_per_share": 525.94,
+      "value": 42075.2,
+      "transaction_date": "2026-11-16",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000213/wk-form4_1795036763.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 8, 2026."
+        },
+        {
+          "id": "F23",
+          "text": "Transaction executed in multiple trades at prices ranging from $525.92 to $525.95 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
         }
       ],
       "plan_10b5_1": true
@@ -6271,126 +6859,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0001824159-26-000011-1",
-      "ticker": "PLTR",
-      "insider": "Sankar Shyam",
-      "role": "See Remarks, Officer",
-      "side": "sell",
-      "shares": 2735.0,
-      "price_per_share": 153.4046,
-      "value": 419561.58,
-      "transaction_date": "2026-08-06",
-      "filed_at": "2026-08-10",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000011/wk-form4_1786406477.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction is part of a related series of transactions undertaken on August 6, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on March 11, 2026. The Reporting Person converted 35,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
-        },
-        {
-          "id": "F3",
-          "text": "This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $153.0726 to $153.594. The price reported above reflects the weighted average sale price of trades occurring within that price range. See footnotes (3) through (7) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001824159-26-000011-2",
-      "ticker": "PLTR",
-      "insider": "Sankar Shyam",
-      "role": "See Remarks, Officer",
-      "side": "sell",
-      "shares": 6191.0,
-      "price_per_share": 154.653,
-      "value": 957456.72,
-      "transaction_date": "2026-08-06",
-      "filed_at": "2026-08-10",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000011/wk-form4_1786406477.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction is part of a related series of transactions undertaken on August 6, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on March 11, 2026. The Reporting Person converted 35,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
-        },
-        {
-          "id": "F4",
-          "text": "This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $154.1016 to $155.0576. The price reported above reflects the weighted average sale price of trades occurring within that price range. See footnotes (3) through (7) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001824159-26-000011-3",
-      "ticker": "PLTR",
-      "insider": "Sankar Shyam",
-      "role": "See Remarks, Officer",
-      "side": "sell",
-      "shares": 16063.0,
-      "price_per_share": 155.7404,
-      "value": 2501658.05,
-      "transaction_date": "2026-08-06",
-      "filed_at": "2026-08-10",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000011/wk-form4_1786406477.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction is part of a related series of transactions undertaken on August 6, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on March 11, 2026. The Reporting Person converted 35,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
-        },
-        {
-          "id": "F5",
-          "text": "This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $155.2154 to $156.1851. The price reported above reflects the weighted average sale price of trades occurring within that price range. See footnotes (3) through (7) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001824159-26-000011-4",
-      "ticker": "PLTR",
-      "insider": "Sankar Shyam",
-      "role": "See Remarks, Officer",
-      "side": "sell",
-      "shares": 7976.0,
-      "price_per_share": 156.7791,
-      "value": 1250470.1,
-      "transaction_date": "2026-08-06",
-      "filed_at": "2026-08-10",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000011/wk-form4_1786406477.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction is part of a related series of transactions undertaken on August 6, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on March 11, 2026. The Reporting Person converted 35,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
-        },
-        {
-          "id": "F6",
-          "text": "This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $156.2618 to $157.145. The price reported above reflects the weighted average sale price of trades occurring within that price range. See footnotes (3) through (7) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001824159-26-000011-5",
-      "ticker": "PLTR",
-      "insider": "Sankar Shyam",
-      "role": "See Remarks, Officer",
-      "side": "sell",
-      "shares": 2035.0,
-      "price_per_share": 157.4435,
-      "value": 320397.52,
-      "transaction_date": "2026-08-06",
-      "filed_at": "2026-08-10",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000011/wk-form4_1786406477.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction is part of a related series of transactions undertaken on August 6, 2026 pursuant to a preexisting Rule 10b5-1 trading plan, intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), entered into on March 11, 2026. The Reporting Person converted 35,000 shares of Class B Common Stock to Class A Common Stock and immediately sold the resulting shares of Class A Common Stock in the open market."
-        },
-        {
-          "id": "F7",
-          "text": "This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $157.3622 to $157.5238. The price reported above reflects the weighted average sale price of trades occurring within that price range. See footnotes (3) through (7) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0000804328-26-000132-0",
       "ticker": "QCOM",
       "insider": "ACE HEATHER S",
@@ -10262,21 +10730,6 @@
         }
       ],
       "plan_10b5_1": true
-    },
-    {
-      "id": "0001065280-26-000249-0",
-      "ticker": "NFLX",
-      "insider": "Neumann Spencer Adam",
-      "role": "Chief Financial Officer, Officer",
-      "side": "sell",
-      "shares": 9248.0,
-      "price_per_share": 75.7901,
-      "value": 700906.84,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-10",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000249/wk-form4_1786394054.xml",
-      "footnotes": [],
-      "plan_10b5_1": false
     },
     {
       "id": "0001628280-26-071797-0",
@@ -18344,30 +18797,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0001685556-26-000006-0",
-      "ticker": "LLY",
-      "insider": "Hakim Anat",
-      "role": "EVP, GC & Secretary, Officer",
-      "side": "sell",
-      "shares": 5000.0,
-      "price_per_share": 1190.0,
-      "value": 5950000.0,
-      "transaction_date": "2026-08-07",
-      "filed_at": "2026-08-10",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/59478/000168555626000006/wk-form4_1786393159.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The transaction was effected pursuant to a Rule 10b5-1 trading plan adopted on February 10, 2026."
-        },
-        {
-          "id": "F2",
-          "text": "The Reporting Person disclaims beneficial ownership of the reported securities except to the extent of her pecuniary interest therein."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0001761675-26-000007-2",
       "ticker": "ABBV",
       "insider": "Stewart Jeffrey Ryan",
@@ -18553,66 +18982,6 @@
         {
           "id": "F5",
           "text": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $132.0000 to $132.0700, inclusive. The reporting person undertakes to provide to Merck & Co., Inc., any security holder of Merck & Co., Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000310158-26-000217-0",
-      "ticker": "MRK",
-      "insider": "DeLuca Richard R.",
-      "role": "EVP&Pres, Merck Animal Heallth, Officer",
-      "side": "sell",
-      "shares": 805.0,
-      "price_per_share": 131.0216,
-      "value": 105472.39,
-      "transaction_date": "2026-08-06",
-      "filed_at": "2026-08-10",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000217/form4.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $131.0000 to $131.0700, inclusive. The reporting person undertakes to provide to Merck & Co., Inc., any security holder of Merck & Co., Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000310158-26-000217-1",
-      "ticker": "MRK",
-      "insider": "DeLuca Richard R.",
-      "role": "EVP&Pres, Merck Animal Heallth, Officer",
-      "side": "sell",
-      "shares": 4945.0,
-      "price_per_share": 130.2312,
-      "value": 643993.28,
-      "transaction_date": "2026-08-06",
-      "filed_at": "2026-08-10",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000217/form4.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $130.0000 to $130.9200, inclusive. The reporting person undertakes to provide to Merck & Co., Inc., any security holder of Merck & Co., Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000310158-26-000217-2",
-      "ticker": "MRK",
-      "insider": "DeLuca Richard R.",
-      "role": "EVP&Pres, Merck Animal Heallth, Officer",
-      "side": "sell",
-      "shares": 300.0,
-      "price_per_share": 131.0233,
-      "value": 39306.99,
-      "transaction_date": "2026-08-06",
-      "filed_at": "2026-08-10",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000217/form4.xml",
-      "footnotes": [
-        {
-          "id": "F3",
-          "text": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $131.0000 to $131.0300, inclusive. The reporting person undertakes to provide to Merck & Co., Inc., any security holder of Merck & Co., Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote."
         }
       ],
       "plan_10b5_1": false
@@ -19374,6 +19743,26 @@
       "plan_10b5_1": false
     },
     {
+      "id": "0002015929-26-000009-1",
+      "ticker": "GE",
+      "insider": "Procacci Riccardo",
+      "role": "Senior Vice President, Officer",
+      "side": "sell",
+      "shares": 2023.0,
+      "price_per_share": 324.84,
+      "value": 657151.32,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/40545/000201592926000009/wk-form4_1795036254.xml",
+      "footnotes": [
+        {
+          "id": "F2",
+          "text": "The price reported is a weighted average price. These shares were sold in multiple transactions ranging from $324.77 to $324.84, inclusive. The Reporting Person undertakes to provide to the Company, any security holder of the Company, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
       "id": "0001205247-26-000010-0",
       "ticker": "GE",
       "insider": "CULP H LAWRENCE JR",
@@ -19524,6 +19913,21 @@
           "text": "The reported disposition represents the sale of shares to cover the cost of exercise and withholding tax obligations arising from the stock option exercise reported above."
         }
       ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0001225208-26-009059-0",
+      "ticker": "BA",
+      "insider": "JOHRI AKHIL",
+      "role": "Director",
+      "side": "buy",
+      "shares": 3000.0,
+      "price_per_share": 166.689,
+      "value": 500067.0,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/12927/000122520826009059/doc4.xml",
+      "footnotes": [],
       "plan_10b5_1": false
     },
     {
@@ -20177,10 +20581,6 @@
   "prices": {
     "AAPL": [
       {
-        "date": "2026-05-18",
-        "close": 297.84
-      },
-      {
         "date": "2026-05-19",
         "close": 298.97
       },
@@ -20690,14 +21090,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 353.715
+        "close": 352.45
+      },
+      {
+        "date": "2026-11-19",
+        "close": 349.96
       }
     ],
     "MSFT": [
-      {
-        "date": "2026-05-18",
-        "close": 423.54
-      },
       {
         "date": "2026-05-19",
         "close": 417.42
@@ -21208,14 +21608,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 505.0
+        "close": 508.29
+      },
+      {
+        "date": "2026-11-19",
+        "close": 510.58
       }
     ],
     "NVDA": [
-      {
-        "date": "2026-05-18",
-        "close": 222.32
-      },
       {
         "date": "2026-05-19",
         "close": 220.61
@@ -21726,14 +22126,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 152.975
+        "close": 150.96
+      },
+      {
+        "date": "2026-11-19",
+        "close": 150.64
       }
     ],
     "AMD": [
-      {
-        "date": "2026-05-18",
-        "close": 420.99
-      },
       {
         "date": "2026-05-19",
         "close": 414.05
@@ -22244,14 +22644,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 521.02
+        "close": 530.14
+      },
+      {
+        "date": "2026-11-19",
+        "close": 492.925
       }
     ],
     "INTC": [
-      {
-        "date": "2026-05-18",
-        "close": 108.17
-      },
       {
         "date": "2026-05-19",
         "close": 110.8
@@ -22762,14 +23162,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 54.935
+        "close": 54.67
+      },
+      {
+        "date": "2026-11-19",
+        "close": 57.17
       }
     ],
     "AVGO": [
-      {
-        "date": "2026-05-18",
-        "close": 420.71
-      },
       {
         "date": "2026-05-19",
         "close": 411.07
@@ -23280,14 +23680,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 352.7
+        "close": 354.05
+      },
+      {
+        "date": "2026-11-19",
+        "close": 355.44
       }
     ],
     "ORCL": [
-      {
-        "date": "2026-05-18",
-        "close": 186.61
-      },
       {
         "date": "2026-05-19",
         "close": 181.46
@@ -23798,14 +24198,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 115.46
+        "close": 113.89
+      },
+      {
+        "date": "2026-11-19",
+        "close": 113.99
       }
     ],
     "CRM": [
-      {
-        "date": "2026-05-18",
-        "close": 179.48
-      },
       {
         "date": "2026-05-19",
         "close": 179.42
@@ -24316,14 +24716,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 189.04
+        "close": 190.4
+      },
+      {
+        "date": "2026-11-19",
+        "close": 188.71
       }
     ],
     "ADBE": [
-      {
-        "date": "2026-05-18",
-        "close": 255.64
-      },
       {
         "date": "2026-05-19",
         "close": 254.99
@@ -24834,14 +25234,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 228.67
+        "close": 226.2
+      },
+      {
+        "date": "2026-11-19",
+        "close": 224.58
       }
     ],
     "PLTR": [
-      {
-        "date": "2026-05-18",
-        "close": 135.14
-      },
       {
         "date": "2026-05-19",
         "close": 135.26
@@ -25352,14 +25752,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 156.09
+        "close": 156.67
+      },
+      {
+        "date": "2026-11-19",
+        "close": 158.905
       }
     ],
     "QCOM": [
-      {
-        "date": "2026-05-18",
-        "close": 203.64
-      },
       {
         "date": "2026-05-19",
         "close": 195.61
@@ -25870,14 +26270,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 163.5501
+        "close": 159.81
+      },
+      {
+        "date": "2026-11-19",
+        "close": 164.975
       }
     ],
     "META": [
-      {
-        "date": "2026-05-18",
-        "close": 611.21
-      },
       {
         "date": "2026-05-19",
         "close": 602.61
@@ -26388,14 +26788,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 618.07
+        "close": 616.38
+      },
+      {
+        "date": "2026-11-19",
+        "close": 614.78
       }
     ],
     "GOOGL": [
-      {
-        "date": "2026-05-18",
-        "close": 396.94
-      },
       {
         "date": "2026-05-19",
         "close": 387.66
@@ -26906,14 +27306,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 282.3
+        "close": 282.44
+      },
+      {
+        "date": "2026-11-19",
+        "close": 285.96
       }
     ],
     "NFLX": [
-      {
-        "date": "2026-05-18",
-        "close": 89.65
-      },
       {
         "date": "2026-05-19",
         "close": 89.33
@@ -27424,14 +27824,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 59.99
+        "close": 59.82
+      },
+      {
+        "date": "2026-11-19",
+        "close": 59.45
       }
     ],
     "DIS": [
-      {
-        "date": "2026-05-18",
-        "close": 103.91
-      },
       {
         "date": "2026-05-19",
         "close": 102.29
@@ -27942,14 +28342,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 121.8
+        "close": 122.36
+      },
+      {
+        "date": "2026-11-19",
+        "close": 121.76
       }
     ],
     "TMUS": [
-      {
-        "date": "2026-05-18",
-        "close": 190.65
-      },
       {
         "date": "2026-05-19",
         "close": 193.42
@@ -28460,14 +28860,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 163.94
+        "close": 164.02
+      },
+      {
+        "date": "2026-11-19",
+        "close": 161.895
       }
     ],
     "AMZN": [
-      {
-        "date": "2026-05-18",
-        "close": 264.86
-      },
       {
         "date": "2026-05-19",
         "close": 259.34
@@ -28978,14 +29378,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 266.52
+        "close": 267.74
+      },
+      {
+        "date": "2026-11-19",
+        "close": 265.76
       }
     ],
     "TSLA": [
-      {
-        "date": "2026-05-18",
-        "close": 409.99
-      },
       {
         "date": "2026-05-19",
         "close": 404.11
@@ -29496,14 +29896,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 384.85
+        "close": 383.72
+      },
+      {
+        "date": "2026-11-19",
+        "close": 381.485
       }
     ],
     "HD": [
-      {
-        "date": "2026-05-18",
-        "close": 299.81
-      },
       {
         "date": "2026-05-19",
         "close": 302.44
@@ -30014,14 +30414,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 339.01
+        "close": 337.64
+      },
+      {
+        "date": "2026-11-19",
+        "close": 338.6
       }
     ],
     "MCD": [
-      {
-        "date": "2026-05-18",
-        "close": 282.47
-      },
       {
         "date": "2026-05-19",
         "close": 280.8
@@ -30532,14 +30932,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 274.035
+        "close": 274.03
+      },
+      {
+        "date": "2026-11-19",
+        "close": 271.595
       }
     ],
     "NKE": [
-      {
-        "date": "2026-05-18",
-        "close": 42.57
-      },
       {
         "date": "2026-05-19",
         "close": 42.42
@@ -31050,14 +31450,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 36.735
+        "close": 36.31
+      },
+      {
+        "date": "2026-11-19",
+        "close": 34.605
       }
     ],
     "WMT": [
-      {
-        "date": "2026-05-18",
-        "close": 133.34
-      },
       {
         "date": "2026-05-19",
         "close": 134.2
@@ -31568,14 +31968,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 126.87
+        "close": 127.36
+      },
+      {
+        "date": "2026-11-19",
+        "close": 126.6
       }
     ],
     "COST": [
-      {
-        "date": "2026-05-18",
-        "close": 1076.47
-      },
       {
         "date": "2026-05-19",
         "close": 1094.3199
@@ -32086,14 +32486,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 1110.59
+        "close": 1096.62
+      },
+      {
+        "date": "2026-11-19",
+        "close": 1089.5051
       }
     ],
     "PG": [
-      {
-        "date": "2026-05-18",
-        "close": 142.39
-      },
       {
         "date": "2026-05-19",
         "close": 141.3
@@ -32604,14 +33004,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 170.57
+        "close": 170.29
+      },
+      {
+        "date": "2026-11-19",
+        "close": 168.29
       }
     ],
     "KO": [
-      {
-        "date": "2026-05-18",
-        "close": 81.2
-      },
       {
         "date": "2026-05-19",
         "close": 81.92
@@ -33122,14 +33522,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 98.12
+        "close": 98.09
+      },
+      {
+        "date": "2026-11-19",
+        "close": 95.695
       }
     ],
     "JPM": [
-      {
-        "date": "2026-05-18",
-        "close": 300.73
-      },
       {
         "date": "2026-05-19",
         "close": 295.7
@@ -33640,14 +34040,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 327.08
+        "close": 324.11
+      },
+      {
+        "date": "2026-11-19",
+        "close": 320.77
       }
     ],
     "BAC": [
-      {
-        "date": "2026-05-18",
-        "close": 50.69
-      },
       {
         "date": "2026-05-19",
         "close": 50.7
@@ -34158,14 +34558,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 49.01
+        "close": 48.91
+      },
+      {
+        "date": "2026-11-19",
+        "close": 48.64
       }
     ],
     "GS": [
-      {
-        "date": "2026-05-18",
-        "close": 946.36
-      },
       {
         "date": "2026-05-19",
         "close": 928.74
@@ -34676,14 +35076,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 876.615
+        "close": 873.18
+      },
+      {
+        "date": "2026-11-19",
+        "close": 858.49
       }
     ],
     "V": [
-      {
-        "date": "2026-05-18",
-        "close": 332.64
-      },
       {
         "date": "2026-05-19",
         "close": 329.91
@@ -35194,14 +35594,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 417.63
+        "close": 415.22
+      },
+      {
+        "date": "2026-11-19",
+        "close": 404.585
       }
     ],
     "MA": [
-      {
-        "date": "2026-05-18",
-        "close": 505.79
-      },
       {
         "date": "2026-05-19",
         "close": 499.7
@@ -35712,14 +36112,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 644.165
+        "close": 643.37
+      },
+      {
+        "date": "2026-11-19",
+        "close": 630.93
       }
     ],
     "BRK-B": [
-      {
-        "date": "2026-05-18",
-        "close": 488.38
-      },
       {
         "date": "2026-05-19",
         "close": 480.46
@@ -36230,14 +36630,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 576.12
+        "close": 574.62
+      },
+      {
+        "date": "2026-11-19",
+        "close": 567.8784
       }
     ],
     "UNH": [
-      {
-        "date": "2026-05-18",
-        "close": 391.13
-      },
       {
         "date": "2026-05-19",
         "close": 389.24
@@ -36748,14 +37148,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 355.51
+        "close": 349.91
+      },
+      {
+        "date": "2026-11-19",
+        "close": 331.73
       }
     ],
     "JNJ": [
-      {
-        "date": "2026-05-18",
-        "close": 228.92
-      },
       {
         "date": "2026-05-19",
         "close": 230.0
@@ -37266,14 +37666,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 276.84
+        "close": 272.7
+      },
+      {
+        "date": "2026-11-19",
+        "close": 267.3575
       }
     ],
     "LLY": [
-      {
-        "date": "2026-05-18",
-        "close": 988.09
-      },
       {
         "date": "2026-05-19",
         "close": 1021.41
@@ -37784,14 +38184,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 1391.505
+        "close": 1382.75
+      },
+      {
+        "date": "2026-11-19",
+        "close": 1359.4
       }
     ],
     "ABBV": [
-      {
-        "date": "2026-05-18",
-        "close": 209.41
-      },
       {
         "date": "2026-05-19",
         "close": 213.76
@@ -38302,14 +38702,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 288.33
+        "close": 286.01
+      },
+      {
+        "date": "2026-11-19",
+        "close": 282.745
       }
     ],
     "MRK": [
-      {
-        "date": "2026-05-18",
-        "close": 112.56
-      },
       {
         "date": "2026-05-19",
         "close": 114.24
@@ -38820,14 +39220,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 139.525
+        "close": 137.78
+      },
+      {
+        "date": "2026-11-19",
+        "close": 133.66
       }
     ],
     "PFE": [
-      {
-        "date": "2026-05-18",
-        "close": 25.33
-      },
       {
         "date": "2026-05-19",
         "close": 25.66
@@ -39338,14 +39738,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 28.225
+        "close": 28.06
+      },
+      {
+        "date": "2026-11-19",
+        "close": 27.645
       }
     ],
     "XOM": [
-      {
-        "date": "2026-05-18",
-        "close": 160.49
-      },
       {
         "date": "2026-05-19",
         "close": 162.55
@@ -39856,14 +40256,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 162.09
+        "close": 160.58
+      },
+      {
+        "date": "2026-11-19",
+        "close": 159.22
       }
     ],
     "CVX": [
-      {
-        "date": "2026-05-18",
-        "close": 196.12
-      },
       {
         "date": "2026-05-19",
         "close": 197.25
@@ -40374,14 +40774,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 207.4
+        "close": 205.88
+      },
+      {
+        "date": "2026-11-19",
+        "close": 206.08
       }
     ],
     "COP": [
-      {
-        "date": "2026-05-18",
-        "close": 124.54
-      },
       {
         "date": "2026-05-19",
         "close": 125.11
@@ -40892,14 +41292,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 135.8
+        "close": 134.4
+      },
+      {
+        "date": "2026-11-19",
+        "close": 134.0
       }
     ],
     "SLB": [
-      {
-        "date": "2026-05-18",
-        "close": 57.15
-      },
       {
         "date": "2026-05-19",
         "close": 56.77
@@ -41410,14 +41810,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 48.56
+        "close": 48.41
+      },
+      {
+        "date": "2026-11-19",
+        "close": 48.35
       }
     ],
     "CAT": [
-      {
-        "date": "2026-05-18",
-        "close": 863.95
-      },
       {
         "date": "2026-05-19",
         "close": 860.15
@@ -41928,14 +42328,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 562.795
+        "close": 558.77
+      },
+      {
+        "date": "2026-11-19",
+        "close": 544.69
       }
     ],
     "GE": [
-      {
-        "date": "2026-05-18",
-        "close": 285.99
-      },
       {
         "date": "2026-05-19",
         "close": 285.28
@@ -42446,14 +42846,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 328.99
+        "close": 328.1
+      },
+      {
+        "date": "2026-11-19",
+        "close": 322.41
       }
     ],
     "HON": [
-      {
-        "date": "2026-05-18",
-        "close": 227.8238
-      },
       {
         "date": "2026-05-19",
         "close": 227.7399
@@ -42964,14 +43364,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 223.565
+        "close": 222.7
+      },
+      {
+        "date": "2026-11-19",
+        "close": 218.1601
       }
     ],
     "BA": [
-      {
-        "date": "2026-05-18",
-        "close": 220.61
-      },
       {
         "date": "2026-05-19",
         "close": 215.01
@@ -43482,14 +43882,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 164.3193
+        "close": 162.91
+      },
+      {
+        "date": "2026-11-19",
+        "close": 161.53
       }
     ],
     "NEE": [
-      {
-        "date": "2026-05-18",
-        "close": 89.04
-      },
       {
         "date": "2026-05-19",
         "close": 90.06
@@ -44000,14 +44400,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 84.83
+        "close": 84.78
+      },
+      {
+        "date": "2026-11-19",
+        "close": 83.69
       }
     ],
     "DUK": [
-      {
-        "date": "2026-05-18",
-        "close": 122.84
-      },
       {
         "date": "2026-05-19",
         "close": 124.56
@@ -44518,14 +44918,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 129.945
+        "close": 130.05
+      },
+      {
+        "date": "2026-11-19",
+        "close": 127.895
       }
     ],
     "LIN": [
-      {
-        "date": "2026-05-18",
-        "close": 510.86
-      },
       {
         "date": "2026-05-19",
         "close": 506.07
@@ -45036,14 +45436,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 512.17
+        "close": 512.16
+      },
+      {
+        "date": "2026-11-19",
+        "close": 513.72
       }
     ],
     "FCX": [
-      {
-        "date": "2026-05-18",
-        "close": 60.5
-      },
       {
         "date": "2026-05-19",
         "close": 58.7
@@ -45554,14 +45954,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 52.04
+        "close": 51.45
+      },
+      {
+        "date": "2026-11-19",
+        "close": 50.38
       }
     ],
     "AMT": [
-      {
-        "date": "2026-05-18",
-        "close": 177.28
-      },
       {
         "date": "2026-05-19",
         "close": 183.0
@@ -46072,14 +46472,14 @@
       },
       {
         "date": "2026-11-18",
-        "close": 183.79
+        "close": 184.82
+      },
+      {
+        "date": "2026-11-19",
+        "close": 181.57
       }
     ],
     "PLD": [
-      {
-        "date": "2026-05-18",
-        "close": 142.31
-      },
       {
         "date": "2026-05-19",
         "close": 142.44
@@ -46590,7 +46990,11 @@
       },
       {
         "date": "2026-11-18",
-        "close": 125.29
+        "close": 125.22
+      },
+      {
+        "date": "2026-11-19",
+        "close": 123.15
       }
     ]
   }
