@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T17:32:40.013878+00:00",
+  "updated_at": "2026-11-20T17:05:45.868356+00:00",
   "tickers": [
     "AAPL",
     "MSFT",
@@ -54,6 +54,26 @@
     "PLD"
   ],
   "transactions": [
+    {
+      "id": "0001140361-26-044952-0",
+      "ticker": "AAPL",
+      "insider": "Newstead Jennifer",
+      "role": "SVP, GC and Government Affairs",
+      "side": "sell",
+      "shares": 2398.0,
+      "price_per_share": 352.77,
+      "value": 845942.46,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126044952/form4.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2026."
+        }
+      ],
+      "plan_10b5_1": null
+    },
     {
       "id": "0001140361-26-044773-0",
       "ticker": "AAPL",
@@ -1893,6 +1913,26 @@
         {
           "id": "F3",
           "text": "Shares held by The Horne Teter Family Living Trust, dated 02/01/2019, of which the Reporting Person is trustee."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000002488-26-000215-0",
+      "ticker": "AMD",
+      "insider": "Hahn Ava",
+      "role": "SVP, GC & Corporate Secretary, Officer",
+      "side": "sell",
+      "shares": 34.0,
+      "price_per_share": 511.0,
+      "value": 17374.0,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000215/wk-form4_1795122423.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on March 13, 2026."
         }
       ],
       "plan_10b5_1": true
@@ -6859,6 +6899,218 @@
       "plan_10b5_1": true
     },
     {
+      "id": "0000804328-26-000133-0",
+      "ticker": "QCOM",
+      "insider": "Palkhiwala Akash J.",
+      "role": "EVP, CFO & COO, Officer",
+      "side": "sell",
+      "shares": 628.0,
+      "price_per_share": 159.2013,
+      "value": 99978.42,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000133/edgardoc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
+        },
+        {
+          "id": "F2",
+          "text": "The sale prices for this transaction ranged from $158.6000 to $159.5850 The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000804328-26-000133-1",
+      "ticker": "QCOM",
+      "insider": "Palkhiwala Akash J.",
+      "role": "EVP, CFO & COO, Officer",
+      "side": "sell",
+      "shares": 228.0,
+      "price_per_share": 159.8093,
+      "value": 36436.52,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000133/edgardoc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
+        },
+        {
+          "id": "F3",
+          "text": "The sale prices for this transaction ranged from $159.6300 to $160.3650 The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000804328-26-000133-2",
+      "ticker": "QCOM",
+      "insider": "Palkhiwala Akash J.",
+      "role": "EVP, CFO & COO, Officer",
+      "side": "sell",
+      "shares": 323.0,
+      "price_per_share": 161.3073,
+      "value": 52102.26,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000133/edgardoc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
+        },
+        {
+          "id": "F4",
+          "text": "The sale prices for this transaction ranged from $160.6650 to $161.5750 The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000804328-26-000133-3",
+      "ticker": "QCOM",
+      "insider": "Palkhiwala Akash J.",
+      "role": "EVP, CFO & COO, Officer",
+      "side": "sell",
+      "shares": 457.0,
+      "price_per_share": 162.1868,
+      "value": 74119.37,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000133/edgardoc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
+        },
+        {
+          "id": "F5",
+          "text": "The sale prices for this transaction ranged from $161.7550 to $162.5975 The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000804328-26-000133-4",
+      "ticker": "QCOM",
+      "insider": "Palkhiwala Akash J.",
+      "role": "EVP, CFO & COO, Officer",
+      "side": "sell",
+      "shares": 401.0,
+      "price_per_share": 163.114,
+      "value": 65408.71,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000133/edgardoc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
+        },
+        {
+          "id": "F6",
+          "text": "The sale prices for this transaction ranged from $162.6750 to $163.4900 The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000804328-26-000133-5",
+      "ticker": "QCOM",
+      "insider": "Palkhiwala Akash J.",
+      "role": "EVP, CFO & COO, Officer",
+      "side": "sell",
+      "shares": 303.0,
+      "price_per_share": 164.0268,
+      "value": 49700.12,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000133/edgardoc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
+        },
+        {
+          "id": "F7",
+          "text": "The sale prices for this transaction ranged from $163.6200 to $164.5750 The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000804328-26-000133-6",
+      "ticker": "QCOM",
+      "insider": "Palkhiwala Akash J.",
+      "role": "EVP, CFO & COO, Officer",
+      "side": "sell",
+      "shares": 104.0,
+      "price_per_share": 165.2029,
+      "value": 17181.1,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000133/edgardoc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
+        },
+        {
+          "id": "F8",
+          "text": "The sale prices for this transaction ranged from $164.7350 to $165.4600 The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000804328-26-000133-7",
+      "ticker": "QCOM",
+      "insider": "Palkhiwala Akash J.",
+      "role": "EVP, CFO & COO, Officer",
+      "side": "sell",
+      "shares": 44.0,
+      "price_per_share": 166.182,
+      "value": 7312.01,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000133/edgardoc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
+        },
+        {
+          "id": "F9",
+          "text": "The sale prices for this transaction ranged from $165.7550 to $166.5700 The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000804328-26-000133-8",
+      "ticker": "QCOM",
+      "insider": "Palkhiwala Akash J.",
+      "role": "EVP, CFO & COO, Officer",
+      "side": "sell",
+      "shares": 12.0,
+      "price_per_share": 166.61,
+      "value": 1999.32,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000133/edgardoc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
       "id": "0000804328-26-000132-0",
       "ticker": "QCOM",
       "insider": "ACE HEATHER S",
@@ -7529,6 +7781,210 @@
         {
           "id": "F6",
           "text": "The sale prices for this transaction ranged from $165.1175 to $165.7100. The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017904-0",
+      "ticker": "META",
+      "insider": "LI SUSAN J",
+      "role": "Chief Financial Officer, Officer",
+      "side": "sell",
+      "shares": 795.0,
+      "price_per_share": 620.2521,
+      "value": 493100.42,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017904/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 25, 2025."
+        },
+        {
+          "id": "F2",
+          "text": "The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $619.62 to $620.59 per share. The holder undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon written request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017904-1",
+      "ticker": "META",
+      "insider": "LI SUSAN J",
+      "role": "Chief Financial Officer, Officer",
+      "side": "sell",
+      "shares": 2933.0,
+      "price_per_share": 621.1674,
+      "value": 1821883.98,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017904/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 25, 2025."
+        },
+        {
+          "id": "F3",
+          "text": "The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $620.63 to $621.61 per share. The holder undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon written request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017904-2",
+      "ticker": "META",
+      "insider": "LI SUSAN J",
+      "role": "Chief Financial Officer, Officer",
+      "side": "sell",
+      "shares": 3269.0,
+      "price_per_share": 622.1192,
+      "value": 2033707.66,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017904/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 25, 2025."
+        },
+        {
+          "id": "F4",
+          "text": "The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $621.63 to $622.62 per share. The holder undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon written request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017904-3",
+      "ticker": "META",
+      "insider": "LI SUSAN J",
+      "role": "Chief Financial Officer, Officer",
+      "side": "sell",
+      "shares": 1229.0,
+      "price_per_share": 623.1286,
+      "value": 765825.05,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017904/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 25, 2025."
+        },
+        {
+          "id": "F5",
+          "text": "The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $622.64 to $623.54 per share. The holder undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon written request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017904-4",
+      "ticker": "META",
+      "insider": "LI SUSAN J",
+      "role": "Chief Financial Officer, Officer",
+      "side": "sell",
+      "shares": 610.0,
+      "price_per_share": 624.1334,
+      "value": 380721.37,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017904/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 25, 2025."
+        },
+        {
+          "id": "F6",
+          "text": "The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $623.74 to $624.62 per share. The holder undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon written request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017904-5",
+      "ticker": "META",
+      "insider": "LI SUSAN J",
+      "role": "Chief Financial Officer, Officer",
+      "side": "sell",
+      "shares": 280.0,
+      "price_per_share": 625.2964,
+      "value": 175082.99,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017904/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 25, 2025."
+        },
+        {
+          "id": "F7",
+          "text": "The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $624.80 to $625.68 per share. The holder undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon written request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017904-6",
+      "ticker": "META",
+      "insider": "LI SUSAN J",
+      "role": "Chief Financial Officer, Officer",
+      "side": "sell",
+      "shares": 80.0,
+      "price_per_share": 625.96,
+      "value": 50076.8,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017904/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sales reported were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 25, 2025."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017902-0",
+      "ticker": "META",
+      "insider": "Mahoney Curtis J.",
+      "role": "Chief Legal Officer, Officer",
+      "side": "sell",
+      "shares": 1559.0,
+      "price_per_share": 625.0,
+      "value": 974375.0,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017902/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on February 25, 2026."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-017900-0",
+      "ticker": "META",
+      "insider": "Bosworth Andrew",
+      "role": "Chief Technology Officer, Officer",
+      "side": "sell",
+      "shares": 7847.0,
+      "price_per_share": 625.0,
+      "value": 4904375.0,
+      "transaction_date": "2026-11-17",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017900/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on January 31, 2025."
         }
       ],
       "plan_10b5_1": true
@@ -11856,30 +12312,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0000320187-26-000114-0",
-      "ticker": "NKE",
-      "insider": "Montagne Amy",
-      "role": "PRESIDENT, NIKE, Officer",
-      "side": "sell",
-      "shares": 4867.0,
-      "price_per_share": 42.05,
-      "value": 204657.35,
-      "transaction_date": "2026-08-07",
-      "filed_at": "2026-08-11",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000114/form4.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "Pursuant to Company policy, market transactions in Company stock by officers and directors are permitted only after the first full trading day after the release of quarterly earnings and ending on the fourteenth day of the third month of the following fiscal quarter, except pursuant to approved 10b5-1 trading plans."
-        },
-        {
-          "id": "F2",
-          "text": "Includes shares acquired pursuant to NIKE, Inc.'s Employee Stock Purchase Plan."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
       "id": "0001579299-26-000028-0",
       "ticker": "WMT",
       "insider": "Bartlett Daniel J",
@@ -12998,21 +13430,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0000021344-26-000163-0",
-      "ticker": "KO",
-      "insider": "Ray Sanket",
-      "role": "Other",
-      "side": "sell",
-      "shares": 9958.0,
-      "price_per_share": 86.5,
-      "value": 861367.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-11",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000163/form4.xml",
-      "footnotes": [],
-      "plan_10b5_1": false
-    },
-    {
       "id": "0001225208-26-007727-0",
       "ticker": "JPM",
       "insider": "Leopold Robin",
@@ -13024,21 +13441,6 @@
       "transaction_date": "2026-09-10",
       "filed_at": "2026-09-10",
       "filing_url": "https://www.sec.gov/Archives/edgar/data/19617/000122520826007727/doc4.xml",
-      "footnotes": [],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0001225208-26-007064-0",
-      "ticker": "JPM",
-      "insider": "Leopold Robin",
-      "role": "Head of Human Resources, Officer",
-      "side": "sell",
-      "shares": 2500.0,
-      "price_per_share": 361.4072,
-      "value": 903518.0,
-      "transaction_date": "2026-08-11",
-      "filed_at": "2026-08-11",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/19617/000122520826007064/doc4.xml",
       "footnotes": [],
       "plan_10b5_1": true
     },
@@ -18777,26 +19179,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0000059478-26-000083-0",
-      "ticker": "LLY",
-      "insider": "Zakrowski Donald A",
-      "role": "SVP, Finance, & CAO, Officer",
-      "side": "sell",
-      "shares": 2000.0,
-      "price_per_share": 1185.01,
-      "value": 2370020.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-11",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000083/wk-form4_1786480313.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 11, 2026."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0001761675-26-000007-2",
       "ticker": "ABBV",
       "insider": "Stewart Jeffrey Ryan",
@@ -20576,14 +20958,30 @@
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000139/wk-form4_1787689396.xml",
       "footnotes": [],
       "plan_10b5_1": false
+    },
+    {
+      "id": "0001193125-26-468660-0",
+      "ticker": "PLD",
+      "insider": "KELLY ALFRED F JR",
+      "role": "Other",
+      "side": "buy",
+      "shares": 4700.0,
+      "price_per_share": 124.968,
+      "value": 587349.6,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312526468660/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The price reported in column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $124.65 to $125.33. The reporting person undertakes to provide to Prologis, Inc., any security holder of Prologis, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each price."
+        }
+      ],
+      "plan_10b5_1": null
     }
   ],
   "prices": {
     "AAPL": [
-      {
-        "date": "2026-05-19",
-        "close": 298.97
-      },
       {
         "date": "2026-05-20",
         "close": 302.25
@@ -21094,14 +21492,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 349.96
+        "close": 349.21
+      },
+      {
+        "date": "2026-11-20",
+        "close": 346.81
       }
     ],
     "MSFT": [
-      {
-        "date": "2026-05-19",
-        "close": 417.42
-      },
       {
         "date": "2026-05-20",
         "close": 421.06
@@ -21612,14 +22010,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 510.58
+        "close": 498.3
+      },
+      {
+        "date": "2026-11-20",
+        "close": 487.19
       }
     ],
     "NVDA": [
-      {
-        "date": "2026-05-19",
-        "close": 220.61
-      },
       {
         "date": "2026-05-20",
         "close": 223.47
@@ -22130,14 +22528,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 150.64
+        "close": 145.98
+      },
+      {
+        "date": "2026-11-20",
+        "close": 135.63
       }
     ],
     "AMD": [
-      {
-        "date": "2026-05-19",
-        "close": 414.05
-      },
       {
         "date": "2026-05-20",
         "close": 447.58
@@ -22648,14 +23046,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 492.925
+        "close": 489.19
+      },
+      {
+        "date": "2026-11-20",
+        "close": 431.02
       }
     ],
     "INTC": [
-      {
-        "date": "2026-05-19",
-        "close": 110.8
-      },
       {
         "date": "2026-05-20",
         "close": 118.96
@@ -23166,14 +23564,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 57.17
+        "close": 55.72
+      },
+      {
+        "date": "2026-11-20",
+        "close": 52.92
       }
     ],
     "AVGO": [
-      {
-        "date": "2026-05-19",
-        "close": 411.07
-      },
       {
         "date": "2026-05-20",
         "close": 417.76
@@ -23684,14 +24082,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 355.44
+        "close": 346.65
+      },
+      {
+        "date": "2026-11-20",
+        "close": 308.09
       }
     ],
     "ORCL": [
-      {
-        "date": "2026-05-19",
-        "close": 181.46
-      },
       {
         "date": "2026-05-20",
         "close": 188.16
@@ -24202,14 +24600,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 113.99
+        "close": 110.57
+      },
+      {
+        "date": "2026-11-20",
+        "close": 102.165
       }
     ],
     "CRM": [
-      {
-        "date": "2026-05-19",
-        "close": 179.42
-      },
       {
         "date": "2026-05-20",
         "close": 180.1
@@ -24720,14 +25118,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 188.71
+        "close": 183.31
+      },
+      {
+        "date": "2026-11-20",
+        "close": 183.84
       }
     ],
     "ADBE": [
-      {
-        "date": "2026-05-19",
-        "close": 254.99
-      },
       {
         "date": "2026-05-20",
         "close": 253.37
@@ -25238,14 +25636,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 224.58
+        "close": 221.68
+      },
+      {
+        "date": "2026-11-20",
+        "close": 224.27
       }
     ],
     "PLTR": [
-      {
-        "date": "2026-05-19",
-        "close": 135.26
-      },
       {
         "date": "2026-05-20",
         "close": 137.15
@@ -25756,14 +26154,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 158.905
+        "close": 153.68
+      },
+      {
+        "date": "2026-11-20",
+        "close": 144.825
       }
     ],
     "QCOM": [
-      {
-        "date": "2026-05-19",
-        "close": 195.61
-      },
       {
         "date": "2026-05-20",
         "close": 202.51
@@ -26274,14 +26672,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 164.975
+        "close": 162.01
+      },
+      {
+        "date": "2026-11-20",
+        "close": 154.9
       }
     ],
     "META": [
-      {
-        "date": "2026-05-19",
-        "close": 602.61
-      },
       {
         "date": "2026-05-20",
         "close": 605.06
@@ -26792,14 +27190,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 614.78
+        "close": 596.22
+      },
+      {
+        "date": "2026-11-20",
+        "close": 573.66
       }
     ],
     "GOOGL": [
-      {
-        "date": "2026-05-19",
-        "close": 387.66
-      },
       {
         "date": "2026-05-20",
         "close": 388.91
@@ -27310,14 +27708,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 285.96
+        "close": 272.66
+      },
+      {
+        "date": "2026-11-20",
+        "close": 275.17
       }
     ],
     "NFLX": [
-      {
-        "date": "2026-05-19",
-        "close": 89.33
-      },
       {
         "date": "2026-05-20",
         "close": 88.09
@@ -27828,14 +28226,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 59.45
+        "close": 58.46
+      },
+      {
+        "date": "2026-11-20",
+        "close": 57.5825
       }
     ],
     "DIS": [
-      {
-        "date": "2026-05-19",
-        "close": 102.29
-      },
       {
         "date": "2026-05-20",
         "close": 104.08
@@ -28346,14 +28744,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 121.76
+        "close": 120.25
+      },
+      {
+        "date": "2026-11-20",
+        "close": 119.07
       }
     ],
     "TMUS": [
-      {
-        "date": "2026-05-19",
-        "close": 193.42
-      },
       {
         "date": "2026-05-20",
         "close": 190.16
@@ -28864,14 +29262,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 161.895
+        "close": 162.53
+      },
+      {
+        "date": "2026-11-20",
+        "close": 167.665
       }
     ],
     "AMZN": [
-      {
-        "date": "2026-05-19",
-        "close": 259.34
-      },
       {
         "date": "2026-05-20",
         "close": 265.01
@@ -29382,14 +29780,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 265.76
+        "close": 257.37
+      },
+      {
+        "date": "2026-11-20",
+        "close": 251.955
       }
     ],
     "TSLA": [
-      {
-        "date": "2026-05-19",
-        "close": 404.11
-      },
       {
         "date": "2026-05-20",
         "close": 417.26
@@ -29900,14 +30298,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 381.485
+        "close": 374.41
+      },
+      {
+        "date": "2026-11-20",
+        "close": 352.96
       }
     ],
     "HD": [
-      {
-        "date": "2026-05-19",
-        "close": 302.44
-      },
       {
         "date": "2026-05-20",
         "close": 310.58
@@ -30418,14 +30816,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 338.6
+        "close": 336.68
+      },
+      {
+        "date": "2026-11-20",
+        "close": 343.415
       }
     ],
     "MCD": [
-      {
-        "date": "2026-05-19",
-        "close": 280.8
-      },
       {
         "date": "2026-05-20",
         "close": 280.27
@@ -30936,14 +31334,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 271.595
+        "close": 272.35
+      },
+      {
+        "date": "2026-11-20",
+        "close": 275.69
       }
     ],
     "NKE": [
-      {
-        "date": "2026-05-19",
-        "close": 42.42
-      },
       {
         "date": "2026-05-20",
         "close": 44.19
@@ -31454,14 +31852,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 34.605
+        "close": 34.33
+      },
+      {
+        "date": "2026-11-20",
+        "close": 33.545
       }
     ],
     "WMT": [
-      {
-        "date": "2026-05-19",
-        "close": 134.2
-      },
       {
         "date": "2026-05-20",
         "close": 130.85
@@ -31972,14 +32370,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 126.6
+        "close": 126.04
+      },
+      {
+        "date": "2026-11-20",
+        "close": 129.66
       }
     ],
     "COST": [
-      {
-        "date": "2026-05-19",
-        "close": 1094.3199
-      },
       {
         "date": "2026-05-20",
         "close": 1074.01
@@ -32490,14 +32888,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 1089.5051
+        "close": 1093.83
+      },
+      {
+        "date": "2026-11-20",
+        "close": 1118.745
       }
     ],
     "PG": [
-      {
-        "date": "2026-05-19",
-        "close": 141.3
-      },
       {
         "date": "2026-05-20",
         "close": 142.44
@@ -33008,14 +33406,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 168.29
+        "close": 167.85
+      },
+      {
+        "date": "2026-11-20",
+        "close": 170.48
       }
     ],
     "KO": [
-      {
-        "date": "2026-05-19",
-        "close": 81.92
-      },
       {
         "date": "2026-05-20",
         "close": 81.55
@@ -33526,14 +33924,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 95.695
+        "close": 96.09
+      },
+      {
+        "date": "2026-11-20",
+        "close": 97.62
       }
     ],
     "JPM": [
-      {
-        "date": "2026-05-19",
-        "close": 295.7
-      },
       {
         "date": "2026-05-20",
         "close": 301.98
@@ -34044,14 +34442,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 320.77
+        "close": 320.22
+      },
+      {
+        "date": "2026-11-20",
+        "close": 315.005
       }
     ],
     "BAC": [
-      {
-        "date": "2026-05-19",
-        "close": 50.7
-      },
       {
         "date": "2026-05-20",
         "close": 51.23
@@ -34562,14 +34960,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 48.64
+        "close": 48.57
+      },
+      {
+        "date": "2026-11-20",
+        "close": 47.7922
       }
     ],
     "GS": [
-      {
-        "date": "2026-05-19",
-        "close": 928.74
-      },
       {
         "date": "2026-05-20",
         "close": 982.12
@@ -35080,14 +35478,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 858.49
+        "close": 847.53
+      },
+      {
+        "date": "2026-11-20",
+        "close": 799.7
       }
     ],
     "V": [
-      {
-        "date": "2026-05-19",
-        "close": 329.91
-      },
       {
         "date": "2026-05-20",
         "close": 330.75
@@ -35598,14 +35996,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 404.585
+        "close": 402.25
+      },
+      {
+        "date": "2026-11-20",
+        "close": 408.06
       }
     ],
     "MA": [
-      {
-        "date": "2026-05-19",
-        "close": 499.7
-      },
       {
         "date": "2026-05-20",
         "close": 498.04
@@ -36116,14 +36514,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 630.93
+        "close": 626.5
+      },
+      {
+        "date": "2026-11-20",
+        "close": 633.97
       }
     ],
     "BRK-B": [
-      {
-        "date": "2026-05-19",
-        "close": 480.46
-      },
       {
         "date": "2026-05-20",
         "close": 480.9
@@ -36634,14 +37032,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 567.8784
+        "close": 572.04
+      },
+      {
+        "date": "2026-11-20",
+        "close": 573.3
       }
     ],
     "UNH": [
-      {
-        "date": "2026-05-19",
-        "close": 389.24
-      },
       {
         "date": "2026-05-20",
         "close": 383.3
@@ -37152,14 +37550,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 331.73
+        "close": 330.48
+      },
+      {
+        "date": "2026-11-20",
+        "close": 345.82
       }
     ],
     "JNJ": [
-      {
-        "date": "2026-05-19",
-        "close": 230.0
-      },
       {
         "date": "2026-05-20",
         "close": 229.32
@@ -37670,14 +38068,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 267.3575
+        "close": 267.14
+      },
+      {
+        "date": "2026-11-20",
+        "close": 271.05
       }
     ],
     "LLY": [
-      {
-        "date": "2026-05-19",
-        "close": 1021.41
-      },
       {
         "date": "2026-05-20",
         "close": 1018.87
@@ -38188,14 +38586,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 1359.4
+        "close": 1351.12
+      },
+      {
+        "date": "2026-11-20",
+        "close": 1354.51
       }
     ],
     "ABBV": [
-      {
-        "date": "2026-05-19",
-        "close": 213.76
-      },
       {
         "date": "2026-05-20",
         "close": 212.3
@@ -38706,14 +39104,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 282.745
+        "close": 283.54
+      },
+      {
+        "date": "2026-11-20",
+        "close": 288.6899
       }
     ],
     "MRK": [
-      {
-        "date": "2026-05-19",
-        "close": 114.24
-      },
       {
         "date": "2026-05-20",
         "close": 113.0
@@ -39224,14 +39622,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 133.66
+        "close": 132.81
+      },
+      {
+        "date": "2026-11-20",
+        "close": 134.99
       }
     ],
     "PFE": [
-      {
-        "date": "2026-05-19",
-        "close": 25.66
-      },
       {
         "date": "2026-05-20",
         "close": 25.79
@@ -39742,14 +40140,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 27.645
+        "close": 27.54
+      },
+      {
+        "date": "2026-11-20",
+        "close": 27.615
       }
     ],
     "XOM": [
-      {
-        "date": "2026-05-19",
-        "close": 162.55
-      },
       {
         "date": "2026-05-20",
         "close": 156.28
@@ -40260,14 +40658,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 159.22
+        "close": 158.93
+      },
+      {
+        "date": "2026-11-20",
+        "close": 160.63
       }
     ],
     "CVX": [
-      {
-        "date": "2026-05-19",
-        "close": 197.25
-      },
       {
         "date": "2026-05-20",
         "close": 191.33
@@ -40778,14 +41176,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 206.08
+        "close": 206.5
+      },
+      {
+        "date": "2026-11-20",
+        "close": 209.445
       }
     ],
     "COP": [
-      {
-        "date": "2026-05-19",
-        "close": 125.11
-      },
       {
         "date": "2026-05-20",
         "close": 122.36
@@ -41296,14 +41694,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 134.0
+        "close": 134.99
+      },
+      {
+        "date": "2026-11-20",
+        "close": 137.225
       }
     ],
     "SLB": [
-      {
-        "date": "2026-05-19",
-        "close": 56.77
-      },
       {
         "date": "2026-05-20",
         "close": 57.28
@@ -41814,14 +42212,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 48.35
+        "close": 47.9
+      },
+      {
+        "date": "2026-11-20",
+        "close": 46.3079
       }
     ],
     "CAT": [
-      {
-        "date": "2026-05-19",
-        "close": 860.15
-      },
       {
         "date": "2026-05-20",
         "close": 872.56
@@ -42332,14 +42730,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 544.69
+        "close": 537.37
+      },
+      {
+        "date": "2026-11-20",
+        "close": 515.16
       }
     ],
     "GE": [
-      {
-        "date": "2026-05-19",
-        "close": 285.28
-      },
       {
         "date": "2026-05-20",
         "close": 300.17
@@ -42850,14 +43248,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 322.41
+        "close": 318.88
+      },
+      {
+        "date": "2026-11-20",
+        "close": 312.215
       }
     ],
     "HON": [
-      {
-        "date": "2026-05-19",
-        "close": 227.7399
-      },
       {
         "date": "2026-05-20",
         "close": 227.9916
@@ -43368,14 +43766,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 218.1601
+        "close": 217.84
+      },
+      {
+        "date": "2026-11-20",
+        "close": 216.26
       }
     ],
     "BA": [
-      {
-        "date": "2026-05-19",
-        "close": 215.01
-      },
       {
         "date": "2026-05-20",
         "close": 222.2
@@ -43886,14 +44284,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 161.53
+        "close": 160.51
+      },
+      {
+        "date": "2026-11-20",
+        "close": 159.05
       }
     ],
     "NEE": [
-      {
-        "date": "2026-05-19",
-        "close": 90.06
-      },
       {
         "date": "2026-05-20",
         "close": 88.27
@@ -44404,14 +44802,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 83.69
+        "close": 83.79
+      },
+      {
+        "date": "2026-11-20",
+        "close": 84.55
       }
     ],
     "DUK": [
-      {
-        "date": "2026-05-19",
-        "close": 124.56
-      },
       {
         "date": "2026-05-20",
         "close": 123.81
@@ -44922,14 +45320,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 127.895
+        "close": 128.86
+      },
+      {
+        "date": "2026-11-20",
+        "close": 130.925
       }
     ],
     "LIN": [
-      {
-        "date": "2026-05-19",
-        "close": 506.07
-      },
       {
         "date": "2026-05-20",
         "close": 506.63
@@ -45440,14 +45838,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 513.72
+        "close": 510.21
+      },
+      {
+        "date": "2026-11-20",
+        "close": 510.85
       }
     ],
     "FCX": [
-      {
-        "date": "2026-05-19",
-        "close": 58.7
-      },
       {
         "date": "2026-05-20",
         "close": 60.87
@@ -45958,14 +46356,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 50.38
+        "close": 49.12
+      },
+      {
+        "date": "2026-11-20",
+        "close": 46.0
       }
     ],
     "AMT": [
-      {
-        "date": "2026-05-19",
-        "close": 183.0
-      },
       {
         "date": "2026-05-20",
         "close": 184.02
@@ -46476,14 +46874,14 @@
       },
       {
         "date": "2026-11-19",
-        "close": 181.57
+        "close": 181.15
+      },
+      {
+        "date": "2026-11-20",
+        "close": 184.525
       }
     ],
     "PLD": [
-      {
-        "date": "2026-05-19",
-        "close": 142.44
-      },
       {
         "date": "2026-05-20",
         "close": 144.68
@@ -46994,7 +47392,11 @@
       },
       {
         "date": "2026-11-19",
-        "close": 123.15
+        "close": 123.36
+      },
+      {
+        "date": "2026-11-20",
+        "close": 124.49
       }
     ]
   }
