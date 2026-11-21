@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T17:05:45.868356+00:00",
+  "updated_at": "2026-11-21T16:16:50.225001+00:00",
   "tickers": [
     "AAPL",
     "MSFT",
@@ -7666,126 +7666,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0000804328-26-000091-0",
-      "ticker": "QCOM",
-      "insider": "Palkhiwala Akash J.",
-      "role": "EVP, CFO & COO, Officer",
-      "side": "sell",
-      "shares": 260.0,
-      "price_per_share": 161.7729,
-      "value": 42060.95,
-      "transaction_date": "2026-08-12",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000091/edgardoc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
-        },
-        {
-          "id": "F2",
-          "text": "The sale prices for this transaction ranged from $161.1150 to $162.1000. The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000804328-26-000091-1",
-      "ticker": "QCOM",
-      "insider": "Palkhiwala Akash J.",
-      "role": "EVP, CFO & COO, Officer",
-      "side": "sell",
-      "shares": 748.0,
-      "price_per_share": 162.5579,
-      "value": 121593.31,
-      "transaction_date": "2026-08-12",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000091/edgardoc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
-        },
-        {
-          "id": "F3",
-          "text": "The sale prices for this transaction ranged from $162.1350 to $163.1075. The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000804328-26-000091-2",
-      "ticker": "QCOM",
-      "insider": "Palkhiwala Akash J.",
-      "role": "EVP, CFO & COO, Officer",
-      "side": "sell",
-      "shares": 1080.0,
-      "price_per_share": 163.4452,
-      "value": 176520.82,
-      "transaction_date": "2026-08-12",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000091/edgardoc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
-        },
-        {
-          "id": "F4",
-          "text": "The sale prices for this transaction ranged from $163.1150 to $164.0600. The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000804328-26-000091-3",
-      "ticker": "QCOM",
-      "insider": "Palkhiwala Akash J.",
-      "role": "EVP, CFO & COO, Officer",
-      "side": "sell",
-      "shares": 248.0,
-      "price_per_share": 164.7277,
-      "value": 40852.47,
-      "transaction_date": "2026-08-12",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000091/edgardoc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
-        },
-        {
-          "id": "F5",
-          "text": "The sale prices for this transaction ranged from $164.1350 to $165.0850. The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000804328-26-000091-4",
-      "ticker": "QCOM",
-      "insider": "Palkhiwala Akash J.",
-      "role": "EVP, CFO & COO, Officer",
-      "side": "sell",
-      "shares": 164.0,
-      "price_per_share": 165.3368,
-      "value": 27115.24,
-      "transaction_date": "2026-08-12",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000091/edgardoc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted on December 8, 2025."
-        },
-        {
-          "id": "F6",
-          "text": "The sale prices for this transaction ranged from $165.1175 to $165.7100. The filer hereby agrees to provide, upon request, full information regarding the number of shares sold at each separate price."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0000950103-26-017904-0",
       "ticker": "META",
       "insider": "LI SUSAN J",
@@ -10718,210 +10598,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0000950103-26-012279-0",
-      "ticker": "META",
-      "insider": "Olivan Javier",
-      "role": "Chief Operating Officer, Officer",
-      "side": "sell",
-      "shares": 149.0,
-      "price_per_share": 600.0,
-      "value": 89400.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012279/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000950103-26-012279-1",
-      "ticker": "META",
-      "insider": "Olivan Javier",
-      "role": "Chief Operating Officer, Officer",
-      "side": "sell",
-      "shares": 113.0,
-      "price_per_share": 602.415,
-      "value": 68072.89,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012279/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
-        },
-        {
-          "id": "F2",
-          "text": "The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $602.11 to $602.66 per share. The holder undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon written request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000950103-26-012279-2",
-      "ticker": "META",
-      "insider": "Olivan Javier",
-      "role": "Chief Operating Officer, Officer",
-      "side": "sell",
-      "shares": 92.0,
-      "price_per_share": 604.0835,
-      "value": 55575.68,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012279/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
-        },
-        {
-          "id": "F3",
-          "text": "The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $603.70 to $604.52 per share. The holder undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon written request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000950103-26-012279-3",
-      "ticker": "META",
-      "insider": "Olivan Javier",
-      "role": "Chief Operating Officer, Officer",
-      "side": "sell",
-      "shares": 40.0,
-      "price_per_share": 605.97,
-      "value": 24238.8,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012279/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000950103-26-012279-4",
-      "ticker": "META",
-      "insider": "Olivan Javier",
-      "role": "Chief Operating Officer, Officer",
-      "side": "sell",
-      "shares": 40.0,
-      "price_per_share": 607.14,
-      "value": 24285.6,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012279/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000950103-26-012279-5",
-      "ticker": "META",
-      "insider": "Olivan Javier",
-      "role": "Chief Operating Officer, Officer",
-      "side": "sell",
-      "shares": 164.0,
-      "price_per_share": 600.0,
-      "value": 98400.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012279/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
-        },
-        {
-          "id": "F4",
-          "text": "Shares held of record by the reporting person, manager of Olivan D LLC."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000950103-26-012279-6",
-      "ticker": "META",
-      "insider": "Olivan Javier",
-      "role": "Chief Operating Officer, Officer",
-      "side": "sell",
-      "shares": 114.0,
-      "price_per_share": 600.0,
-      "value": 68400.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012279/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
-        },
-        {
-          "id": "F5",
-          "text": "Shares held of record by the reporting person and his spouse, managers of Olivan Reinhold D LLC."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000950103-26-012279-7",
-      "ticker": "META",
-      "insider": "Olivan Javier",
-      "role": "Chief Operating Officer, Officer",
-      "side": "sell",
-      "shares": 164.0,
-      "price_per_share": 600.0,
-      "value": 98400.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012279/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
-        },
-        {
-          "id": "F6",
-          "text": "Shares held of record by the reporting person's spouse, manager of Reinhold D LLC."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000950103-26-012279-8",
-      "ticker": "META",
-      "insider": "Olivan Javier",
-      "role": "Chief Operating Officer, Officer",
-      "side": "sell",
-      "shares": 816.0,
-      "price_per_share": 600.0,
-      "value": 489600.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012279/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
-        },
-        {
-          "id": "F7",
-          "text": "Shares held of record by the reporting person and his spouse, Co-Trustees of the Olivan Reinhold Family Revocable Trust u/a/d 10/16/12."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0001193125-26-463983-0",
       "ticker": "GOOGL",
       "insider": "Hennessy John L.",
@@ -11188,6 +10864,61 @@
       "plan_10b5_1": true
     },
     {
+      "id": "0001628280-26-075329-0",
+      "ticker": "DIS",
+      "insider": "Gutierrez Horacio E",
+      "role": "SEVP, CL&GAO, Officer",
+      "side": "sell",
+      "shares": 2568.0,
+      "price_per_share": 120.0,
+      "value": 308160.0,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1744489/000162828026075329/wk-form4_1795214610.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The transaction reported on this Form 4 was made pursuant to a contract, instruction, or written plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) previously adopted by the reporting person on December 11, 2025."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0001628280-26-075328-1",
+      "ticker": "DIS",
+      "insider": "IGER ROBERT A",
+      "role": "Director",
+      "side": "sell",
+      "shares": 321694.0,
+      "price_per_share": 122.82,
+      "value": 39510457.08,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1744489/000162828026075328/wk-form4_1795214601.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $122.355 to $123.185, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0001628280-26-075327-1",
+      "ticker": "DIS",
+      "insider": "Roeder Paul M",
+      "role": "Sr EVP and Chief Comm Officer, Officer",
+      "side": "sell",
+      "shares": 4854.0,
+      "price_per_share": 123.16,
+      "value": 597818.64,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1744489/000162828026075327/wk-form4_1795214594.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
+    },
+    {
       "id": "0001628280-26-071797-0",
       "ticker": "DIS",
       "insider": "Gutierrez Horacio E",
@@ -11406,6 +11137,26 @@
         }
       ],
       "plan_10b5_1": false
+    },
+    {
+      "id": "0001018724-26-000056-0",
+      "ticker": "AMZN",
+      "insider": "Huttenlocher Daniel P",
+      "role": "Director",
+      "side": "sell",
+      "shares": 783.0,
+      "price_per_share": 259.63,
+      "value": 203290.29,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000056/wk-form4_1795209411.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on 05/04/2026."
+        }
+      ],
+      "plan_10b5_1": true
     },
     {
       "id": "0001936006-26-000030-1",
@@ -12123,6 +11874,26 @@
         {
           "id": "F2",
           "text": "PURSUANT TO THE ISSUER'S EQUITY PLAN AND POLICIES, THESE SHARES OF COMMON STOCK WERE AUTOMATICALLY WITHHELD AND SOLD BY THE ISSUER TO SATISFY THE REPORTING PERSON'S TAX WITHHOLDING OBLIGATIONS RELATED TO THE VESTING OF RESTRICTED STOCK UNITS REPORTED HEREIN."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000354950-26-000188-1",
+      "ticker": "HD",
+      "insider": "Decker Edward P.",
+      "role": "Chair, Officer, Director",
+      "side": "sell",
+      "shares": 19350.0,
+      "price_per_share": 338.53,
+      "value": 6550555.5,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000188/wk-form4_1795213546.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $338.44 to $338.66, inclusive. The reporting person undertakes to provide to the Company, any security holder of the Company, or the staff of the SEC, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote."
         }
       ],
       "plan_10b5_1": false
@@ -13443,6 +13214,314 @@
       "filing_url": "https://www.sec.gov/Archives/edgar/data/19617/000122520826007727/doc4.xml",
       "footnotes": [],
       "plan_10b5_1": true
+    },
+    {
+      "id": "0000070858-26-000604-0",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "buy",
+      "shares": 194.0,
+      "price_per_share": 10.07,
+      "value": 1953.58,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000604/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000070858-26-000604-1",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "sell",
+      "shares": 194.0,
+      "price_per_share": 10.03,
+      "value": 1945.82,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000604/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000070858-26-000603-0",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "buy",
+      "shares": 47.0,
+      "price_per_share": 8.52,
+      "value": 400.44,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000603/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000070858-26-000603-1",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "sell",
+      "shares": 47.0,
+      "price_per_share": 8.4923,
+      "value": 399.14,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000603/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000070858-26-000602-0",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "buy",
+      "shares": 288.0,
+      "price_per_share": 9.135,
+      "value": 2630.88,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000602/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000070858-26-000602-1",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "sell",
+      "shares": 188.0,
+      "price_per_share": 9.11,
+      "value": 1712.68,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000602/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000070858-26-000602-2",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "sell",
+      "shares": 100.0,
+      "price_per_share": 9.11,
+      "value": 911.0,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000602/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000070858-26-000601-0",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "buy",
+      "shares": 797.0,
+      "price_per_share": 5.785,
+      "value": 4610.65,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000601/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000070858-26-000601-1",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "sell",
+      "shares": 797.0,
+      "price_per_share": 5.715,
+      "value": 4554.85,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000601/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000070858-26-000600-0",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "buy",
+      "shares": 703.0,
+      "price_per_share": 5.445,
+      "value": 3827.84,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000600/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000070858-26-000600-1",
+      "ticker": "BAC",
+      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
+      "role": "10% owner",
+      "side": "sell",
+      "shares": 703.0,
+      "price_per_share": 5.4012,
+      "value": 3797.04,
+      "transaction_date": "2026-11-18",
+      "filed_at": "2026-11-20",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000600/primary_doc.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
+        },
+        {
+          "id": "F2",
+          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
+        },
+        {
+          "id": "F3",
+          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) has been or will be remitted to the Issuer."
+        }
+      ],
+      "plan_10b5_1": false
     },
     {
       "id": "0000070858-26-000543-0",
@@ -15584,454 +15663,6 @@
       "transaction_date": "2026-08-18",
       "filed_at": "2026-08-20",
       "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000451/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-0",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 4797.0,
-      "price_per_share": 12.29,
-      "value": 58955.13,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-1",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 322.0,
-      "price_per_share": 12.29,
-      "value": 3957.38,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-2",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 751.0,
-      "price_per_share": 12.29,
-      "value": 9229.79,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-3",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 500.0,
-      "price_per_share": 12.29,
-      "value": 6145.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-4",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 500.0,
-      "price_per_share": 12.29,
-      "value": 6145.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-5",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 4797.0,
-      "price_per_share": 12.29,
-      "value": 58955.13,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-6",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 751.0,
-      "price_per_share": 12.29,
-      "value": 9229.79,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-7",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "buy",
-      "shares": 322.0,
-      "price_per_share": 12.29,
-      "value": 3957.38,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-8",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 500.0,
-      "price_per_share": 12.32,
-      "value": 6160.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-9",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 500.0,
-      "price_per_share": 12.32,
-      "value": 6160.0,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-10",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 751.0,
-      "price_per_share": 12.32,
-      "value": 9252.32,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-11",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 751.0,
-      "price_per_share": 12.32,
-      "value": 9252.32,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-12",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 322.0,
-      "price_per_share": 12.32,
-      "value": 3967.04,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-13",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 4797.0,
-      "price_per_share": 12.32,
-      "value": 59099.04,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-14",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 4797.0,
-      "price_per_share": 12.32,
-      "value": 59099.04,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This statement is jointly filed by Bank of America Corporation and Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill Lynch\") (collectively, the \"Reporting Persons\"). Bank of America Corporation holds an indirect interest in the securities listed in this Report by virtue of its 100% ownership of its subsidiary Merrill Lynch. Each Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein, if any, and this report shall not be deemed an admission that any such Reporting Person is the beneficial owner of, or has any pecuniary interest in, such securities for purposes of Securities Exchange Act of 1934 (the \"Exchange Act\"), or for any other purpose."
-        },
-        {
-          "id": "F2",
-          "text": "Each Reporting Person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the Exchange Act or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer."
-        },
-        {
-          "id": "F3",
-          "text": "Without conceding its status as a greater than 10% beneficial owner or that the reported transactions are subject to disclosure under Section 16(a) of the Exchange Act or short-swing profit recovery under Section 16(b) of the Exchange Act, the amount of profit potentially recoverable by the Issuer from the reported transactions in the event that the Reporting Persons were greater than 10% beneficial owners and the transactions were subject to Section 16(b) will be remitted to the Issuer."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000070858-26-000439-15",
-      "ticker": "BAC",
-      "insider": "BANK OF AMERICA CORP /DE/; MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% owner",
-      "side": "sell",
-      "shares": 322.0,
-      "price_per_share": 12.32,
-      "value": 3967.04,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/primary_doc.xml",
       "footnotes": [
         {
           "id": "F1",
@@ -19269,121 +18900,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0000310158-26-000219-0",
-      "ticker": "MRK",
-      "insider": "DeLuca Richard R.",
-      "role": "EVP&Pres, Merck Animal Heallth, Officer",
-      "side": "sell",
-      "shares": 20784.0,
-      "price_per_share": 130.4345,
-      "value": 2710950.65,
-      "transaction_date": "2026-08-10",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000219/form4.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $130.0000 to $130.9500, inclusive. The reporting person undertakes to provide to Merck & Co., Inc., any security holder of Merck & Co., Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000310158-26-000219-1",
-      "ticker": "MRK",
-      "insider": "DeLuca Richard R.",
-      "role": "EVP&Pres, Merck Animal Heallth, Officer",
-      "side": "sell",
-      "shares": 7410.0,
-      "price_per_share": 131.3313,
-      "value": 973164.93,
-      "transaction_date": "2026-08-11",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000219/form4.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $131.0000 to $131.9800, inclusive. The reporting person undertakes to provide to Merck & Co., Inc., any security holder of Merck & Co., Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000310158-26-000219-2",
-      "ticker": "MRK",
-      "insider": "DeLuca Richard R.",
-      "role": "EVP&Pres, Merck Animal Heallth, Officer",
-      "side": "sell",
-      "shares": 5427.0,
-      "price_per_share": 132.3496,
-      "value": 718261.28,
-      "transaction_date": "2026-08-11",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000219/form4.xml",
-      "footnotes": [
-        {
-          "id": "F3",
-          "text": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $132.0000 to $132.6514, inclusive. The reporting person undertakes to provide to Merck & Co., Inc., any security holder of Merck & Co., Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000310158-26-000219-3",
-      "ticker": "MRK",
-      "insider": "DeLuca Richard R.",
-      "role": "EVP&Pres, Merck Animal Heallth, Officer",
-      "side": "sell",
-      "shares": 11099.0,
-      "price_per_share": 131.6128,
-      "value": 1460770.47,
-      "transaction_date": "2026-08-12",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000219/form4.xml",
-      "footnotes": [
-        {
-          "id": "F4",
-          "text": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $131.0000 to $131.9950, inclusive. The reporting person undertakes to provide to Merck & Co., Inc., any security holder of Merck & Co., Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000310158-26-000219-4",
-      "ticker": "MRK",
-      "insider": "DeLuca Richard R.",
-      "role": "EVP&Pres, Merck Animal Heallth, Officer",
-      "side": "sell",
-      "shares": 600.0,
-      "price_per_share": 132.0367,
-      "value": 79222.02,
-      "transaction_date": "2026-08-12",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000219/form4.xml",
-      "footnotes": [
-        {
-          "id": "F5",
-          "text": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $132.0000 to $132.0700, inclusive. The reporting person undertakes to provide to Merck & Co., Inc., any security holder of Merck & Co., Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0001225208-26-007083-0",
-      "ticker": "PFE",
-      "insider": "BOURLA ALBERT",
-      "role": "Chairman & CEO, Officer, Director",
-      "side": "buy",
-      "shares": 38000.0,
-      "price_per_share": 26.34,
-      "value": 1000920.0,
-      "transaction_date": "2026-08-12",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007083/doc4.xml",
-      "footnotes": [],
-      "plan_10b5_1": false
-    },
-    {
       "id": "0000093410-26-000204-1",
       "ticker": "CVX",
       "insider": "Booth Thomas Ryder",
@@ -20228,36 +19744,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0001953063-26-000009-1",
-      "ticker": "GE",
-      "insider": "Giglietti Robert M.",
-      "role": "Vice President, Officer",
-      "side": "sell",
-      "shares": 5344.0,
-      "price_per_share": 369.88,
-      "value": 1976638.72,
-      "transaction_date": "2026-08-11",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/40545/000195306326000009/wk-form4_1786565044.xml",
-      "footnotes": [],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0001953063-26-000009-2",
-      "ticker": "GE",
-      "insider": "Giglietti Robert M.",
-      "role": "Vice President, Officer",
-      "side": "sell",
-      "shares": 4898.0,
-      "price_per_share": 369.97,
-      "value": 1812113.06,
-      "transaction_date": "2026-08-11",
-      "filed_at": "2026-08-12",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/40545/000195306326000009/wk-form4_1786565044.xml",
-      "footnotes": [],
-      "plan_10b5_1": false
-    },
-    {
       "id": "0001748614-26-000010-1",
       "ticker": "HON",
       "insider": "Lu Su Ping",
@@ -20983,10 +20469,6 @@
   "prices": {
     "AAPL": [
       {
-        "date": "2026-05-20",
-        "close": 302.25
-      },
-      {
         "date": "2026-05-21",
         "close": 304.99
       },
@@ -21496,14 +20978,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 346.81
+        "close": 342.56
       }
     ],
     "MSFT": [
-      {
-        "date": "2026-05-20",
-        "close": 421.06
-      },
       {
         "date": "2026-05-21",
         "close": 419.09
@@ -22014,14 +21492,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 487.19
+        "close": 484.52
       }
     ],
     "NVDA": [
-      {
-        "date": "2026-05-20",
-        "close": 223.47
-      },
       {
         "date": "2026-05-21",
         "close": 219.51
@@ -22532,14 +22006,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 135.63
+        "close": 125.53
       }
     ],
     "AMD": [
-      {
-        "date": "2026-05-20",
-        "close": 447.58
-      },
       {
         "date": "2026-05-21",
         "close": 449.59
@@ -23050,14 +22520,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 431.02
+        "close": 424.39
       }
     ],
     "INTC": [
-      {
-        "date": "2026-05-20",
-        "close": 118.96
-      },
       {
         "date": "2026-05-21",
         "close": 118.5
@@ -23568,14 +23034,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 52.92
+        "close": 51.28
       }
     ],
     "AVGO": [
-      {
-        "date": "2026-05-20",
-        "close": 417.76
-      },
       {
         "date": "2026-05-21",
         "close": 414.57
@@ -24086,14 +23548,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 308.09
+        "close": 304.41
       }
     ],
     "ORCL": [
-      {
-        "date": "2026-05-20",
-        "close": 188.16
-      },
       {
         "date": "2026-05-21",
         "close": 189.77
@@ -24604,14 +24062,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 102.165
+        "close": 101.19
       }
     ],
     "CRM": [
-      {
-        "date": "2026-05-20",
-        "close": 180.1
-      },
       {
         "date": "2026-05-21",
         "close": 176.31
@@ -25122,14 +24576,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 183.84
+        "close": 180.62
       }
     ],
     "ADBE": [
-      {
-        "date": "2026-05-20",
-        "close": 253.37
-      },
       {
         "date": "2026-05-21",
         "close": 244.1
@@ -25640,14 +25090,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 224.27
+        "close": 217.71
       }
     ],
     "PLTR": [
-      {
-        "date": "2026-05-20",
-        "close": 137.15
-      },
       {
         "date": "2026-05-21",
         "close": 137.415
@@ -26158,14 +25604,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 144.825
+        "close": 143.49
       }
     ],
     "QCOM": [
-      {
-        "date": "2026-05-20",
-        "close": 202.51
-      },
       {
         "date": "2026-05-21",
         "close": 213.41
@@ -26676,14 +26118,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 154.9
+        "close": 149.94
       }
     ],
     "META": [
-      {
-        "date": "2026-05-20",
-        "close": 605.06
-      },
       {
         "date": "2026-05-21",
         "close": 607.38
@@ -27194,14 +26632,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 573.66
+        "close": 560.84
       }
     ],
     "GOOGL": [
-      {
-        "date": "2026-05-20",
-        "close": 388.91
-      },
       {
         "date": "2026-05-21",
         "close": 387.66
@@ -27712,14 +27146,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 275.17
+        "close": 265.29
       }
     ],
     "NFLX": [
-      {
-        "date": "2026-05-20",
-        "close": 88.09
-      },
       {
         "date": "2026-05-21",
         "close": 89.3
@@ -28230,14 +27660,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 57.5825
+        "close": 56.73
       }
     ],
     "DIS": [
-      {
-        "date": "2026-05-20",
-        "close": 104.08
-      },
       {
         "date": "2026-05-21",
         "close": 103.58
@@ -28748,14 +28174,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 119.07
+        "close": 117.98
       }
     ],
     "TMUS": [
-      {
-        "date": "2026-05-20",
-        "close": 190.16
-      },
       {
         "date": "2026-05-21",
         "close": 190.9
@@ -29266,14 +28688,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 167.665
+        "close": 165.6
       }
     ],
     "AMZN": [
-      {
-        "date": "2026-05-20",
-        "close": 265.01
-      },
       {
         "date": "2026-05-21",
         "close": 268.46
@@ -29784,14 +29202,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 251.955
+        "close": 246.82
       }
     ],
     "TSLA": [
-      {
-        "date": "2026-05-20",
-        "close": 417.26
-      },
       {
         "date": "2026-05-21",
         "close": 417.85
@@ -30302,14 +29716,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 352.96
+        "close": 345.82
       }
     ],
     "HD": [
-      {
-        "date": "2026-05-20",
-        "close": 310.58
-      },
       {
         "date": "2026-05-21",
         "close": 313.78
@@ -30820,14 +30230,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 343.415
+        "close": 339.04
       }
     ],
     "MCD": [
-      {
-        "date": "2026-05-20",
-        "close": 280.27
-      },
       {
         "date": "2026-05-21",
         "close": 284.18
@@ -31338,14 +30744,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 275.69
+        "close": 273.24
       }
     ],
     "NKE": [
-      {
-        "date": "2026-05-20",
-        "close": 44.19
-      },
       {
         "date": "2026-05-21",
         "close": 44.39
@@ -31856,14 +31258,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 33.545
+        "close": 32.92
       }
     ],
     "WMT": [
-      {
-        "date": "2026-05-20",
-        "close": 130.85
-      },
       {
         "date": "2026-05-21",
         "close": 121.34
@@ -32374,14 +31772,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 129.66
+        "close": 127.95
       }
     ],
     "COST": [
-      {
-        "date": "2026-05-20",
-        "close": 1074.01
-      },
       {
         "date": "2026-05-21",
         "close": 1050.45
@@ -32892,14 +32286,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 1118.745
+        "close": 1102.15
       }
     ],
     "PG": [
-      {
-        "date": "2026-05-20",
-        "close": 142.44
-      },
       {
         "date": "2026-05-21",
         "close": 143.4
@@ -33410,14 +32800,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 170.48
+        "close": 169.37
       }
     ],
     "KO": [
-      {
-        "date": "2026-05-20",
-        "close": 81.55
-      },
       {
         "date": "2026-05-21",
         "close": 81.17
@@ -33928,14 +33314,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 97.62
+        "close": 96.99
       }
     ],
     "JPM": [
-      {
-        "date": "2026-05-20",
-        "close": 301.98
-      },
       {
         "date": "2026-05-21",
         "close": 303.0
@@ -34446,14 +33828,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 315.005
+        "close": 310.53
       }
     ],
     "BAC": [
-      {
-        "date": "2026-05-20",
-        "close": 51.23
-      },
       {
         "date": "2026-05-21",
         "close": 51.49
@@ -34964,14 +34342,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 47.7922
+        "close": 47.04
       }
     ],
     "GS": [
-      {
-        "date": "2026-05-20",
-        "close": 982.12
-      },
       {
         "date": "2026-05-21",
         "close": 988.17
@@ -35482,14 +34856,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 799.7
+        "close": 790.69
       }
     ],
     "V": [
-      {
-        "date": "2026-05-20",
-        "close": 330.75
-      },
       {
         "date": "2026-05-21",
         "close": 331.12
@@ -36000,14 +35370,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 408.06
+        "close": 401.87
       }
     ],
     "MA": [
-      {
-        "date": "2026-05-20",
-        "close": 498.04
-      },
       {
         "date": "2026-05-21",
         "close": 499.62
@@ -36518,14 +35884,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 633.97
+        "close": 625.59
       }
     ],
     "BRK-B": [
-      {
-        "date": "2026-05-20",
-        "close": 480.9
-      },
       {
         "date": "2026-05-21",
         "close": 479.98
@@ -37036,14 +36398,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 573.3
+        "close": 570.0
       }
     ],
     "UNH": [
-      {
-        "date": "2026-05-20",
-        "close": 383.3
-      },
       {
         "date": "2026-05-21",
         "close": 382.48
@@ -37554,14 +36912,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 345.82
+        "close": 339.85
       }
     ],
     "JNJ": [
-      {
-        "date": "2026-05-20",
-        "close": 229.32
-      },
       {
         "date": "2026-05-21",
         "close": 231.73
@@ -38072,14 +37426,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 271.05
+        "close": 270.47
       }
     ],
     "LLY": [
-      {
-        "date": "2026-05-20",
-        "close": 1018.87
-      },
       {
         "date": "2026-05-21",
         "close": 1041.65
@@ -38590,14 +37940,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 1354.51
+        "close": 1347.11
       }
     ],
     "ABBV": [
-      {
-        "date": "2026-05-20",
-        "close": 212.3
-      },
       {
         "date": "2026-05-21",
         "close": 214.5
@@ -39108,14 +38454,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 288.6899
+        "close": 286.2
       }
     ],
     "MRK": [
-      {
-        "date": "2026-05-20",
-        "close": 113.0
-      },
       {
         "date": "2026-05-21",
         "close": 115.88
@@ -39626,14 +38968,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 134.99
+        "close": 133.72
       }
     ],
     "PFE": [
-      {
-        "date": "2026-05-20",
-        "close": 25.79
-      },
       {
         "date": "2026-05-21",
         "close": 25.95
@@ -40144,14 +39482,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 27.615
+        "close": 27.4
       }
     ],
     "XOM": [
-      {
-        "date": "2026-05-20",
-        "close": 156.28
-      },
       {
         "date": "2026-05-21",
         "close": 155.29
@@ -40662,14 +39996,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 160.63
+        "close": 159.99
       }
     ],
     "CVX": [
-      {
-        "date": "2026-05-20",
-        "close": 191.33
-      },
       {
         "date": "2026-05-21",
         "close": 191.01
@@ -41180,14 +40510,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 209.445
+        "close": 208.37
       }
     ],
     "COP": [
-      {
-        "date": "2026-05-20",
-        "close": 122.36
-      },
       {
         "date": "2026-05-21",
         "close": 120.55
@@ -41698,14 +41024,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 137.225
+        "close": 136.12
       }
     ],
     "SLB": [
-      {
-        "date": "2026-05-20",
-        "close": 57.28
-      },
       {
         "date": "2026-05-21",
         "close": 57.25
@@ -42216,14 +41538,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 46.3079
+        "close": 45.89
       }
     ],
     "CAT": [
-      {
-        "date": "2026-05-20",
-        "close": 872.56
-      },
       {
         "date": "2026-05-21",
         "close": 865.95
@@ -42734,14 +42052,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 515.16
+        "close": 510.45
       }
     ],
     "GE": [
-      {
-        "date": "2026-05-20",
-        "close": 300.17
-      },
       {
         "date": "2026-05-21",
         "close": 301.76
@@ -43252,14 +42566,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 312.215
+        "close": 309.62
       }
     ],
     "HON": [
-      {
-        "date": "2026-05-20",
-        "close": 227.9916
-      },
       {
         "date": "2026-05-21",
         "close": 234.7142
@@ -43770,14 +43080,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 216.26
+        "close": 212.64
       }
     ],
     "BA": [
-      {
-        "date": "2026-05-20",
-        "close": 222.2
-      },
       {
         "date": "2026-05-21",
         "close": 219.61
@@ -44288,14 +43594,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 159.05
+        "close": 155.89
       }
     ],
     "NEE": [
-      {
-        "date": "2026-05-20",
-        "close": 88.27
-      },
       {
         "date": "2026-05-21",
         "close": 89.69
@@ -44806,14 +44108,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 84.55
+        "close": 83.45
       }
     ],
     "DUK": [
-      {
-        "date": "2026-05-20",
-        "close": 123.81
-      },
       {
         "date": "2026-05-21",
         "close": 124.66
@@ -45324,14 +44622,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 130.925
+        "close": 129.78
       }
     ],
     "LIN": [
-      {
-        "date": "2026-05-20",
-        "close": 506.63
-      },
       {
         "date": "2026-05-21",
         "close": 514.51
@@ -45842,14 +45136,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 510.85
+        "close": 502.83
       }
     ],
     "FCX": [
-      {
-        "date": "2026-05-20",
-        "close": 60.87
-      },
       {
         "date": "2026-05-21",
         "close": 62.31
@@ -46360,14 +45650,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 46.0
+        "close": 45.99
       }
     ],
     "AMT": [
-      {
-        "date": "2026-05-20",
-        "close": 184.02
-      },
       {
         "date": "2026-05-21",
         "close": 183.78
@@ -46878,14 +46164,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 184.525
+        "close": 184.21
       }
     ],
     "PLD": [
-      {
-        "date": "2026-05-20",
-        "close": 144.68
-      },
       {
         "date": "2026-05-21",
         "close": 144.63
@@ -47396,7 +46678,7 @@
       },
       {
         "date": "2026-11-20",
-        "close": 124.49
+        "close": 122.5
       }
     ]
   }
