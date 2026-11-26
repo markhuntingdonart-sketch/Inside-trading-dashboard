@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T18:53:55.472346+00:00",
+  "updated_at": "2026-11-26T18:35:34.714267+00:00",
   "tickers": [
     "AAPL",
     "MSFT",
@@ -54,6 +54,26 @@
     "PLD"
   ],
   "transactions": [
+    {
+      "id": "0001140361-26-045775-0",
+      "ticker": "AAPL",
+      "insider": "Newstead Jennifer",
+      "role": "SVP, GC and Government Affairs",
+      "side": "sell",
+      "shares": 2398.0,
+      "price_per_share": 347.56,
+      "value": 833448.88,
+      "transaction_date": "2026-11-24",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126045775/form4.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2026."
+        }
+      ],
+      "plan_10b5_1": null
+    },
     {
       "id": "0001140361-26-044952-0",
       "ticker": "AAPL",
@@ -10691,6 +10711,122 @@
       "plan_10b5_1": true
     },
     {
+      "id": "0000950103-26-018246-0",
+      "ticker": "META",
+      "insider": "Olivan Javier",
+      "role": "Chief Operating Officer, Officer",
+      "side": "sell",
+      "shares": 837.0,
+      "price_per_share": 600.0,
+      "value": 502200.0,
+      "transaction_date": "2026-11-23",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326018246/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-018246-1",
+      "ticker": "META",
+      "insider": "Olivan Javier",
+      "role": "Chief Operating Officer, Officer",
+      "side": "sell",
+      "shares": 82.0,
+      "price_per_share": 600.0,
+      "value": 49200.0,
+      "transaction_date": "2026-11-23",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326018246/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
+        },
+        {
+          "id": "F2",
+          "text": "Shares held of record by the reporting person, manager of Olivan D LLC."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-018246-2",
+      "ticker": "META",
+      "insider": "Olivan Javier",
+      "role": "Chief Operating Officer, Officer",
+      "side": "sell",
+      "shares": 57.0,
+      "price_per_share": 600.0,
+      "value": 34200.0,
+      "transaction_date": "2026-11-23",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326018246/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
+        },
+        {
+          "id": "F3",
+          "text": "Shares held of record by the reporting person and his spouse, managers of Olivan Reinhold D LLC."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-018246-3",
+      "ticker": "META",
+      "insider": "Olivan Javier",
+      "role": "Chief Operating Officer, Officer",
+      "side": "sell",
+      "shares": 82.0,
+      "price_per_share": 600.0,
+      "value": 49200.0,
+      "transaction_date": "2026-11-23",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326018246/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
+        },
+        {
+          "id": "F4",
+          "text": "Shares held of record by the reporting person's spouse, manager of Reinhold D LLC."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0000950103-26-018246-4",
+      "ticker": "META",
+      "insider": "Olivan Javier",
+      "role": "Chief Operating Officer, Officer",
+      "side": "sell",
+      "shares": 408.0,
+      "price_per_share": 600.0,
+      "value": 244800.0,
+      "transaction_date": "2026-11-23",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326018246/ownership.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The sale reported was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025."
+        },
+        {
+          "id": "F5",
+          "text": "Shares held of record by the reporting person and his spouse, Co-Trustees of the Olivan Reinhold Family Revocable Trust u/a/d 10/16/12."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
       "id": "0000950103-26-017904-0",
       "ticker": "META",
       "insider": "LI SUSAN J",
@@ -14104,26 +14240,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0001628280-26-057481-1",
-      "ticker": "DIS",
-      "insider": "WOODFORD BRENT",
-      "role": "EVP, Control, Fin Plan & Tax, Officer",
-      "side": "sell",
-      "shares": 7238.0,
-      "price_per_share": 105.31,
-      "value": 762233.78,
-      "transaction_date": "2026-08-14",
-      "filed_at": "2026-08-17",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1744489/000162828026057481/wk-form4_1787004533.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The transaction reported on this Form 4 was made pursuant to a contract, instruction, or written plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) previously adopted by the reporting person on February 24, 2026."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0001283699-26-000132-1",
       "ticker": "TMUS",
       "insider": "Drobac Daniel James",
@@ -16004,6 +16120,61 @@
       "plan_10b5_1": false
     },
     {
+      "id": "0000354950-26-000192-1",
+      "ticker": "HD",
+      "insider": "Campbell Ann Marie",
+      "role": "President & COO, Officer",
+      "side": "sell",
+      "shares": 12338.0,
+      "price_per_share": 346.7,
+      "value": 4277584.6,
+      "transaction_date": "2026-11-23",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000192/wk-form4_1795641486.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $346.61 to $346.86, inclusive. The reporting person undertakes to provide to the Company, any security holder of the Company, or the staff of the SEC, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000354950-26-000192-2",
+      "ticker": "HD",
+      "insider": "Campbell Ann Marie",
+      "role": "President & COO, Officer",
+      "side": "sell",
+      "shares": 98.0,
+      "price_per_share": 355.26,
+      "value": 34815.48,
+      "transaction_date": "2026-11-25",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000192/wk-form4_1795641486.xml",
+      "footnotes": [
+        {
+          "id": "F2",
+          "text": "The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $355.02 to $355.32, inclusive. The reporting person undertakes to provide to the Company, any security holder of the Company, or the staff of the SEC, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0000354950-26-000191-0",
+      "ticker": "HD",
+      "insider": "Roseborough Teresa Wynn",
+      "role": "EVP, Gen. Counsel & Corp. Sec., Officer",
+      "side": "sell",
+      "shares": 3000.0,
+      "price_per_share": 346.68,
+      "value": 1040040.0,
+      "transaction_date": "2026-11-23",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000191/wk-form4_1795641444.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
+    },
+    {
       "id": "0000354950-26-000188-1",
       "ticker": "HD",
       "insider": "Decker Edward P.",
@@ -16206,6 +16377,36 @@
         }
       ],
       "plan_10b5_1": true
+    },
+    {
+      "id": "0002110643-26-000023-0",
+      "ticker": "WMT",
+      "insider": "Milum Dwayne M",
+      "role": "SVP & Controller, Officer",
+      "side": "sell",
+      "shares": 5808.0,
+      "price_per_share": 129.265,
+      "value": 750771.12,
+      "transaction_date": "2026-11-23",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/104169/000211064326000023/wk-form4_1795641814.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
+    },
+    {
+      "id": "0002110643-26-000023-1",
+      "ticker": "WMT",
+      "insider": "Milum Dwayne M",
+      "role": "SVP & Controller, Officer",
+      "side": "sell",
+      "shares": 1886.0,
+      "price_per_share": 131.933,
+      "value": 248825.64,
+      "transaction_date": "2026-11-24",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/104169/000211064326000023/wk-form4_1795641814.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
     },
     {
       "id": "0001696737-26-000023-0",
@@ -20221,6 +20422,46 @@
       "plan_10b5_1": false
     },
     {
+      "id": "0001403161-26-000162-0",
+      "ticker": "V",
+      "insider": "Fabara Paul D",
+      "role": "CHIEF RISK & CLIENT SVCS OFC, Officer",
+      "side": "sell",
+      "shares": 852.0,
+      "price_per_share": 409.0,
+      "value": 348468.0,
+      "transaction_date": "2026-11-24",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000162/form4.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan dated July 31, 2026 adopted by the reporting person."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
+      "id": "0001403161-26-000160-0",
+      "ticker": "V",
+      "insider": "Taneja Rajat",
+      "role": "PRESIDENT, TECHNOLOGY, Officer",
+      "side": "sell",
+      "shares": 1712.0,
+      "price_per_share": 409.0,
+      "value": 700208.0,
+      "transaction_date": "2026-11-24",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000160/form4.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on June 9, 2026."
+        }
+      ],
+      "plan_10b5_1": true
+    },
+    {
       "id": "0001403161-26-000156-4",
       "ticker": "V",
       "insider": "Fabara Paul D",
@@ -22448,6 +22689,30 @@
       "plan_10b5_1": false
     },
     {
+      "id": "0000093410-26-000206-0",
+      "ticker": "CVX",
+      "insider": "Pate R. Hewitt",
+      "role": "Chief Legal Officer, Officer",
+      "side": "sell",
+      "shares": 4790.0,
+      "price_per_share": 205.71,
+      "value": 985350.9,
+      "transaction_date": "2026-11-23",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000206/form4.xml",
+      "footnotes": [
+        {
+          "id": "F1",
+          "text": "This transaction was executed in multiple trades at prices ranging from $205.6325 to $205.7102. The price reported in Column 4 reflects the weighted-average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the range provided."
+        },
+        {
+          "id": "F2",
+          "text": "Reflects disposition of 4,790 shares of Chevron common stock from the Chevron Employee Savings Investment Plan, a 401(k) plan, since the date of the reporting person's last ownership report."
+        }
+      ],
+      "plan_10b5_1": false
+    },
+    {
       "id": "0000093410-26-000204-1",
       "ticker": "CVX",
       "insider": "Booth Thomas Ryder",
@@ -23391,6 +23656,21 @@
         }
       ],
       "plan_10b5_1": true
+    },
+    {
+      "id": "0002017965-26-000012-0",
+      "ticker": "DUK",
+      "insider": "Weintraub Alexander J.",
+      "role": "EVP, Chief Customer Officer, Officer",
+      "side": "sell",
+      "shares": 1500.0,
+      "price_per_share": 128.82,
+      "value": 193230.0,
+      "transaction_date": "2026-11-23",
+      "filed_at": "2026-11-25",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326160/000201796526000012/wk-form4_1795642408.xml",
+      "footnotes": [],
+      "plan_10b5_1": false
     },
     {
       "id": "0002017964-26-000010-0",
@@ -24506,7 +24786,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 355.6722
+        "close": 355.58
       }
     ],
     "MSFT": [
@@ -25024,7 +25304,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 492.01
+        "close": 489.93
       }
     ],
     "NVDA": [
@@ -25542,7 +25822,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 148.12
+        "close": 149.3
       }
     ],
     "AMD": [
@@ -26060,7 +26340,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 400.29
+        "close": 406.03
       }
     ],
     "INTC": [
@@ -26578,7 +26858,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 53.325
+        "close": 54.47
       }
     ],
     "AVGO": [
@@ -27096,7 +27376,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 294.68
+        "close": 300.86
       }
     ],
     "ORCL": [
@@ -27614,7 +27894,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 104.69
+        "close": 103.88
       }
     ],
     "CRM": [
@@ -28132,7 +28412,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 199.145
+        "close": 197.21
       }
     ],
     "ADBE": [
@@ -28650,7 +28930,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 236.45
+        "close": 232.83
       }
     ],
     "PLTR": [
@@ -29168,7 +29448,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 164.04
+        "close": 163.59
       }
     ],
     "QCOM": [
@@ -29686,7 +29966,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 167.04
+        "close": 168.66
       }
     ],
     "META": [
@@ -30204,7 +30484,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 606.87
+        "close": 609.89
       }
     ],
     "GOOGL": [
@@ -30722,7 +31002,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 271.6
+        "close": 273.1
       }
     ],
     "NFLX": [
@@ -31240,7 +31520,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 58.98
+        "close": 59.41
       }
     ],
     "DIS": [
@@ -31758,7 +32038,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 125.055
+        "close": 125.6
       }
     ],
     "TMUS": [
@@ -32276,7 +32556,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 168.01
+        "close": 166.25
       }
     ],
     "AMZN": [
@@ -32794,7 +33074,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 245.43
+        "close": 244.43
       }
     ],
     "TSLA": [
@@ -33312,7 +33592,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 379.31
+        "close": 380.14
       }
     ],
     "HD": [
@@ -33830,7 +34110,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 363.28
+        "close": 361.26
       }
     ],
     "MCD": [
@@ -34348,7 +34628,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 285.405
+        "close": 283.5
       }
     ],
     "NKE": [
@@ -34866,7 +35146,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 36.705
+        "close": 36.66
       }
     ],
     "WMT": [
@@ -35384,7 +35664,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 131.87
+        "close": 131.94
       }
     ],
     "COST": [
@@ -35902,7 +36182,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 1094.615
+        "close": 1086.8101
       }
     ],
     "PG": [
@@ -36420,7 +36700,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 174.39
+        "close": 173.23
       }
     ],
     "KO": [
@@ -36938,7 +37218,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 98.62
+        "close": 97.59
       }
     ],
     "JPM": [
@@ -37456,7 +37736,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 318.03
+        "close": 316.74
       }
     ],
     "BAC": [
@@ -37974,7 +38254,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 48.6
+        "close": 48.54
       }
     ],
     "GS": [
@@ -38492,7 +38772,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 801.64
+        "close": 801.03
       }
     ],
     "V": [
@@ -39010,7 +39290,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 425.79
+        "close": 424.39
       }
     ],
     "MA": [
@@ -39528,7 +39808,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 661.56
+        "close": 659.97
       }
     ],
     "BRK-B": [
@@ -40046,7 +40326,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 581.23
+        "close": 579.32
       }
     ],
     "UNH": [
@@ -40564,7 +40844,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 346.58
+        "close": 346.19
       }
     ],
     "JNJ": [
@@ -41082,7 +41362,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 277.17
+        "close": 273.94
       }
     ],
     "LLY": [
@@ -41600,7 +41880,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 1403.9
+        "close": 1392.22
       }
     ],
     "ABBV": [
@@ -42118,7 +42398,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 297.53
+        "close": 294.48
       }
     ],
     "MRK": [
@@ -42636,7 +42916,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 140.93
+        "close": 140.29
       }
     ],
     "PFE": [
@@ -43154,7 +43434,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 28.49
+        "close": 28.46
       }
     ],
     "XOM": [
@@ -43672,7 +43952,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 159.4801
+        "close": 158.08
       }
     ],
     "CVX": [
@@ -44190,7 +44470,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 211.63
+        "close": 210.95
       }
     ],
     "COP": [
@@ -44708,7 +44988,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 135.83
+        "close": 135.02
       }
     ],
     "SLB": [
@@ -45226,7 +45506,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 48.62
+        "close": 48.52
       }
     ],
     "CAT": [
@@ -45744,7 +46024,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 540.42
+        "close": 543.69
       }
     ],
     "GE": [
@@ -46262,7 +46542,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 318.27
+        "close": 316.98
       }
     ],
     "HON": [
@@ -46780,7 +47060,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 226.52
+        "close": 225.1
       }
     ],
     "BA": [
@@ -47298,7 +47578,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 165.705
+        "close": 164.53
       }
     ],
     "NEE": [
@@ -47816,7 +48096,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 85.8
+        "close": 85.41
       }
     ],
     "DUK": [
@@ -48334,7 +48614,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 132.54
+        "close": 131.9
       }
     ],
     "LIN": [
@@ -48852,7 +49132,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 527.85
+        "close": 524.61
       }
     ],
     "FCX": [
@@ -49370,7 +49650,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 48.205
+        "close": 48.55
       }
     ],
     "AMT": [
@@ -49888,7 +50168,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 186.51
+        "close": 184.59
       }
     ],
     "PLD": [
@@ -50406,7 +50686,7 @@
       },
       {
         "date": "2026-11-25",
-        "close": 127.93
+        "close": 127.03
       }
     ]
   }
