@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T18:35:34.714267+00:00",
+  "updated_at": "2026-11-27T18:20:14.043635+00:00",
   "tickers": [
     "AAPL",
     "MSFT",
@@ -4945,46 +4945,6 @@
         {
           "id": "F1",
           "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on March 13, 2026."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
-      "id": "0000002488-26-000161-3",
-      "ticker": "AMD",
-      "insider": "GRASBY PAUL DARREN",
-      "role": "EVP & CSO, Officer",
-      "side": "sell",
-      "shares": 15000.0,
-      "price_per_share": 514.91,
-      "value": 7723650.0,
-      "transaction_date": "2026-08-17",
-      "filed_at": "2026-08-18",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000161/wk-form4_1787086197.xml",
-      "footnotes": [
-        {
-          "id": "F3",
-          "text": "Transaction executed in multiple trades at prices ranging from $514.79 to $515.12 per share, inclusive. The price reported in column 4 above reflects the weighted average sale price per share. The Reporting Person hereby undertakes to provide the SEC staff, the Issuer or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in this footnote."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000002488-26-000145-1",
-      "ticker": "AMD",
-      "insider": "Papermaster Mark D",
-      "role": "Chief Technology Officer & EVP, Officer",
-      "side": "sell",
-      "shares": 7369.0,
-      "price_per_share": 487.34,
-      "value": 3591208.46,
-      "transaction_date": "2026-08-14",
-      "filed_at": "2026-08-18",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000145/wk-form4_1787084733.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 14, 2025."
         }
       ],
       "plan_10b5_1": true
@@ -13739,26 +13699,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0000950103-26-012607-2",
-      "ticker": "META",
-      "insider": "LI SUSAN J",
-      "role": "Chief Financial Officer, Officer",
-      "side": "sell",
-      "shares": 2127.0,
-      "price_per_share": 689.85,
-      "value": 1467310.95,
-      "transaction_date": "2026-08-15",
-      "filed_at": "2026-08-18",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012607/ownership.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "Represents the number of shares of Class A Common Stock that have been withheld by the Issuer to satisfy its income tax withholding and remittance obligations in connection with the net settlement of the Reporting Person's Restricted Stock Units (\"RSUs\") and does not represent an open market sale."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
       "id": "0001193125-26-463983-0",
       "ticker": "GOOGL",
       "insider": "Hennessy John L.",
@@ -21202,26 +21142,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0001141391-26-000100-0",
-      "ticker": "MA",
-      "insider": "Kirkpatrick Linda Pistecchia",
-      "role": "Chief Services Officer, Officer",
-      "side": "sell",
-      "shares": 1191.0,
-      "price_per_share": 565.24,
-      "value": 673200.84,
-      "transaction_date": "2026-08-17",
-      "filed_at": "2026-08-18",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000100/wk-form4_1787083772.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The transaction was effected pursuant to a pre-planned trading plan entered into in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934. The pre-planned trading plan was adopted by the reporting person for personal financial management purposes on May 4, 2026."
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0001193125-26-463989-0",
       "ticker": "BRK-B",
       "insider": "O'Sullivan Michael J.",
@@ -22570,26 +22490,6 @@
       "plan_10b5_1": false
     },
     {
-      "id": "0000200406-26-000175-1",
-      "ticker": "JNJ",
-      "insider": "Taubert Jennifer L",
-      "role": "EVP, WWC. Innovative Medicine, Officer",
-      "side": "sell",
-      "shares": 15000.0,
-      "price_per_share": 263.36,
-      "value": 3950400.0,
-      "transaction_date": "2026-08-17",
-      "filed_at": "2026-08-18",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000175/wk-form4_1787092263.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "This transaction was executed in multiple trades at prices ranging from $263.30 to $263.48. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide, upon request, to the SEC staff, the issuer, or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
       "id": "0001685556-26-000008-0",
       "ticker": "LLY",
       "insider": "Hakim Anat",
@@ -22614,26 +22514,6 @@
       "plan_10b5_1": true
     },
     {
-      "id": "0001786054-26-000006-0",
-      "ticker": "LLY",
-      "insider": "Jonsson Patrik",
-      "role": "EVP & President, LLY Int'l, Officer",
-      "side": "sell",
-      "shares": 6500.0,
-      "price_per_share": 1175.1,
-      "value": 7638150.0,
-      "transaction_date": "2026-08-17",
-      "filed_at": "2026-08-18",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/59478/000178605426000006/wk-form4_1787084453.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "The transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on February 17, 2026"
-        }
-      ],
-      "plan_10b5_1": true
-    },
-    {
       "id": "0001761675-26-000007-2",
       "ticker": "ABBV",
       "insider": "Stewart Jeffrey Ryan",
@@ -22651,21 +22531,6 @@
           "text": "The price reported in column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $293.54 to $293.82, inclusive. The reporting person undertakes to provide AbbVie Inc., any security holder of AbbVie Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote"
         }
       ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0001762951-26-000006-1",
-      "ticker": "ABBV",
-      "insider": "Donoghoe Nicholas",
-      "role": "EVP, CHIEF BUS/STRAT OFFICER",
-      "side": "sell",
-      "shares": 32710.0,
-      "price_per_share": 250.0,
-      "value": 8177500.0,
-      "transaction_date": "2026-08-14",
-      "filed_at": "2026-08-18",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1551152/000176295126000006/form4-08182026_050811.xml",
-      "footnotes": [],
       "plan_10b5_1": false
     },
     {
@@ -22876,46 +22741,6 @@
         {
           "id": "F2",
           "text": "This transaction was executed in multiple trades at prices ranging from $201.01 to $201.1150. The price reported in Column 4 reflects the weighted-average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the range provided."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000093410-26-000173-1",
-      "ticker": "CVX",
-      "insider": "Wirth Michael K",
-      "role": "Chairman and CEO, Officer, Director",
-      "side": "sell",
-      "shares": 306789.0,
-      "price_per_share": 200.4433,
-      "value": 61493799.56,
-      "transaction_date": "2026-08-14",
-      "filed_at": "2026-08-18",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000173/form4.xml",
-      "footnotes": [
-        {
-          "id": "F1",
-          "text": "These shares were sold in multiple transactions at prices ranging from $200.00 to $200.99, inclusive. The price reported in Column 4 reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares sold at each separate price within the ranges set forth in footnotes (1) and (2) to this Form 4."
-        }
-      ],
-      "plan_10b5_1": false
-    },
-    {
-      "id": "0000093410-26-000173-2",
-      "ticker": "CVX",
-      "insider": "Wirth Michael K",
-      "role": "Chairman and CEO, Officer, Director",
-      "side": "sell",
-      "shares": 10311.0,
-      "price_per_share": 201.0534,
-      "value": 2073061.61,
-      "transaction_date": "2026-08-14",
-      "filed_at": "2026-08-18",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000173/form4.xml",
-      "footnotes": [
-        {
-          "id": "F2",
-          "text": "These shares were sold in multiple transactions at prices ranging from $201.00 to $201.12, inclusive. The price reported in Column 4 reflects the weighted average sale price."
         }
       ],
       "plan_10b5_1": false
@@ -24273,14 +24098,6 @@
   "prices": {
     "AAPL": [
       {
-        "date": "2026-05-26",
-        "close": 308.33
-      },
-      {
-        "date": "2026-05-27",
-        "close": 310.85
-      },
-      {
         "date": "2026-05-28",
         "close": 312.51
       },
@@ -24787,17 +24604,13 @@
       {
         "date": "2026-11-25",
         "close": 355.58
+      },
+      {
+        "date": "2026-11-27",
+        "close": 358.54
       }
     ],
     "MSFT": [
-      {
-        "date": "2026-05-26",
-        "close": 416.03
-      },
-      {
-        "date": "2026-05-27",
-        "close": 412.67
-      },
       {
         "date": "2026-05-28",
         "close": 426.99
@@ -25305,17 +25118,13 @@
       {
         "date": "2026-11-25",
         "close": 489.93
+      },
+      {
+        "date": "2026-11-27",
+        "close": 492.85
       }
     ],
     "NVDA": [
-      {
-        "date": "2026-05-26",
-        "close": 214.86
-      },
-      {
-        "date": "2026-05-27",
-        "close": 212.6
-      },
       {
         "date": "2026-05-28",
         "close": 214.25
@@ -25823,17 +25632,13 @@
       {
         "date": "2026-11-25",
         "close": 149.3
+      },
+      {
+        "date": "2026-11-27",
+        "close": 150.49
       }
     ],
     "AMD": [
-      {
-        "date": "2026-05-26",
-        "close": 503.89
-      },
-      {
-        "date": "2026-05-27",
-        "close": 495.54
-      },
       {
         "date": "2026-05-28",
         "close": 518.09
@@ -26341,17 +26146,13 @@
       {
         "date": "2026-11-25",
         "close": 406.03
+      },
+      {
+        "date": "2026-11-27",
+        "close": 424.54
       }
     ],
     "INTC": [
-      {
-        "date": "2026-05-26",
-        "close": 123.52
-      },
-      {
-        "date": "2026-05-27",
-        "close": 121.77
-      },
       {
         "date": "2026-05-28",
         "close": 120.89
@@ -26859,17 +26660,13 @@
       {
         "date": "2026-11-25",
         "close": 54.47
+      },
+      {
+        "date": "2026-11-27",
+        "close": 57.4
       }
     ],
     "AVGO": [
-      {
-        "date": "2026-05-26",
-        "close": 422.01
-      },
-      {
-        "date": "2026-05-27",
-        "close": 421.86
-      },
       {
         "date": "2026-05-28",
         "close": 426.58
@@ -27377,17 +27174,13 @@
       {
         "date": "2026-11-25",
         "close": 300.86
+      },
+      {
+        "date": "2026-11-27",
+        "close": 312.34
       }
     ],
     "ORCL": [
-      {
-        "date": "2026-05-26",
-        "close": 193.06
-      },
-      {
-        "date": "2026-05-27",
-        "close": 190.96
-      },
       {
         "date": "2026-05-28",
         "close": 203.7
@@ -27895,17 +27688,13 @@
       {
         "date": "2026-11-25",
         "close": 103.88
+      },
+      {
+        "date": "2026-11-27",
+        "close": 106.51
       }
     ],
     "CRM": [
-      {
-        "date": "2026-05-26",
-        "close": 179.08
-      },
-      {
-        "date": "2026-05-27",
-        "close": 177.51
-      },
       {
         "date": "2026-05-28",
         "close": 176.17
@@ -28413,17 +28202,13 @@
       {
         "date": "2026-11-25",
         "close": 197.21
+      },
+      {
+        "date": "2026-11-27",
+        "close": 197.58
       }
     ],
     "ADBE": [
-      {
-        "date": "2026-05-26",
-        "close": 240.49
-      },
-      {
-        "date": "2026-05-27",
-        "close": 238.24
-      },
       {
         "date": "2026-05-28",
         "close": 241.44
@@ -28931,17 +28716,13 @@
       {
         "date": "2026-11-25",
         "close": 232.83
+      },
+      {
+        "date": "2026-11-27",
+        "close": 234.79
       }
     ],
     "PLTR": [
-      {
-        "date": "2026-05-26",
-        "close": 136.6
-      },
-      {
-        "date": "2026-05-27",
-        "close": 132.51
-      },
       {
         "date": "2026-05-28",
         "close": 143.34
@@ -29449,17 +29230,13 @@
       {
         "date": "2026-11-25",
         "close": 163.59
+      },
+      {
+        "date": "2026-11-27",
+        "close": 172.17
       }
     ],
     "QCOM": [
-      {
-        "date": "2026-05-26",
-        "close": 248.82
-      },
-      {
-        "date": "2026-05-27",
-        "close": 233.4
-      },
       {
         "date": "2026-05-28",
         "close": 243.29
@@ -29967,17 +29744,13 @@
       {
         "date": "2026-11-25",
         "close": 168.66
+      },
+      {
+        "date": "2026-11-27",
+        "close": 179.27
       }
     ],
     "META": [
-      {
-        "date": "2026-05-26",
-        "close": 612.34
-      },
-      {
-        "date": "2026-05-27",
-        "close": 635.26
-      },
       {
         "date": "2026-05-28",
         "close": 635.29
@@ -30485,17 +30258,13 @@
       {
         "date": "2026-11-25",
         "close": 609.89
+      },
+      {
+        "date": "2026-11-27",
+        "close": 628.96
       }
     ],
     "GOOGL": [
-      {
-        "date": "2026-05-26",
-        "close": 388.88
-      },
-      {
-        "date": "2026-05-27",
-        "close": 388.83
-      },
       {
         "date": "2026-05-28",
         "close": 390.13
@@ -31003,17 +30772,13 @@
       {
         "date": "2026-11-25",
         "close": 273.1
+      },
+      {
+        "date": "2026-11-27",
+        "close": 274.96
       }
     ],
     "NFLX": [
-      {
-        "date": "2026-05-26",
-        "close": 87.68
-      },
-      {
-        "date": "2026-05-27",
-        "close": 87.35
-      },
       {
         "date": "2026-05-28",
         "close": 86.36
@@ -31521,17 +31286,13 @@
       {
         "date": "2026-11-25",
         "close": 59.41
+      },
+      {
+        "date": "2026-11-27",
+        "close": 60.93
       }
     ],
     "DIS": [
-      {
-        "date": "2026-05-26",
-        "close": 103.28
-      },
-      {
-        "date": "2026-05-27",
-        "close": 104.18
-      },
       {
         "date": "2026-05-28",
         "close": 103.73
@@ -32039,17 +31800,13 @@
       {
         "date": "2026-11-25",
         "close": 125.6
+      },
+      {
+        "date": "2026-11-27",
+        "close": 127.02
       }
     ],
     "TMUS": [
-      {
-        "date": "2026-05-26",
-        "close": 191.11
-      },
-      {
-        "date": "2026-05-27",
-        "close": 190.81
-      },
       {
         "date": "2026-05-28",
         "close": 189.01
@@ -32557,17 +32314,13 @@
       {
         "date": "2026-11-25",
         "close": 166.25
+      },
+      {
+        "date": "2026-11-27",
+        "close": 170.19
       }
     ],
     "AMZN": [
-      {
-        "date": "2026-05-26",
-        "close": 265.29
-      },
-      {
-        "date": "2026-05-27",
-        "close": 271.85
-      },
       {
         "date": "2026-05-28",
         "close": 274.0
@@ -33075,17 +32828,13 @@
       {
         "date": "2026-11-25",
         "close": 244.43
+      },
+      {
+        "date": "2026-11-27",
+        "close": 254.12
       }
     ],
     "TSLA": [
-      {
-        "date": "2026-05-26",
-        "close": 433.59
-      },
-      {
-        "date": "2026-05-27",
-        "close": 440.36
-      },
       {
         "date": "2026-05-28",
         "close": 442.1
@@ -33593,17 +33342,13 @@
       {
         "date": "2026-11-25",
         "close": 380.14
+      },
+      {
+        "date": "2026-11-27",
+        "close": 400.0
       }
     ],
     "HD": [
-      {
-        "date": "2026-05-26",
-        "close": 310.54
-      },
-      {
-        "date": "2026-05-27",
-        "close": 317.85
-      },
       {
         "date": "2026-05-28",
         "close": 321.21
@@ -34111,17 +33856,13 @@
       {
         "date": "2026-11-25",
         "close": 361.26
+      },
+      {
+        "date": "2026-11-27",
+        "close": 361.35
       }
     ],
     "MCD": [
-      {
-        "date": "2026-05-26",
-        "close": 279.26
-      },
-      {
-        "date": "2026-05-27",
-        "close": 280.92
-      },
       {
         "date": "2026-05-28",
         "close": 277.97
@@ -34629,17 +34370,13 @@
       {
         "date": "2026-11-25",
         "close": 283.5
+      },
+      {
+        "date": "2026-11-27",
+        "close": 283.09
       }
     ],
     "NKE": [
-      {
-        "date": "2026-05-26",
-        "close": 44.94
-      },
-      {
-        "date": "2026-05-27",
-        "close": 45.98
-      },
       {
         "date": "2026-05-28",
         "close": 47.37
@@ -35147,17 +34884,13 @@
       {
         "date": "2026-11-25",
         "close": 36.66
+      },
+      {
+        "date": "2026-11-27",
+        "close": 37.305
       }
     ],
     "WMT": [
-      {
-        "date": "2026-05-26",
-        "close": 118.57
-      },
-      {
-        "date": "2026-05-27",
-        "close": 118.54
-      },
       {
         "date": "2026-05-28",
         "close": 118.9
@@ -35665,17 +35398,13 @@
       {
         "date": "2026-11-25",
         "close": 131.94
+      },
+      {
+        "date": "2026-11-27",
+        "close": 133.13
       }
     ],
     "COST": [
-      {
-        "date": "2026-05-26",
-        "close": 1002.93
-      },
-      {
-        "date": "2026-05-27",
-        "close": 1003.69
-      },
       {
         "date": "2026-05-28",
         "close": 995.2
@@ -36183,17 +35912,13 @@
       {
         "date": "2026-11-25",
         "close": 1086.8101
+      },
+      {
+        "date": "2026-11-27",
+        "close": 1097.8101
       }
     ],
     "PG": [
-      {
-        "date": "2026-05-26",
-        "close": 142.96
-      },
-      {
-        "date": "2026-05-27",
-        "close": 147.49
-      },
       {
         "date": "2026-05-28",
         "close": 145.91
@@ -36701,17 +36426,13 @@
       {
         "date": "2026-11-25",
         "close": 173.23
+      },
+      {
+        "date": "2026-11-27",
+        "close": 173.08
       }
     ],
     "KO": [
-      {
-        "date": "2026-05-26",
-        "close": 80.46
-      },
-      {
-        "date": "2026-05-27",
-        "close": 81.62
-      },
       {
         "date": "2026-05-28",
         "close": 80.41
@@ -37219,17 +36940,13 @@
       {
         "date": "2026-11-25",
         "close": 97.59
+      },
+      {
+        "date": "2026-11-27",
+        "close": 97.665
       }
     ],
     "JPM": [
-      {
-        "date": "2026-05-26",
-        "close": 306.74
-      },
-      {
-        "date": "2026-05-27",
-        "close": 299.28
-      },
       {
         "date": "2026-05-28",
         "close": 296.73
@@ -37737,17 +37454,13 @@
       {
         "date": "2026-11-25",
         "close": 316.74
+      },
+      {
+        "date": "2026-11-27",
+        "close": 322.82
       }
     ],
     "BAC": [
-      {
-        "date": "2026-05-26",
-        "close": 52.2
-      },
-      {
-        "date": "2026-05-27",
-        "close": 51.1
-      },
       {
         "date": "2026-05-28",
         "close": 50.77
@@ -38255,17 +37968,13 @@
       {
         "date": "2026-11-25",
         "close": 48.54
+      },
+      {
+        "date": "2026-11-27",
+        "close": 49.0
       }
     ],
     "GS": [
-      {
-        "date": "2026-05-26",
-        "close": 994.52
-      },
-      {
-        "date": "2026-05-27",
-        "close": 996.47
-      },
       {
         "date": "2026-05-28",
         "close": 1008.37
@@ -38773,17 +38482,13 @@
       {
         "date": "2026-11-25",
         "close": 801.03
+      },
+      {
+        "date": "2026-11-27",
+        "close": 810.71
       }
     ],
     "V": [
-      {
-        "date": "2026-05-26",
-        "close": 326.48
-      },
-      {
-        "date": "2026-05-27",
-        "close": 327.61
-      },
       {
         "date": "2026-05-28",
         "close": 324.95
@@ -39291,17 +38996,13 @@
       {
         "date": "2026-11-25",
         "close": 424.39
+      },
+      {
+        "date": "2026-11-27",
+        "close": 430.345
       }
     ],
     "MA": [
-      {
-        "date": "2026-05-26",
-        "close": 493.01
-      },
-      {
-        "date": "2026-05-27",
-        "close": 495.04
-      },
       {
         "date": "2026-05-28",
         "close": 493.75
@@ -39809,17 +39510,13 @@
       {
         "date": "2026-11-25",
         "close": 659.97
+      },
+      {
+        "date": "2026-11-27",
+        "close": 667.04
       }
     ],
     "BRK-B": [
-      {
-        "date": "2026-05-26",
-        "close": 483.62
-      },
-      {
-        "date": "2026-05-27",
-        "close": 479.92
-      },
       {
         "date": "2026-05-28",
         "close": 477.42
@@ -40327,17 +40024,13 @@
       {
         "date": "2026-11-25",
         "close": 579.32
+      },
+      {
+        "date": "2026-11-27",
+        "close": 582.73
       }
     ],
     "UNH": [
-      {
-        "date": "2026-05-26",
-        "close": 376.86
-      },
-      {
-        "date": "2026-05-27",
-        "close": 384.01
-      },
       {
         "date": "2026-05-28",
         "close": 382.53
@@ -40845,17 +40538,13 @@
       {
         "date": "2026-11-25",
         "close": 346.19
+      },
+      {
+        "date": "2026-11-27",
+        "close": 351.52
       }
     ],
     "JNJ": [
-      {
-        "date": "2026-05-26",
-        "close": 230.18
-      },
-      {
-        "date": "2026-05-27",
-        "close": 231.29
-      },
       {
         "date": "2026-05-28",
         "close": 230.8
@@ -41363,17 +41052,13 @@
       {
         "date": "2026-11-25",
         "close": 273.94
+      },
+      {
+        "date": "2026-11-27",
+        "close": 276.24
       }
     ],
     "LLY": [
-      {
-        "date": "2026-05-26",
-        "close": 1064.74
-      },
-      {
-        "date": "2026-05-27",
-        "close": 1082.92
-      },
       {
         "date": "2026-05-28",
         "close": 1126.8
@@ -41881,17 +41566,13 @@
       {
         "date": "2026-11-25",
         "close": 1392.22
+      },
+      {
+        "date": "2026-11-27",
+        "close": 1392.49
       }
     ],
     "ABBV": [
-      {
-        "date": "2026-05-26",
-        "close": 213.12
-      },
-      {
-        "date": "2026-05-27",
-        "close": 215.4
-      },
       {
         "date": "2026-05-28",
         "close": 218.63
@@ -42399,17 +42080,13 @@
       {
         "date": "2026-11-25",
         "close": 294.48
+      },
+      {
+        "date": "2026-11-27",
+        "close": 292.75
       }
     ],
     "MRK": [
-      {
-        "date": "2026-05-26",
-        "close": 119.72
-      },
-      {
-        "date": "2026-05-27",
-        "close": 120.24
-      },
       {
         "date": "2026-05-28",
         "close": 119.89
@@ -42917,17 +42594,13 @@
       {
         "date": "2026-11-25",
         "close": 140.29
+      },
+      {
+        "date": "2026-11-27",
+        "close": 141.19
       }
     ],
     "PFE": [
-      {
-        "date": "2026-05-26",
-        "close": 25.85
-      },
-      {
-        "date": "2026-05-27",
-        "close": 26.21
-      },
       {
         "date": "2026-05-28",
         "close": 26.14
@@ -43435,17 +43108,13 @@
       {
         "date": "2026-11-25",
         "close": 28.46
+      },
+      {
+        "date": "2026-11-27",
+        "close": 28.495
       }
     ],
     "XOM": [
-      {
-        "date": "2026-05-26",
-        "close": 149.81
-      },
-      {
-        "date": "2026-05-27",
-        "close": 147.9
-      },
       {
         "date": "2026-05-28",
         "close": 146.96
@@ -43953,17 +43622,13 @@
       {
         "date": "2026-11-25",
         "close": 158.08
+      },
+      {
+        "date": "2026-11-27",
+        "close": 160.52
       }
     ],
     "CVX": [
-      {
-        "date": "2026-05-26",
-        "close": 184.71
-      },
-      {
-        "date": "2026-05-27",
-        "close": 182.4
-      },
       {
         "date": "2026-05-28",
         "close": 183.03
@@ -44471,17 +44136,13 @@
       {
         "date": "2026-11-25",
         "close": 210.95
+      },
+      {
+        "date": "2026-11-27",
+        "close": 213.11
       }
     ],
     "COP": [
-      {
-        "date": "2026-05-26",
-        "close": 116.57
-      },
-      {
-        "date": "2026-05-27",
-        "close": 115.13
-      },
       {
         "date": "2026-05-28",
         "close": 114.99
@@ -44989,17 +44650,13 @@
       {
         "date": "2026-11-25",
         "close": 135.02
+      },
+      {
+        "date": "2026-11-27",
+        "close": 136.645
       }
     ],
     "SLB": [
-      {
-        "date": "2026-05-26",
-        "close": 57.98
-      },
-      {
-        "date": "2026-05-27",
-        "close": 56.5
-      },
       {
         "date": "2026-05-28",
         "close": 55.12
@@ -45507,17 +45164,13 @@
       {
         "date": "2026-11-25",
         "close": 48.52
+      },
+      {
+        "date": "2026-11-27",
+        "close": 49.47
       }
     ],
     "CAT": [
-      {
-        "date": "2026-05-26",
-        "close": 908.55
-      },
-      {
-        "date": "2026-05-27",
-        "close": 909.93
-      },
       {
         "date": "2026-05-28",
         "close": 887.67
@@ -46025,17 +45678,13 @@
       {
         "date": "2026-11-25",
         "close": 543.69
+      },
+      {
+        "date": "2026-11-27",
+        "close": 559.925
       }
     ],
     "GE": [
-      {
-        "date": "2026-05-26",
-        "close": 314.49
-      },
-      {
-        "date": "2026-05-27",
-        "close": 317.21
-      },
       {
         "date": "2026-05-28",
         "close": 320.82
@@ -46543,17 +46192,13 @@
       {
         "date": "2026-11-25",
         "close": 316.98
+      },
+      {
+        "date": "2026-11-27",
+        "close": 323.305
       }
     ],
     "HON": [
-      {
-        "date": "2026-05-26",
-        "close": 243.0204
-      },
-      {
-        "date": "2026-05-27",
-        "close": 242.8422
-      },
       {
         "date": "2026-05-28",
         "close": 244.3629
@@ -47061,17 +46706,13 @@
       {
         "date": "2026-11-25",
         "close": 225.1
+      },
+      {
+        "date": "2026-11-27",
+        "close": 228.48
       }
     ],
     "BA": [
-      {
-        "date": "2026-05-26",
-        "close": 218.9
-      },
-      {
-        "date": "2026-05-27",
-        "close": 224.3
-      },
       {
         "date": "2026-05-28",
         "close": 228.78
@@ -47579,17 +47220,13 @@
       {
         "date": "2026-11-25",
         "close": 164.53
+      },
+      {
+        "date": "2026-11-27",
+        "close": 166.59
       }
     ],
     "NEE": [
-      {
-        "date": "2026-05-26",
-        "close": 87.65
-      },
-      {
-        "date": "2026-05-27",
-        "close": 87.65
-      },
       {
         "date": "2026-05-28",
         "close": 87.25
@@ -48097,17 +47734,13 @@
       {
         "date": "2026-11-25",
         "close": 85.41
+      },
+      {
+        "date": "2026-11-27",
+        "close": 85.055
       }
     ],
     "DUK": [
-      {
-        "date": "2026-05-26",
-        "close": 124.97
-      },
-      {
-        "date": "2026-05-27",
-        "close": 125.35
-      },
       {
         "date": "2026-05-28",
         "close": 123.76
@@ -48615,17 +48248,13 @@
       {
         "date": "2026-11-25",
         "close": 131.9
+      },
+      {
+        "date": "2026-11-27",
+        "close": 132.03
       }
     ],
     "LIN": [
-      {
-        "date": "2026-05-26",
-        "close": 514.97
-      },
-      {
-        "date": "2026-05-27",
-        "close": 507.87
-      },
       {
         "date": "2026-05-28",
         "close": 501.98
@@ -49133,17 +48762,13 @@
       {
         "date": "2026-11-25",
         "close": 524.61
+      },
+      {
+        "date": "2026-11-27",
+        "close": 532.61
       }
     ],
     "FCX": [
-      {
-        "date": "2026-05-26",
-        "close": 64.36
-      },
-      {
-        "date": "2026-05-27",
-        "close": 63.63
-      },
       {
         "date": "2026-05-28",
         "close": 65.87
@@ -49651,17 +49276,13 @@
       {
         "date": "2026-11-25",
         "close": 48.55
+      },
+      {
+        "date": "2026-11-27",
+        "close": 50.42
       }
     ],
     "AMT": [
-      {
-        "date": "2026-05-26",
-        "close": 184.95
-      },
-      {
-        "date": "2026-05-27",
-        "close": 184.98
-      },
       {
         "date": "2026-05-28",
         "close": 186.68
@@ -50169,17 +49790,13 @@
       {
         "date": "2026-11-25",
         "close": 184.59
+      },
+      {
+        "date": "2026-11-27",
+        "close": 185.08
       }
     ],
     "PLD": [
-      {
-        "date": "2026-05-26",
-        "close": 146.94
-      },
-      {
-        "date": "2026-05-27",
-        "close": 146.52
-      },
       {
         "date": "2026-05-28",
         "close": 145.64
@@ -50687,6 +50304,10 @@
       {
         "date": "2026-11-25",
         "close": 127.03
+      },
+      {
+        "date": "2026-11-27",
+        "close": 127.06
       }
     ]
   }
